@@ -1,0 +1,4412 @@
+Location,Period,Rural,Total,Urban
+Afghanistan,2000,20.0,27.0,55.0
+Afghanistan,2001,20.0,27.0,55.0
+Afghanistan,2002,22.0,30.0,57.0
+Afghanistan,2003,24.0,32.0,58.0
+Afghanistan,2004,26.0,34.0,60.0
+Afghanistan,2005,29.0,36.0,62.0
+Afghanistan,2006,31.0,39.0,64.0
+Afghanistan,2007,33.0,41.0,66.0
+Afghanistan,2008,36.0,44.0,69.0
+Afghanistan,2009,39.0,46.0,71.0
+Afghanistan,2010,41.0,49.0,73.0
+Afghanistan,2011,44.0,51.0,75.0
+Afghanistan,2012,47.0,54.0,78.0
+Afghanistan,2013,49.0,57.0,80.0
+Afghanistan,2014,52.0,60.0,82.0
+Afghanistan,2015,55.0,62.0,84.0
+Afghanistan,2016,58.0,65.0,87.0
+Afghanistan,2017,61.0,68.0,89.0
+Afghanistan,2018,64.0,71.0,91.0
+Afghanistan,2019,67.0,74.0,94.0
+Afghanistan,2020,70.0,77.0,96.0
+Afghanistan,2021,73.0,80.0,99.0
+Afghanistan,2022,76.0,82.0,99.0
+Albania,2000,80.0,86.0,95.0
+Albania,2001,81.0,87.0,95.0
+Albania,2002,82.0,87.0,95.0
+Albania,2003,82.0,88.0,95.0
+Albania,2004,83.0,89.0,95.0
+Albania,2005,84.0,89.0,95.0
+Albania,2006,84.0,90.0,95.0
+Albania,2007,85.0,90.0,95.0
+Albania,2008,86.0,90.0,95.0
+Albania,2009,87.0,91.0,95.0
+Albania,2010,87.0,91.0,95.0
+Albania,2011,88.0,92.0,95.0
+Albania,2012,89.0,92.0,95.0
+Albania,2013,89.0,93.0,95.0
+Albania,2014,90.0,93.0,95.0
+Albania,2015,91.0,93.0,95.0
+Albania,2016,91.0,94.0,95.0
+Albania,2017,92.0,94.0,96.0
+Albania,2018,93.0,94.0,96.0
+Albania,2019,93.0,95.0,96.0
+Albania,2020,94.0,95.0,96.0
+Albania,2021,94.0,95.0,96.0
+Albania,2022,94.0,95.0,96.0
+Algeria,2000,83.0,90.0,94.0
+Algeria,2001,84.0,90.0,94.0
+Algeria,2002,84.0,90.0,94.0
+Algeria,2003,84.0,91.0,94.0
+Algeria,2004,85.0,91.0,94.0
+Algeria,2005,85.0,91.0,95.0
+Algeria,2006,85.0,91.0,95.0
+Algeria,2007,86.0,92.0,95.0
+Algeria,2008,86.0,92.0,95.0
+Algeria,2009,86.0,92.0,95.0
+Algeria,2010,87.0,92.0,95.0
+Algeria,2011,87.0,93.0,95.0
+Algeria,2012,87.0,93.0,95.0
+Algeria,2013,88.0,93.0,95.0
+Algeria,2014,88.0,93.0,95.0
+Algeria,2015,88.0,93.0,95.0
+Algeria,2016,89.0,94.0,96.0
+Algeria,2017,89.0,94.0,96.0
+Algeria,2018,89.0,94.0,96.0
+Algeria,2019,90.0,94.0,96.0
+Algeria,2020,90.0,94.0,96.0
+Algeria,2021,90.0,95.0,96.0
+Algeria,2022,90.0,95.0,96.0
+Andorra,2000,100.0,100.0,100.0
+Andorra,2001,100.0,100.0,100.0
+Andorra,2002,100.0,100.0,100.0
+Andorra,2003,100.0,100.0,100.0
+Andorra,2004,100.0,100.0,100.0
+Andorra,2005,100.0,100.0,100.0
+Andorra,2006,100.0,100.0,100.0
+Andorra,2007,100.0,100.0,100.0
+Andorra,2008,100.0,100.0,100.0
+Andorra,2009,100.0,100.0,100.0
+Andorra,2010,100.0,100.0,100.0
+Andorra,2011,100.0,100.0,100.0
+Andorra,2012,100.0,100.0,100.0
+Andorra,2013,100.0,100.0,100.0
+Andorra,2014,100.0,100.0,100.0
+Andorra,2015,100.0,100.0,100.0
+Andorra,2016,100.0,100.0,100.0
+Andorra,2017,100.0,100.0,100.0
+Andorra,2018,100.0,100.0,100.0
+Andorra,2019,100.0,100.0,100.0
+Andorra,2020,100.0,100.0,100.0
+Andorra,2021,100.0,100.0,100.0
+Andorra,2022,100.0,100.0,100.0
+Angola,2000,21.0,41.0,61.0
+Angola,2001,22.0,42.0,62.0
+Angola,2002,22.0,43.0,63.0
+Angola,2003,22.0,44.0,63.0
+Angola,2004,23.0,45.0,64.0
+Angola,2005,23.0,46.0,65.0
+Angola,2006,23.0,47.0,65.0
+Angola,2007,24.0,48.0,66.0
+Angola,2008,24.0,49.0,66.0
+Angola,2009,25.0,50.0,67.0
+Angola,2010,25.0,50.0,68.0
+Angola,2011,25.0,51.0,68.0
+Angola,2012,26.0,52.0,69.0
+Angola,2013,26.0,53.0,69.0
+Angola,2014,26.0,54.0,70.0
+Angola,2015,27.0,54.0,70.0
+Angola,2016,27.0,55.0,71.0
+Angola,2017,27.0,56.0,71.0
+Angola,2018,28.0,57.0,72.0
+Angola,2019,28.0,57.0,72.0
+Angola,2020,28.0,57.0,72.0
+Angola,2021,28.0,57.0,72.0
+Angola,2022,28.0,58.0,72.0
+Antigua and Barbuda,2009,98.0,98.0,98.0
+Antigua and Barbuda,2010,98.0,98.0,98.0
+Antigua and Barbuda,2011,98.0,98.0,98.0
+Antigua and Barbuda,2012,98.0,98.0,98.0
+Antigua and Barbuda,2013,98.0,98.0,98.0
+Antigua and Barbuda,2014,98.0,98.0,98.0
+Antigua and Barbuda,2015,98.0,98.0,98.0
+Antigua and Barbuda,2016,98.0,98.0,98.0
+Antigua and Barbuda,2017,98.0,98.0,98.0
+Antigua and Barbuda,2018,98.0,98.0,98.0
+Antigua and Barbuda,2019,98.0,98.0,98.0
+Antigua and Barbuda,2020,98.0,98.0,98.0
+Antigua and Barbuda,2021,98.0,98.0,98.0
+Antigua and Barbuda,2022,98.0,98.0,98.0
+Argentina,2000,76.0,96.0,99.0
+Argentina,2001,78.0,97.0,99.0
+Argentina,2002,79.0,97.0,99.0
+Argentina,2003,81.0,97.0,99.0
+Argentina,2004,82.0,97.0,99.0
+Argentina,2005,83.0,97.0,99.0
+Argentina,2006,85.0,98.0,99.0
+Argentina,2007,86.0,98.0,99.0
+Argentina,2008,87.0,98.0,99.0
+Argentina,2009,89.0,98.0,99.0
+Argentina,2010,90.0,98.0,99.0
+Argentina,2011,92.0,99.0,99.0
+Argentina,2012,93.0,99.0,99.0
+Argentina,2013,93.0,99.0,99.0
+Argentina,2014,93.0,99.0,99.0
+Argentina,2015,93.0,99.0,100.0
+Argentina,2016,93.0,99.0,100.0
+Argentina,2017,0.0,0.0,100.0
+Argentina,2018,0.0,0.0,100.0
+Argentina,2019,0.0,0.0,100.0
+Argentina,2020,0.0,0.0,100.0
+Argentina,2021,0.0,0.0,100.0
+Argentina,2022,0.0,0.0,100.0
+Armenia,2000,89.0,95.0,99.0
+Armenia,2001,90.0,96.0,99.0
+Armenia,2002,90.0,96.0,99.0
+Armenia,2003,91.0,96.0,99.0
+Armenia,2004,92.0,96.0,99.0
+Armenia,2005,92.0,97.0,99.0
+Armenia,2006,93.0,97.0,99.0
+Armenia,2007,94.0,97.0,99.0
+Armenia,2008,94.0,98.0,99.0
+Armenia,2009,95.0,98.0,99.0
+Armenia,2010,96.0,98.0,99.0
+Armenia,2011,96.0,98.0,100.0
+Armenia,2012,97.0,99.0,100.0
+Armenia,2013,98.0,99.0,100.0
+Armenia,2014,99.0,99.0,100.0
+Armenia,2015,99.0,100.0,100.0
+Armenia,2016,99.0,100.0,100.0
+Armenia,2017,99.0,100.0,100.0
+Armenia,2018,100.0,100.0,100.0
+Armenia,2019,100.0,100.0,100.0
+Armenia,2020,100.0,100.0,100.0
+Armenia,2021,100.0,100.0,100.0
+Armenia,2022,100.0,100.0,100.0
+Australia,2000,99.0,100.0,100.0
+Australia,2001,99.0,100.0,100.0
+Australia,2002,99.0,100.0,100.0
+Australia,2003,99.0,100.0,100.0
+Australia,2004,99.0,100.0,100.0
+Australia,2005,99.0,100.0,100.0
+Australia,2006,99.0,100.0,100.0
+Australia,2007,99.0,100.0,100.0
+Australia,2008,100.0,100.0,100.0
+Australia,2009,100.0,100.0,100.0
+Australia,2010,100.0,100.0,100.0
+Australia,2011,100.0,100.0,100.0
+Australia,2012,100.0,100.0,100.0
+Australia,2013,100.0,100.0,100.0
+Australia,2014,100.0,100.0,100.0
+Australia,2015,100.0,100.0,100.0
+Australia,2016,100.0,100.0,100.0
+Australia,2017,100.0,100.0,100.0
+Australia,2018,100.0,100.0,100.0
+Australia,2019,100.0,100.0,100.0
+Australia,2020,100.0,100.0,100.0
+Australia,2021,100.0,100.0,100.0
+Australia,2022,100.0,100.0,100.0
+Austria,2000,100.0,100.0,100.0
+Austria,2001,100.0,100.0,100.0
+Austria,2002,100.0,100.0,100.0
+Austria,2003,100.0,100.0,100.0
+Austria,2004,100.0,100.0,100.0
+Austria,2005,100.0,100.0,100.0
+Austria,2006,100.0,100.0,100.0
+Austria,2007,100.0,100.0,100.0
+Austria,2008,100.0,100.0,100.0
+Austria,2009,100.0,100.0,100.0
+Austria,2010,100.0,100.0,100.0
+Austria,2011,100.0,100.0,100.0
+Austria,2012,100.0,100.0,100.0
+Austria,2013,100.0,100.0,100.0
+Austria,2014,100.0,100.0,100.0
+Austria,2015,100.0,100.0,100.0
+Austria,2016,100.0,100.0,100.0
+Austria,2017,100.0,100.0,100.0
+Austria,2018,100.0,100.0,100.0
+Austria,2019,100.0,100.0,100.0
+Austria,2020,100.0,100.0,100.0
+Austria,2021,100.0,100.0,100.0
+Austria,2022,100.0,100.0,100.0
+Azerbaijan,2000,54.0,73.0,92.0
+Azerbaijan,2001,56.0,75.0,92.0
+Azerbaijan,2002,58.0,76.0,93.0
+Azerbaijan,2003,60.0,77.0,93.0
+Azerbaijan,2004,62.0,78.0,94.0
+Azerbaijan,2005,64.0,80.0,94.0
+Azerbaijan,2006,66.0,81.0,95.0
+Azerbaijan,2007,68.0,82.0,95.0
+Azerbaijan,2008,70.0,83.0,96.0
+Azerbaijan,2009,72.0,85.0,96.0
+Azerbaijan,2010,74.0,86.0,97.0
+Azerbaijan,2011,76.0,87.0,97.0
+Azerbaijan,2012,78.0,89.0,98.0
+Azerbaijan,2013,80.0,90.0,98.0
+Azerbaijan,2014,82.0,91.0,99.0
+Azerbaijan,2015,85.0,93.0,99.0
+Azerbaijan,2016,86.0,93.0,99.0
+Azerbaijan,2017,87.0,94.0,100.0
+Azerbaijan,2018,89.0,95.0,100.0
+Azerbaijan,2019,90.0,96.0,100.0
+Azerbaijan,2020,92.0,96.0,100.0
+Azerbaijan,2021,93.0,97.0,100.0
+Azerbaijan,2022,94.0,98.0,100.0
+Bahamas,2000,0.0,98.0,0.0
+Bahamas,2001,0.0,98.0,0.0
+Bahamas,2002,0.0,98.0,0.0
+Bahamas,2003,0.0,98.0,0.0
+Bahamas,2004,0.0,98.0,0.0
+Bahamas,2005,0.0,98.0,0.0
+Bahamas,2006,0.0,99.0,0.0
+Bahamas,2007,0.0,99.0,0.0
+Bahamas,2008,0.0,99.0,0.0
+Bahamas,2009,0.0,99.0,0.0
+Bahamas,2010,0.0,99.0,0.0
+Bahamas,2011,0.0,99.0,0.0
+Bahamas,2012,0.0,99.0,0.0
+Bahamas,2013,0.0,99.0,0.0
+Bahamas,2014,0.0,99.0,0.0
+Bahamas,2015,0.0,99.0,0.0
+Bahamas,2016,0.0,99.0,0.0
+Bahamas,2017,0.0,99.0,0.0
+Bahamas,2018,0.0,99.0,0.0
+Bahamas,2019,0.0,99.0,0.0
+Bahrain,2000,0.0,100.0,0.0
+Bahrain,2001,0.0,100.0,0.0
+Bahrain,2002,0.0,100.0,0.0
+Bahrain,2003,0.0,100.0,0.0
+Bahrain,2004,0.0,100.0,0.0
+Bahrain,2005,0.0,100.0,0.0
+Bahrain,2006,0.0,100.0,0.0
+Bahrain,2007,0.0,100.0,0.0
+Bahrain,2008,0.0,100.0,0.0
+Bahrain,2009,0.0,100.0,0.0
+Bahrain,2010,0.0,100.0,0.0
+Bahrain,2011,0.0,100.0,0.0
+Bahrain,2012,0.0,100.0,0.0
+Bahrain,2013,0.0,100.0,0.0
+Bahrain,2014,0.0,100.0,0.0
+Bahrain,2015,0.0,100.0,0.0
+Bahrain,2016,0.0,100.0,0.0
+Bahrain,2017,0.0,100.0,0.0
+Bahrain,2018,0.0,100.0,0.0
+Bahrain,2019,0.0,100.0,0.0
+Bahrain,2020,0.0,100.0,0.0
+Bahrain,2021,0.0,100.0,0.0
+Bahrain,2022,0.0,100.0,0.0
+Bangladesh,2000,94.0,95.0,98.0
+Bangladesh,2001,94.0,95.0,98.0
+Bangladesh,2002,94.0,95.0,98.0
+Bangladesh,2003,94.0,95.0,99.0
+Bangladesh,2004,94.0,96.0,99.0
+Bangladesh,2005,95.0,96.0,99.0
+Bangladesh,2006,95.0,96.0,98.0
+Bangladesh,2007,95.0,96.0,98.0
+Bangladesh,2008,95.0,96.0,98.0
+Bangladesh,2009,96.0,96.0,98.0
+Bangladesh,2010,96.0,97.0,98.0
+Bangladesh,2011,96.0,97.0,98.0
+Bangladesh,2012,96.0,97.0,98.0
+Bangladesh,2013,96.0,97.0,98.0
+Bangladesh,2014,97.0,97.0,98.0
+Bangladesh,2015,97.0,97.0,98.0
+Bangladesh,2016,97.0,97.0,98.0
+Bangladesh,2017,97.0,98.0,98.0
+Bangladesh,2018,98.0,98.0,98.0
+Bangladesh,2019,98.0,98.0,98.0
+Bangladesh,2020,98.0,98.0,98.0
+Bangladesh,2021,98.0,98.0,98.0
+Bangladesh,2022,98.0,98.0,98.0
+Barbados,2000,0.0,98.0,0.0
+Barbados,2001,0.0,98.0,0.0
+Barbados,2002,0.0,98.0,0.0
+Barbados,2003,0.0,98.0,0.0
+Barbados,2004,0.0,98.0,0.0
+Barbados,2005,0.0,98.0,0.0
+Barbados,2006,0.0,98.0,0.0
+Barbados,2007,0.0,98.0,0.0
+Barbados,2008,0.0,98.0,0.0
+Barbados,2009,0.0,98.0,0.0
+Barbados,2010,0.0,98.0,0.0
+Barbados,2011,0.0,98.0,0.0
+Barbados,2012,0.0,98.0,0.0
+Barbados,2013,0.0,98.0,0.0
+Barbados,2014,0.0,98.0,0.0
+Barbados,2015,0.0,98.0,0.0
+Barbados,2016,0.0,98.0,0.0
+Barbados,2017,0.0,98.0,0.0
+Barbados,2018,0.0,99.0,0.0
+Barbados,2019,0.0,99.0,0.0
+Barbados,2020,0.0,99.0,0.0
+Barbados,2021,0.0,99.0,0.0
+Barbados,2022,0.0,99.0,0.0
+Belarus,2000,99.0,98.0,98.0
+Belarus,2001,99.0,98.0,98.0
+Belarus,2002,99.0,98.0,98.0
+Belarus,2003,99.0,98.0,98.0
+Belarus,2004,99.0,98.0,98.0
+Belarus,2005,99.0,98.0,98.0
+Belarus,2006,99.0,98.0,98.0
+Belarus,2007,99.0,98.0,98.0
+Belarus,2008,99.0,98.0,98.0
+Belarus,2009,99.0,98.0,98.0
+Belarus,2010,98.0,98.0,98.0
+Belarus,2011,98.0,98.0,98.0
+Belarus,2012,98.0,98.0,98.0
+Belarus,2013,98.0,98.0,98.0
+Belarus,2014,98.0,98.0,98.0
+Belarus,2015,98.0,98.0,99.0
+Belarus,2016,97.0,98.0,99.0
+Belarus,2017,97.0,98.0,99.0
+Belarus,2018,97.0,98.0,99.0
+Belarus,2019,97.0,98.0,99.0
+Belarus,2020,97.0,99.0,99.0
+Belarus,2021,98.0,99.0,99.0
+Belarus,2022,98.0,99.0,99.0
+Belgium,2000,100.0,100.0,100.0
+Belgium,2001,100.0,100.0,100.0
+Belgium,2002,100.0,100.0,100.0
+Belgium,2003,100.0,100.0,100.0
+Belgium,2004,100.0,100.0,100.0
+Belgium,2005,100.0,100.0,100.0
+Belgium,2006,100.0,100.0,100.0
+Belgium,2007,100.0,100.0,100.0
+Belgium,2008,100.0,100.0,100.0
+Belgium,2009,100.0,100.0,100.0
+Belgium,2010,100.0,100.0,100.0
+Belgium,2011,100.0,100.0,100.0
+Belgium,2012,100.0,100.0,100.0
+Belgium,2013,100.0,100.0,100.0
+Belgium,2014,100.0,100.0,100.0
+Belgium,2015,100.0,100.0,100.0
+Belgium,2016,100.0,100.0,100.0
+Belgium,2017,100.0,100.0,100.0
+Belgium,2018,100.0,100.0,100.0
+Belgium,2019,100.0,100.0,100.0
+Belgium,2020,100.0,100.0,100.0
+Belgium,2021,100.0,100.0,100.0
+Belgium,2022,100.0,100.0,100.0
+Belize,2000,84.0,87.0,91.0
+Belize,2001,85.0,88.0,92.0
+Belize,2002,86.0,89.0,92.0
+Belize,2003,87.0,89.0,93.0
+Belize,2004,87.0,90.0,93.0
+Belize,2005,88.0,91.0,94.0
+Belize,2006,89.0,91.0,94.0
+Belize,2007,89.0,92.0,95.0
+Belize,2008,90.0,93.0,96.0
+Belize,2009,91.0,93.0,96.0
+Belize,2010,92.0,94.0,97.0
+Belize,2011,93.0,95.0,97.0
+Belize,2012,93.0,95.0,98.0
+Belize,2013,94.0,96.0,98.0
+Belize,2014,95.0,97.0,99.0
+Belize,2015,96.0,97.0,99.0
+Belize,2016,96.0,98.0,99.0
+Belize,2017,97.0,98.0,99.0
+Belize,2018,98.0,98.0,99.0
+Belize,2019,98.0,98.0,99.0
+Belize,2020,98.0,98.0,99.0
+Belize,2021,98.0,98.0,99.0
+Belize,2022,98.0,98.0,99.0
+Benin,2000,52.0,62.0,77.0
+Benin,2001,53.0,62.0,77.0
+Benin,2002,53.0,62.0,77.0
+Benin,2003,53.0,63.0,77.0
+Benin,2004,54.0,63.0,77.0
+Benin,2005,54.0,63.0,76.0
+Benin,2006,55.0,63.0,76.0
+Benin,2007,55.0,64.0,76.0
+Benin,2008,55.0,64.0,76.0
+Benin,2009,56.0,64.0,76.0
+Benin,2010,56.0,65.0,76.0
+Benin,2011,56.0,65.0,76.0
+Benin,2012,57.0,65.0,75.0
+Benin,2013,57.0,65.0,75.0
+Benin,2014,58.0,66.0,75.0
+Benin,2015,58.0,66.0,75.0
+Benin,2016,58.0,66.0,75.0
+Benin,2017,59.0,66.0,75.0
+Benin,2018,59.0,66.0,74.0
+Benin,2019,60.0,67.0,74.0
+Benin,2020,60.0,67.0,74.0
+Benin,2021,60.0,67.0,74.0
+Benin,2022,61.0,67.0,74.0
+Bhutan,2000,78.0,82.0,96.0
+Bhutan,2001,79.0,83.0,96.0
+Bhutan,2002,80.0,85.0,96.0
+Bhutan,2003,82.0,86.0,96.0
+Bhutan,2004,83.0,87.0,96.0
+Bhutan,2005,84.0,88.0,96.0
+Bhutan,2006,85.0,89.0,97.0
+Bhutan,2007,87.0,90.0,97.0
+Bhutan,2008,88.0,91.0,97.0
+Bhutan,2009,89.0,92.0,97.0
+Bhutan,2010,91.0,93.0,97.0
+Bhutan,2011,92.0,94.0,98.0
+Bhutan,2012,93.0,95.0,98.0
+Bhutan,2013,94.0,96.0,98.0
+Bhutan,2014,96.0,97.0,98.0
+Bhutan,2015,97.0,97.0,98.0
+Bhutan,2016,98.0,98.0,98.0
+Bhutan,2017,99.0,99.0,99.0
+Bhutan,2018,99.0,99.0,99.0
+Bhutan,2019,99.0,99.0,99.0
+Bhutan,2020,99.0,99.0,99.0
+Bhutan,2021,99.0,99.0,100.0
+Bhutan,2022,99.0,99.0,100.0
+Bolivia (Plurinational State of),2000,57.0,81.0,95.0
+Bolivia (Plurinational State of),2001,58.0,81.0,96.0
+Bolivia (Plurinational State of),2002,59.0,82.0,96.0
+Bolivia (Plurinational State of),2003,60.0,83.0,96.0
+Bolivia (Plurinational State of),2004,61.0,84.0,96.0
+Bolivia (Plurinational State of),2005,63.0,84.0,96.0
+Bolivia (Plurinational State of),2006,64.0,85.0,97.0
+Bolivia (Plurinational State of),2007,65.0,86.0,97.0
+Bolivia (Plurinational State of),2008,66.0,86.0,97.0
+Bolivia (Plurinational State of),2009,67.0,87.0,97.0
+Bolivia (Plurinational State of),2010,68.0,87.0,97.0
+Bolivia (Plurinational State of),2011,69.0,88.0,97.0
+Bolivia (Plurinational State of),2012,70.0,89.0,98.0
+Bolivia (Plurinational State of),2013,71.0,89.0,98.0
+Bolivia (Plurinational State of),2014,72.0,90.0,98.0
+Bolivia (Plurinational State of),2015,73.0,90.0,98.0
+Bolivia (Plurinational State of),2016,75.0,91.0,98.0
+Bolivia (Plurinational State of),2017,76.0,91.0,99.0
+Bolivia (Plurinational State of),2018,77.0,92.0,99.0
+Bolivia (Plurinational State of),2019,78.0,93.0,99.0
+Bolivia (Plurinational State of),2020,79.0,93.0,99.0
+Bolivia (Plurinational State of),2021,80.0,94.0,99.0
+Bolivia (Plurinational State of),2022,81.0,94.0,100.0
+Bosnia and Herzegovina,2000,96.0,97.0,99.0
+Bosnia and Herzegovina,2001,96.0,97.0,98.0
+Bosnia and Herzegovina,2002,96.0,97.0,98.0
+Bosnia and Herzegovina,2003,97.0,97.0,98.0
+Bosnia and Herzegovina,2004,97.0,97.0,98.0
+Bosnia and Herzegovina,2005,97.0,97.0,97.0
+Bosnia and Herzegovina,2006,97.0,97.0,97.0
+Bosnia and Herzegovina,2007,97.0,97.0,97.0
+Bosnia and Herzegovina,2008,97.0,97.0,96.0
+Bosnia and Herzegovina,2009,97.0,97.0,96.0
+Bosnia and Herzegovina,2010,97.0,97.0,96.0
+Bosnia and Herzegovina,2011,97.0,97.0,96.0
+Bosnia and Herzegovina,2012,97.0,96.0,95.0
+Bosnia and Herzegovina,2013,97.0,96.0,95.0
+Bosnia and Herzegovina,2014,97.0,96.0,95.0
+Bosnia and Herzegovina,2015,97.0,96.0,95.0
+Bosnia and Herzegovina,2016,97.0,96.0,95.0
+Bosnia and Herzegovina,2017,97.0,96.0,95.0
+Bosnia and Herzegovina,2018,97.0,96.0,95.0
+Bosnia and Herzegovina,2019,97.0,96.0,95.0
+Bosnia and Herzegovina,2020,97.0,96.0,95.0
+Bosnia and Herzegovina,2021,97.0,96.0,95.0
+Bosnia and Herzegovina,2022,97.0,96.0,95.0
+Botswana,2000,54.0,75.0,94.0
+Botswana,2001,54.0,76.0,94.0
+Botswana,2002,54.0,76.0,94.0
+Botswana,2003,54.0,76.0,94.0
+Botswana,2004,54.0,76.0,94.0
+Botswana,2005,54.0,76.0,94.0
+Botswana,2006,56.0,77.0,94.0
+Botswana,2007,58.0,79.0,94.0
+Botswana,2008,59.0,80.0,95.0
+Botswana,2009,61.0,82.0,95.0
+Botswana,2010,63.0,83.0,95.0
+Botswana,2011,65.0,84.0,95.0
+Botswana,2012,67.0,85.0,96.0
+Botswana,2013,68.0,87.0,96.0
+Botswana,2014,70.0,88.0,96.0
+Botswana,2015,72.0,89.0,97.0
+Botswana,2016,74.0,89.0,97.0
+Botswana,2017,76.0,90.0,97.0
+Botswana,2018,77.0,91.0,97.0
+Botswana,2019,79.0,92.0,98.0
+Botswana,2020,79.0,92.0,98.0
+Botswana,2021,80.0,92.0,98.0
+Botswana,2022,80.0,93.0,98.0
+Brazil,2000,73.0,93.0,98.0
+Brazil,2001,74.0,94.0,98.0
+Brazil,2002,75.0,94.0,98.0
+Brazil,2003,76.0,94.0,98.0
+Brazil,2004,77.0,95.0,98.0
+Brazil,2005,78.0,95.0,99.0
+Brazil,2006,79.0,95.0,99.0
+Brazil,2007,81.0,96.0,99.0
+Brazil,2008,82.0,96.0,99.0
+Brazil,2009,83.0,96.0,99.0
+Brazil,2010,84.0,97.0,99.0
+Brazil,2011,85.0,97.0,99.0
+Brazil,2012,86.0,97.0,99.0
+Brazil,2013,87.0,97.0,99.0
+Brazil,2014,88.0,98.0,99.0
+Brazil,2015,89.0,98.0,99.0
+Brazil,2016,89.0,98.0,99.0
+Brazil,2017,91.0,98.0,100.0
+Brazil,2018,92.0,99.0,100.0
+Brazil,2019,93.0,99.0,100.0
+Brazil,2020,96.0,99.0,100.0
+Brazil,2021,98.0,100.0,100.0
+Brazil,2022,98.0,100.0,100.0
+Brunei Darussalam,2000,0.0,100.0,0.0
+Brunei Darussalam,2001,0.0,100.0,0.0
+Brunei Darussalam,2002,0.0,100.0,0.0
+Brunei Darussalam,2003,0.0,100.0,0.0
+Brunei Darussalam,2004,0.0,100.0,0.0
+Brunei Darussalam,2005,0.0,100.0,0.0
+Brunei Darussalam,2006,0.0,100.0,0.0
+Brunei Darussalam,2007,0.0,100.0,0.0
+Brunei Darussalam,2008,0.0,100.0,0.0
+Brunei Darussalam,2009,0.0,100.0,0.0
+Brunei Darussalam,2010,0.0,100.0,0.0
+Brunei Darussalam,2011,0.0,100.0,0.0
+Brunei Darussalam,2012,0.0,100.0,0.0
+Brunei Darussalam,2013,0.0,100.0,0.0
+Brunei Darussalam,2014,0.0,100.0,0.0
+Brunei Darussalam,2015,0.0,100.0,0.0
+Brunei Darussalam,2016,0.0,100.0,0.0
+Brunei Darussalam,2017,0.0,100.0,0.0
+Brunei Darussalam,2018,0.0,100.0,0.0
+Brunei Darussalam,2019,0.0,100.0,0.0
+Brunei Darussalam,2020,0.0,100.0,0.0
+Brunei Darussalam,2021,0.0,100.0,0.0
+Brunei Darussalam,2022,0.0,100.0,0.0
+Bulgaria,2000,100.0,100.0,100.0
+Bulgaria,2001,100.0,100.0,100.0
+Bulgaria,2002,100.0,100.0,100.0
+Bulgaria,2003,99.0,100.0,100.0
+Bulgaria,2004,99.0,100.0,100.0
+Bulgaria,2005,99.0,100.0,100.0
+Bulgaria,2006,99.0,100.0,100.0
+Bulgaria,2007,99.0,100.0,100.0
+Bulgaria,2008,99.0,100.0,100.0
+Bulgaria,2009,99.0,99.0,100.0
+Bulgaria,2010,99.0,99.0,100.0
+Bulgaria,2011,99.0,99.0,100.0
+Bulgaria,2012,98.0,99.0,100.0
+Bulgaria,2013,98.0,99.0,100.0
+Bulgaria,2014,98.0,99.0,100.0
+Bulgaria,2015,98.0,99.0,100.0
+Bulgaria,2016,98.0,99.0,100.0
+Bulgaria,2017,98.0,99.0,100.0
+Bulgaria,2018,98.0,99.0,100.0
+Bulgaria,2019,98.0,99.0,100.0
+Bulgaria,2020,98.0,99.0,100.0
+Bulgaria,2021,97.0,99.0,100.0
+Bulgaria,2022,97.0,99.0,100.0
+Burkina Faso,2000,53.0,58.0,79.0
+Burkina Faso,2001,53.0,58.0,79.0
+Burkina Faso,2002,52.0,57.0,79.0
+Burkina Faso,2003,51.0,57.0,79.0
+Burkina Faso,2004,50.0,56.0,79.0
+Burkina Faso,2005,49.0,56.0,79.0
+Burkina Faso,2006,49.0,55.0,79.0
+Burkina Faso,2007,48.0,55.0,79.0
+Burkina Faso,2008,47.0,54.0,79.0
+Burkina Faso,2009,46.0,54.0,80.0
+Burkina Faso,2010,45.0,53.0,80.0
+Burkina Faso,2011,44.0,53.0,80.0
+Burkina Faso,2012,43.0,52.0,80.0
+Burkina Faso,2013,42.0,52.0,80.0
+Burkina Faso,2014,41.0,51.0,80.0
+Burkina Faso,2015,40.0,51.0,80.0
+Burkina Faso,2016,39.0,50.0,80.0
+Burkina Faso,2017,38.0,50.0,80.0
+Burkina Faso,2018,37.0,49.0,80.0
+Burkina Faso,2019,36.0,49.0,80.0
+Burkina Faso,2020,34.0,49.0,81.0
+Burkina Faso,2021,35.0,49.0,81.0
+Burkina Faso,2022,35.0,50.0,81.0
+Burundi,2000,48.0,51.0,82.0
+Burundi,2001,48.0,51.0,83.0
+Burundi,2002,49.0,52.0,83.0
+Burundi,2003,49.0,52.0,83.0
+Burundi,2004,50.0,53.0,84.0
+Burundi,2005,50.0,54.0,84.0
+Burundi,2006,51.0,54.0,85.0
+Burundi,2007,51.0,55.0,85.0
+Burundi,2008,52.0,55.0,86.0
+Burundi,2009,52.0,56.0,86.0
+Burundi,2010,53.0,57.0,87.0
+Burundi,2011,53.0,57.0,87.0
+Burundi,2012,54.0,58.0,88.0
+Burundi,2013,55.0,58.0,88.0
+Burundi,2014,55.0,59.0,88.0
+Burundi,2015,56.0,60.0,89.0
+Burundi,2016,56.0,60.0,89.0
+Burundi,2017,57.0,61.0,90.0
+Burundi,2018,57.0,61.0,90.0
+Burundi,2019,58.0,62.0,91.0
+Burundi,2020,58.0,62.0,91.0
+Burundi,2021,58.0,62.0,91.0
+Burundi,2022,58.0,62.0,91.0
+Cabo Verde,2000,70.0,79.0,87.0
+Cabo Verde,2001,70.0,79.0,87.0
+Cabo Verde,2002,70.0,80.0,87.0
+Cabo Verde,2003,70.0,80.0,87.0
+Cabo Verde,2004,70.0,80.0,88.0
+Cabo Verde,2005,71.0,81.0,88.0
+Cabo Verde,2006,71.0,81.0,89.0
+Cabo Verde,2007,71.0,82.0,89.0
+Cabo Verde,2008,71.0,82.0,89.0
+Cabo Verde,2009,71.0,83.0,90.0
+Cabo Verde,2010,72.0,83.0,90.0
+Cabo Verde,2011,72.0,83.0,90.0
+Cabo Verde,2012,72.0,84.0,91.0
+Cabo Verde,2013,72.0,84.0,91.0
+Cabo Verde,2014,73.0,85.0,92.0
+Cabo Verde,2015,74.0,85.0,92.0
+Cabo Verde,2016,75.0,86.0,92.0
+Cabo Verde,2017,77.0,87.0,93.0
+Cabo Verde,2018,78.0,88.0,93.0
+Cabo Verde,2019,80.0,89.0,93.0
+Cabo Verde,2020,81.0,89.0,93.0
+Cabo Verde,2021,83.0,90.0,93.0
+Cabo Verde,2022,83.0,90.0,93.0
+Cambodia,2000,46.0,52.0,80.0
+Cambodia,2001,47.0,54.0,80.0
+Cambodia,2002,49.0,55.0,81.0
+Cambodia,2003,51.0,57.0,82.0
+Cambodia,2004,53.0,59.0,83.0
+Cambodia,2005,54.0,60.0,84.0
+Cambodia,2006,55.0,61.0,84.0
+Cambodia,2007,57.0,62.0,85.0
+Cambodia,2008,58.0,63.0,86.0
+Cambodia,2009,59.0,65.0,86.0
+Cambodia,2010,61.0,66.0,87.0
+Cambodia,2011,62.0,67.0,87.0
+Cambodia,2012,63.0,68.0,88.0
+Cambodia,2013,64.0,69.0,89.0
+Cambodia,2014,65.0,70.0,89.0
+Cambodia,2015,66.0,71.0,90.0
+Cambodia,2016,67.0,72.0,90.0
+Cambodia,2017,68.0,73.0,91.0
+Cambodia,2018,69.0,74.0,91.0
+Cambodia,2019,70.0,75.0,92.0
+Cambodia,2020,71.0,76.0,93.0
+Cambodia,2021,72.0,77.0,93.0
+Cambodia,2022,73.0,78.0,94.0
+Cameroon,2000,34.0,56.0,83.0
+Cameroon,2001,35.0,57.0,83.0
+Cameroon,2002,36.0,58.0,83.0
+Cameroon,2003,37.0,59.0,83.0
+Cameroon,2004,38.0,59.0,83.0
+Cameroon,2005,39.0,60.0,82.0
+Cameroon,2006,40.0,61.0,82.0
+Cameroon,2007,40.0,61.0,82.0
+Cameroon,2008,41.0,62.0,82.0
+Cameroon,2009,42.0,63.0,82.0
+Cameroon,2010,43.0,63.0,82.0
+Cameroon,2011,44.0,64.0,82.0
+Cameroon,2012,45.0,64.0,82.0
+Cameroon,2013,45.0,65.0,82.0
+Cameroon,2014,46.0,65.0,82.0
+Cameroon,2015,47.0,66.0,82.0
+Cameroon,2016,48.0,67.0,82.0
+Cameroon,2017,48.0,67.0,82.0
+Cameroon,2018,49.0,68.0,82.0
+Cameroon,2019,50.0,68.0,82.0
+Cameroon,2020,51.0,68.0,81.0
+Cameroon,2021,52.0,69.0,81.0
+Cameroon,2022,52.0,70.0,82.0
+Canada,2000,98.0,99.0,100.0
+Canada,2001,98.0,99.0,100.0
+Canada,2002,98.0,99.0,100.0
+Canada,2003,98.0,99.0,100.0
+Canada,2004,98.0,99.0,100.0
+Canada,2005,98.0,99.0,99.0
+Canada,2006,98.0,99.0,99.0
+Canada,2007,98.0,99.0,99.0
+Canada,2008,98.0,99.0,99.0
+Canada,2009,98.0,99.0,99.0
+Canada,2010,99.0,99.0,99.0
+Canada,2011,99.0,99.0,99.0
+Canada,2012,99.0,99.0,99.0
+Canada,2013,99.0,99.0,99.0
+Canada,2014,99.0,99.0,99.0
+Canada,2015,99.0,99.0,99.0
+Canada,2016,99.0,99.0,99.0
+Canada,2017,99.0,99.0,99.0
+Canada,2018,99.0,99.0,99.0
+Canada,2019,99.0,99.0,99.0
+Canada,2020,99.0,99.0,99.0
+Canada,2021,99.0,99.0,99.0
+Canada,2022,99.0,99.0,99.0
+Central African Republic,2000,44.0,59.0,83.0
+Central African Republic,2001,44.0,58.0,81.0
+Central African Republic,2002,43.0,57.0,80.0
+Central African Republic,2003,42.0,55.0,78.0
+Central African Republic,2004,41.0,54.0,76.0
+Central African Republic,2005,40.0,53.0,75.0
+Central African Republic,2006,39.0,52.0,73.0
+Central African Republic,2007,38.0,51.0,71.0
+Central African Republic,2008,38.0,50.0,69.0
+Central African Republic,2009,37.0,49.0,68.0
+Central African Republic,2010,36.0,48.0,66.0
+Central African Republic,2011,35.0,47.0,64.0
+Central African Republic,2012,34.0,45.0,63.0
+Central African Republic,2013,33.0,44.0,61.0
+Central African Republic,2014,33.0,43.0,59.0
+Central African Republic,2015,32.0,42.0,58.0
+Central African Republic,2016,31.0,41.0,56.0
+Central African Republic,2017,30.0,40.0,54.0
+Central African Republic,2018,30.0,39.0,53.0
+Central African Republic,2019,29.0,38.0,51.0
+Central African Republic,2020,28.0,37.0,50.0
+Central African Republic,2021,27.0,36.0,48.0
+Central African Republic,2022,27.0,36.0,48.0
+Chad,2000,29.0,39.0,74.0
+Chad,2001,29.0,39.0,75.0
+Chad,2002,30.0,40.0,75.0
+Chad,2003,31.0,40.0,75.0
+Chad,2004,31.0,41.0,75.0
+Chad,2005,32.0,42.0,75.0
+Chad,2006,33.0,42.0,76.0
+Chad,2007,33.0,43.0,76.0
+Chad,2008,34.0,43.0,76.0
+Chad,2009,35.0,44.0,76.0
+Chad,2010,36.0,45.0,76.0
+Chad,2011,36.0,45.0,77.0
+Chad,2012,37.0,46.0,77.0
+Chad,2013,38.0,46.0,77.0
+Chad,2014,39.0,47.0,77.0
+Chad,2015,39.0,48.0,77.0
+Chad,2016,40.0,48.0,77.0
+Chad,2017,41.0,49.0,77.0
+Chad,2018,41.0,50.0,78.0
+Chad,2019,42.0,50.0,78.0
+Chad,2020,43.0,51.0,78.0
+Chad,2021,44.0,52.0,78.0
+Chad,2022,44.0,52.0,78.0
+Chile,2000,75.0,96.0,99.0
+Chile,2001,77.0,96.0,99.0
+Chile,2002,78.0,96.0,99.0
+Chile,2003,79.0,97.0,99.0
+Chile,2004,81.0,97.0,99.0
+Chile,2005,82.0,97.0,99.0
+Chile,2006,84.0,97.0,99.0
+Chile,2007,85.0,98.0,99.0
+Chile,2008,87.0,98.0,100.0
+Chile,2009,88.0,98.0,100.0
+Chile,2010,90.0,98.0,100.0
+Chile,2011,91.0,99.0,100.0
+Chile,2012,93.0,99.0,100.0
+Chile,2013,94.0,99.0,100.0
+Chile,2014,96.0,99.0,100.0
+Chile,2015,97.0,100.0,100.0
+Chile,2016,99.0,100.0,100.0
+Chile,2017,100.0,100.0,100.0
+Chile,2018,100.0,100.0,100.0
+Chile,2019,100.0,100.0,100.0
+Chile,2020,100.0,100.0,100.0
+Chile,2021,100.0,100.0,100.0
+Chile,2022,100.0,100.0,100.0
+China,2000,68.0,79.0,98.0
+China,2001,68.0,79.0,98.0
+China,2002,70.0,80.0,98.0
+China,2003,71.0,82.0,98.0
+China,2004,72.0,83.0,98.0
+China,2005,73.0,84.0,98.0
+China,2006,75.0,85.0,98.0
+China,2007,76.0,86.0,98.0
+China,2008,77.0,87.0,98.0
+China,2009,78.0,88.0,98.0
+China,2010,80.0,89.0,98.0
+China,2011,81.0,90.0,98.0
+China,2012,82.0,90.0,98.0
+China,2013,83.0,91.0,98.0
+China,2014,85.0,92.0,98.0
+China,2015,86.0,93.0,98.0
+China,2016,87.0,93.0,98.0
+China,2017,88.0,94.0,98.0
+China,2018,90.0,95.0,98.0
+China,2019,91.0,95.0,98.0
+China,2020,92.0,96.0,98.0
+China,2021,94.0,97.0,98.0
+China,2022,96.0,98.0,98.0
+Colombia,2000,74.0,92.0,98.0
+Colombia,2001,75.0,92.0,98.0
+Colombia,2002,75.0,93.0,98.0
+Colombia,2003,76.0,93.0,99.0
+Colombia,2004,76.0,93.0,99.0
+Colombia,2005,77.0,93.0,99.0
+Colombia,2006,77.0,94.0,99.0
+Colombia,2007,78.0,94.0,99.0
+Colombia,2008,79.0,94.0,99.0
+Colombia,2009,79.0,95.0,99.0
+Colombia,2010,80.0,95.0,99.0
+Colombia,2011,80.0,95.0,99.0
+Colombia,2012,81.0,95.0,99.0
+Colombia,2013,81.0,96.0,99.0
+Colombia,2014,82.0,96.0,99.0
+Colombia,2015,83.0,96.0,99.0
+Colombia,2016,83.0,96.0,100.0
+Colombia,2017,84.0,97.0,100.0
+Colombia,2018,84.0,97.0,100.0
+Colombia,2019,85.0,97.0,100.0
+Colombia,2020,86.0,97.0,100.0
+Colombia,2021,86.0,97.0,100.0
+Colombia,2022,87.0,98.0,100.0
+Comoros,2000,91.0,91.0,90.0
+Comoros,2001,91.0,91.0,90.0
+Comoros,2002,90.0,90.0,90.0
+Comoros,2003,89.0,89.0,90.0
+Comoros,2004,88.0,88.0,90.0
+Comoros,2005,87.0,88.0,89.0
+Comoros,2006,86.0,87.0,89.0
+Comoros,2007,85.0,86.0,89.0
+Comoros,2008,84.0,85.0,89.0
+Comoros,2009,82.0,84.0,89.0
+Comoros,2010,81.0,83.0,89.0
+Comoros,2011,80.0,83.0,88.0
+Comoros,2012,79.0,82.0,88.0
+Comoros,2013,78.0,81.0,88.0
+Comoros,2014,77.0,80.0,88.0
+Comoros,2015,77.0,80.0,88.0
+Comoros,2016,77.0,80.0,88.0
+Comoros,2017,77.0,80.0,88.0
+Comoros,2018,77.0,80.0,88.0
+Comoros,2019,77.0,80.0,88.0
+Congo,2000,18.0,57.0,85.0
+Congo,2001,18.0,57.0,85.0
+Congo,2002,18.0,58.0,85.0
+Congo,2003,18.0,58.0,85.0
+Congo,2004,20.0,60.0,85.0
+Congo,2005,22.0,61.0,85.0
+Congo,2006,24.0,62.0,85.0
+Congo,2007,26.0,63.0,86.0
+Congo,2008,27.0,64.0,86.0
+Congo,2009,29.0,65.0,86.0
+Congo,2010,31.0,66.0,86.0
+Congo,2011,33.0,67.0,86.0
+Congo,2012,35.0,68.0,86.0
+Congo,2013,37.0,69.0,86.0
+Congo,2014,39.0,70.0,87.0
+Congo,2015,41.0,71.0,87.0
+Congo,2016,44.0,72.0,87.0
+Congo,2017,46.0,73.0,87.0
+Congo,2018,46.0,73.0,87.0
+Congo,2019,46.0,74.0,87.0
+Congo,2020,46.0,74.0,87.0
+Congo,2021,46.0,74.0,87.0
+Cook Islands,2000,0.0,100.0,0.0
+Cook Islands,2001,0.0,100.0,0.0
+Cook Islands,2002,0.0,100.0,0.0
+Cook Islands,2003,0.0,100.0,0.0
+Cook Islands,2004,0.0,100.0,0.0
+Cook Islands,2005,0.0,100.0,0.0
+Cook Islands,2006,0.0,100.0,0.0
+Cook Islands,2007,0.0,100.0,0.0
+Cook Islands,2008,0.0,100.0,0.0
+Cook Islands,2009,0.0,100.0,0.0
+Cook Islands,2010,0.0,100.0,0.0
+Cook Islands,2011,0.0,100.0,0.0
+Cook Islands,2012,0.0,100.0,0.0
+Cook Islands,2013,0.0,100.0,0.0
+Cook Islands,2014,0.0,100.0,0.0
+Cook Islands,2015,0.0,100.0,0.0
+Cook Islands,2016,0.0,100.0,0.0
+Cook Islands,2017,0.0,100.0,0.0
+Cook Islands,2018,0.0,100.0,0.0
+Cook Islands,2019,0.0,100.0,0.0
+Cook Islands,2020,0.0,100.0,0.0
+Cook Islands,2021,0.0,100.0,0.0
+Cook Islands,2022,0.0,100.0,0.0
+Costa Rica,2000,88.0,94.0,99.0
+Costa Rica,2001,88.0,95.0,99.0
+Costa Rica,2002,89.0,95.0,99.0
+Costa Rica,2003,90.0,96.0,99.0
+Costa Rica,2004,90.0,96.0,99.0
+Costa Rica,2005,91.0,96.0,99.0
+Costa Rica,2006,92.0,97.0,99.0
+Costa Rica,2007,92.0,97.0,99.0
+Costa Rica,2008,93.0,97.0,99.0
+Costa Rica,2009,94.0,98.0,100.0
+Costa Rica,2010,94.0,98.0,100.0
+Costa Rica,2011,95.0,98.0,100.0
+Costa Rica,2012,96.0,99.0,100.0
+Costa Rica,2013,96.0,99.0,100.0
+Costa Rica,2014,97.0,99.0,100.0
+Costa Rica,2015,98.0,99.0,100.0
+Costa Rica,2016,98.0,99.0,100.0
+Costa Rica,2017,99.0,100.0,100.0
+Costa Rica,2018,100.0,100.0,100.0
+Costa Rica,2019,100.0,100.0,100.0
+Costa Rica,2020,100.0,100.0,100.0
+Costa Rica,2021,100.0,100.0,100.0
+Costa Rica,2022,100.0,100.0,100.0
+Cote d'Ivoire,2000,55.0,71.0,91.0
+Cote d'Ivoire,2001,55.0,71.0,91.0
+Cote d'Ivoire,2002,56.0,71.0,90.0
+Cote d'Ivoire,2003,56.0,71.0,90.0
+Cote d'Ivoire,2004,56.0,71.0,90.0
+Cote d'Ivoire,2005,56.0,71.0,90.0
+Cote d'Ivoire,2006,56.0,71.0,90.0
+Cote d'Ivoire,2007,56.0,71.0,89.0
+Cote d'Ivoire,2008,56.0,72.0,89.0
+Cote d'Ivoire,2009,56.0,72.0,89.0
+Cote d'Ivoire,2010,57.0,72.0,89.0
+Cote d'Ivoire,2011,57.0,72.0,88.0
+Cote d'Ivoire,2012,57.0,72.0,88.0
+Cote d'Ivoire,2013,57.0,72.0,88.0
+Cote d'Ivoire,2014,57.0,72.0,88.0
+Cote d'Ivoire,2015,57.0,72.0,88.0
+Cote d'Ivoire,2016,57.0,72.0,87.0
+Cote d'Ivoire,2017,57.0,72.0,87.0
+Cote d'Ivoire,2018,58.0,72.0,87.0
+Cote d'Ivoire,2019,58.0,73.0,87.0
+Cote d'Ivoire,2020,58.0,73.0,86.0
+Cote d'Ivoire,2021,58.0,73.0,86.0
+Cote d'Ivoire,2022,58.0,73.0,86.0
+Croatia,2000,97.0,99.0,100.0
+Croatia,2001,97.0,99.0,100.0
+Croatia,2002,97.0,99.0,100.0
+Croatia,2003,97.0,99.0,100.0
+Croatia,2004,97.0,99.0,100.0
+Croatia,2005,97.0,99.0,100.0
+Croatia,2006,97.0,99.0,100.0
+Croatia,2007,97.0,99.0,100.0
+Croatia,2008,0.0,0.0,100.0
+Croatia,2009,0.0,0.0,100.0
+Croatia,2010,0.0,0.0,100.0
+Croatia,2011,0.0,0.0,100.0
+Croatia,2012,0.0,0.0,100.0
+Croatia,2013,0.0,0.0,100.0
+Croatia,2014,0.0,0.0,100.0
+Croatia,2015,0.0,0.0,100.0
+Croatia,2016,0.0,0.0,100.0
+Croatia,2017,0.0,0.0,100.0
+Croatia,2018,0.0,0.0,100.0
+Croatia,2019,0.0,0.0,100.0
+Croatia,2020,0.0,0.0,100.0
+Croatia,2021,0.0,0.0,100.0
+Croatia,2022,0.0,0.0,100.0
+Cuba,2000,78.0,92.0,96.0
+Cuba,2001,78.0,92.0,96.0
+Cuba,2002,79.0,92.0,96.0
+Cuba,2003,79.0,92.0,96.0
+Cuba,2004,80.0,92.0,96.0
+Cuba,2005,80.0,92.0,96.0
+Cuba,2006,81.0,93.0,96.0
+Cuba,2007,82.0,93.0,96.0
+Cuba,2008,82.0,93.0,96.0
+Cuba,2009,83.0,93.0,96.0
+Cuba,2010,84.0,93.0,96.0
+Cuba,2011,84.0,93.0,96.0
+Cuba,2012,85.0,93.0,96.0
+Cuba,2013,85.0,93.0,96.0
+Cuba,2014,86.0,94.0,96.0
+Cuba,2015,87.0,94.0,96.0
+Cuba,2016,87.0,94.0,96.0
+Cuba,2017,88.0,94.0,96.0
+Cuba,2018,89.0,94.0,96.0
+Cuba,2019,89.0,94.0,96.0
+Cuba,2020,90.0,94.0,96.0
+Cuba,2021,91.0,95.0,96.0
+Cuba,2022,92.0,95.0,95.0
+Cyprus,2000,100.0,100.0,100.0
+Cyprus,2001,100.0,100.0,100.0
+Cyprus,2002,100.0,100.0,100.0
+Cyprus,2003,100.0,100.0,100.0
+Cyprus,2004,100.0,100.0,100.0
+Cyprus,2005,100.0,100.0,100.0
+Cyprus,2006,100.0,100.0,100.0
+Cyprus,2007,100.0,100.0,100.0
+Cyprus,2008,100.0,100.0,100.0
+Cyprus,2009,100.0,100.0,100.0
+Cyprus,2010,100.0,100.0,100.0
+Cyprus,2011,100.0,100.0,100.0
+Cyprus,2012,100.0,100.0,100.0
+Cyprus,2013,100.0,100.0,100.0
+Cyprus,2014,100.0,100.0,100.0
+Cyprus,2015,100.0,100.0,100.0
+Cyprus,2016,100.0,100.0,100.0
+Cyprus,2017,100.0,100.0,100.0
+Cyprus,2018,100.0,100.0,100.0
+Cyprus,2019,100.0,100.0,100.0
+Cyprus,2020,100.0,100.0,100.0
+Cyprus,2021,100.0,100.0,100.0
+Cyprus,2022,100.0,100.0,100.0
+Czechia,2000,100.0,100.0,100.0
+Czechia,2001,100.0,100.0,100.0
+Czechia,2002,100.0,100.0,100.0
+Czechia,2003,100.0,100.0,100.0
+Czechia,2004,100.0,100.0,100.0
+Czechia,2005,100.0,100.0,100.0
+Czechia,2006,100.0,100.0,100.0
+Czechia,2007,100.0,100.0,100.0
+Czechia,2008,100.0,100.0,100.0
+Czechia,2009,100.0,100.0,100.0
+Czechia,2010,100.0,100.0,100.0
+Czechia,2011,100.0,100.0,100.0
+Czechia,2012,100.0,100.0,100.0
+Czechia,2013,100.0,100.0,100.0
+Czechia,2014,100.0,100.0,100.0
+Czechia,2015,100.0,100.0,100.0
+Czechia,2016,100.0,100.0,100.0
+Czechia,2017,100.0,100.0,100.0
+Czechia,2018,100.0,100.0,100.0
+Czechia,2019,100.0,100.0,100.0
+Czechia,2020,100.0,100.0,100.0
+Czechia,2021,100.0,100.0,100.0
+Czechia,2022,100.0,100.0,100.0
+Democratic People's Republic of Korea,2000,100.0,99.0,99.0
+Democratic People's Republic of Korea,2001,100.0,99.0,99.0
+Democratic People's Republic of Korea,2002,100.0,99.0,99.0
+Democratic People's Republic of Korea,2003,100.0,99.0,99.0
+Democratic People's Republic of Korea,2004,99.0,99.0,99.0
+Democratic People's Republic of Korea,2005,99.0,99.0,99.0
+Democratic People's Republic of Korea,2006,98.0,98.0,99.0
+Democratic People's Republic of Korea,2007,97.0,98.0,99.0
+Democratic People's Republic of Korea,2008,97.0,98.0,98.0
+Democratic People's Republic of Korea,2009,96.0,97.0,98.0
+Democratic People's Republic of Korea,2010,95.0,97.0,98.0
+Democratic People's Republic of Korea,2011,94.0,97.0,98.0
+Democratic People's Republic of Korea,2012,94.0,96.0,98.0
+Democratic People's Republic of Korea,2013,93.0,96.0,98.0
+Democratic People's Republic of Korea,2014,92.0,96.0,98.0
+Democratic People's Republic of Korea,2015,92.0,95.0,97.0
+Democratic People's Republic of Korea,2016,91.0,95.0,97.0
+Democratic People's Republic of Korea,2017,90.0,95.0,97.0
+Democratic People's Republic of Korea,2018,89.0,94.0,97.0
+Democratic People's Republic of Korea,2019,89.0,94.0,97.0
+Democratic People's Republic of Korea,2020,89.0,94.0,97.0
+Democratic People's Republic of Korea,2021,89.0,94.0,97.0
+Democratic People's Republic of Korea,2022,89.0,94.0,97.0
+Democratic Republic of the Congo,2000,20.0,38.0,71.0
+Democratic Republic of the Congo,2001,19.0,38.0,70.0
+Democratic Republic of the Congo,2002,19.0,37.0,70.0
+Democratic Republic of the Congo,2003,19.0,37.0,69.0
+Democratic Republic of the Congo,2004,19.0,37.0,69.0
+Democratic Republic of the Congo,2005,19.0,37.0,69.0
+Democratic Republic of the Congo,2006,18.0,37.0,68.0
+Democratic Republic of the Congo,2007,18.0,37.0,68.0
+Democratic Republic of the Congo,2008,18.0,37.0,67.0
+Democratic Republic of the Congo,2009,18.0,37.0,67.0
+Democratic Republic of the Congo,2010,17.0,37.0,66.0
+Democratic Republic of the Congo,2011,17.0,37.0,66.0
+Democratic Republic of the Congo,2012,17.0,37.0,65.0
+Democratic Republic of the Congo,2013,17.0,37.0,65.0
+Democratic Republic of the Congo,2014,16.0,36.0,64.0
+Democratic Republic of the Congo,2015,16.0,36.0,63.0
+Democratic Republic of the Congo,2016,16.0,36.0,63.0
+Democratic Republic of the Congo,2017,15.0,36.0,62.0
+Democratic Republic of the Congo,2018,15.0,36.0,62.0
+Democratic Republic of the Congo,2019,15.0,36.0,61.0
+Democratic Republic of the Congo,2020,14.0,36.0,61.0
+Democratic Republic of the Congo,2021,14.0,35.0,60.0
+Democratic Republic of the Congo,2022,14.0,35.0,59.0
+Denmark,2000,100.0,100.0,100.0
+Denmark,2001,100.0,100.0,100.0
+Denmark,2002,100.0,100.0,100.0
+Denmark,2003,100.0,100.0,100.0
+Denmark,2004,100.0,100.0,100.0
+Denmark,2005,100.0,100.0,100.0
+Denmark,2006,100.0,100.0,100.0
+Denmark,2007,100.0,100.0,100.0
+Denmark,2008,100.0,100.0,100.0
+Denmark,2009,100.0,100.0,100.0
+Denmark,2010,100.0,100.0,100.0
+Denmark,2011,100.0,100.0,100.0
+Denmark,2012,100.0,100.0,100.0
+Denmark,2013,100.0,100.0,100.0
+Denmark,2014,100.0,100.0,100.0
+Denmark,2015,100.0,100.0,100.0
+Denmark,2016,100.0,100.0,100.0
+Denmark,2017,100.0,100.0,100.0
+Denmark,2018,100.0,100.0,100.0
+Denmark,2019,100.0,100.0,100.0
+Denmark,2020,100.0,100.0,100.0
+Denmark,2021,100.0,100.0,100.0
+Denmark,2022,100.0,100.0,100.0
+Djibouti,2000,54.0,75.0,82.0
+Djibouti,2001,54.0,75.0,82.0
+Djibouti,2002,54.0,75.0,82.0
+Djibouti,2003,53.0,75.0,82.0
+Djibouti,2004,53.0,76.0,82.0
+Djibouti,2005,52.0,76.0,83.0
+Djibouti,2006,52.0,76.0,83.0
+Djibouti,2007,52.0,76.0,83.0
+Djibouti,2008,51.0,76.0,83.0
+Djibouti,2009,51.0,76.0,83.0
+Djibouti,2010,51.0,76.0,83.0
+Djibouti,2011,50.0,76.0,83.0
+Djibouti,2012,50.0,76.0,83.0
+Djibouti,2013,49.0,76.0,83.0
+Djibouti,2014,49.0,76.0,84.0
+Djibouti,2015,49.0,76.0,84.0
+Djibouti,2016,48.0,76.0,84.0
+Djibouti,2017,48.0,76.0,84.0
+Djibouti,2018,48.0,76.0,84.0
+Djibouti,2019,47.0,76.0,84.0
+Djibouti,2020,47.0,76.0,84.0
+Djibouti,2021,47.0,76.0,84.0
+Djibouti,2022,47.0,76.0,84.0
+Dominica,2000,0.0,94.0,0.0
+Dominica,2001,0.0,94.0,0.0
+Dominica,2002,0.0,94.0,0.0
+Dominica,2003,0.0,94.0,0.0
+Dominica,2004,0.0,94.0,0.0
+Dominica,2005,0.0,94.0,0.0
+Dominica,2006,0.0,95.0,0.0
+Dominica,2007,0.0,95.0,0.0
+Dominica,2008,0.0,95.0,0.0
+Dominica,2009,0.0,95.0,0.0
+Dominica,2010,0.0,95.0,0.0
+Dominica,2011,0.0,95.0,0.0
+Dominica,2012,0.0,95.0,0.0
+Dominica,2013,0.0,95.0,0.0
+Dominica,2014,0.0,95.0,0.0
+Dominica,2015,0.0,95.0,0.0
+Dominica,2016,0.0,95.0,0.0
+Dominica,2017,0.0,95.0,0.0
+Dominican Republic,2000,81.0,91.0,97.0
+Dominican Republic,2001,82.0,91.0,97.0
+Dominican Republic,2002,82.0,91.0,97.0
+Dominican Republic,2003,83.0,92.0,97.0
+Dominican Republic,2004,83.0,92.0,97.0
+Dominican Republic,2005,84.0,93.0,97.0
+Dominican Republic,2006,84.0,93.0,97.0
+Dominican Republic,2007,85.0,93.0,97.0
+Dominican Republic,2008,85.0,94.0,97.0
+Dominican Republic,2009,85.0,94.0,97.0
+Dominican Republic,2010,86.0,94.0,97.0
+Dominican Republic,2011,86.0,94.0,97.0
+Dominican Republic,2012,87.0,95.0,97.0
+Dominican Republic,2013,87.0,95.0,97.0
+Dominican Republic,2014,88.0,95.0,97.0
+Dominican Republic,2015,88.0,95.0,97.0
+Dominican Republic,2016,89.0,96.0,97.0
+Dominican Republic,2017,89.0,96.0,97.0
+Dominican Republic,2018,90.0,96.0,97.0
+Dominican Republic,2019,90.0,96.0,97.0
+Dominican Republic,2020,91.0,96.0,97.0
+Dominican Republic,2021,91.0,97.0,98.0
+Dominican Republic,2022,91.0,97.0,98.0
+Ecuador,2000,69.0,82.0,91.0
+Ecuador,2001,70.0,83.0,91.0
+Ecuador,2002,71.0,84.0,92.0
+Ecuador,2003,72.0,85.0,92.0
+Ecuador,2004,73.0,85.0,93.0
+Ecuador,2005,74.0,86.0,94.0
+Ecuador,2006,75.0,87.0,94.0
+Ecuador,2007,75.0,87.0,95.0
+Ecuador,2008,76.0,88.0,95.0
+Ecuador,2009,77.0,89.0,96.0
+Ecuador,2010,78.0,90.0,96.0
+Ecuador,2011,79.0,90.0,97.0
+Ecuador,2012,80.0,91.0,97.0
+Ecuador,2013,81.0,92.0,98.0
+Ecuador,2014,82.0,92.0,99.0
+Ecuador,2015,83.0,93.0,99.0
+Ecuador,2016,83.0,94.0,100.0
+Ecuador,2017,84.0,94.0,100.0
+Ecuador,2018,85.0,95.0,100.0
+Ecuador,2019,86.0,95.0,100.0
+Ecuador,2020,87.0,95.0,100.0
+Ecuador,2021,88.0,96.0,100.0
+Ecuador,2022,88.0,96.0,100.0
+Egypt,2000,97.0,98.0,99.0
+Egypt,2001,97.0,98.0,99.0
+Egypt,2002,97.0,98.0,99.0
+Egypt,2003,98.0,98.0,99.0
+Egypt,2004,98.0,98.0,99.0
+Egypt,2005,98.0,98.0,99.0
+Egypt,2006,98.0,98.0,99.0
+Egypt,2007,98.0,98.0,99.0
+Egypt,2008,98.0,98.0,99.0
+Egypt,2009,98.0,99.0,99.0
+Egypt,2010,98.0,99.0,99.0
+Egypt,2011,98.0,99.0,99.0
+Egypt,2012,98.0,99.0,99.0
+Egypt,2013,98.0,99.0,99.0
+Egypt,2014,98.0,99.0,99.0
+Egypt,2015,98.0,99.0,99.0
+Egypt,2016,98.0,99.0,99.0
+Egypt,2017,98.0,99.0,99.0
+Egypt,2018,98.0,99.0,99.0
+Egypt,2019,98.0,99.0,99.0
+Egypt,2020,98.0,99.0,99.0
+Egypt,2021,98.0,99.0,99.0
+Egypt,2022,98.0,99.0,99.0
+El Salvador,2000,57.0,79.0,93.0
+El Salvador,2001,57.0,79.0,93.0
+El Salvador,2002,59.0,80.0,94.0
+El Salvador,2003,61.0,81.0,94.0
+El Salvador,2004,63.0,82.0,95.0
+El Salvador,2005,65.0,84.0,95.0
+El Salvador,2006,67.0,85.0,95.0
+El Salvador,2007,69.0,86.0,96.0
+El Salvador,2008,71.0,87.0,96.0
+El Salvador,2009,74.0,88.0,96.0
+El Salvador,2010,76.0,90.0,97.0
+El Salvador,2011,78.0,91.0,97.0
+El Salvador,2012,80.0,92.0,98.0
+El Salvador,2013,82.0,93.0,98.0
+El Salvador,2014,85.0,94.0,98.0
+El Salvador,2015,87.0,95.0,99.0
+El Salvador,2016,89.0,96.0,99.0
+El Salvador,2017,91.0,97.0,99.0
+El Salvador,2018,92.0,97.0,99.0
+El Salvador,2019,93.0,98.0,100.0
+El Salvador,2020,94.0,98.0,100.0
+El Salvador,2021,94.0,98.0,100.0
+El Salvador,2022,94.0,99.0,100.0
+Equatorial Guinea,2000,39.0,51.0,64.0
+Equatorial Guinea,2001,38.0,52.0,65.0
+Equatorial Guinea,2002,37.0,53.0,66.0
+Equatorial Guinea,2003,37.0,53.0,67.0
+Equatorial Guinea,2004,36.0,54.0,68.0
+Equatorial Guinea,2005,36.0,55.0,69.0
+Equatorial Guinea,2006,35.0,56.0,70.0
+Equatorial Guinea,2007,34.0,57.0,72.0
+Equatorial Guinea,2008,34.0,58.0,73.0
+Equatorial Guinea,2009,33.0,59.0,74.0
+Equatorial Guinea,2010,33.0,60.0,75.0
+Equatorial Guinea,2011,32.0,62.0,76.0
+Equatorial Guinea,2012,31.0,63.0,77.0
+Equatorial Guinea,2013,31.0,64.0,78.0
+Equatorial Guinea,2014,31.0,64.0,78.0
+Equatorial Guinea,2015,31.0,64.0,78.0
+Equatorial Guinea,2016,31.0,64.0,78.0
+Equatorial Guinea,2017,31.0,65.0,78.0
+Eritrea,2000,31.0,47.0,91.0
+Eritrea,2001,31.0,47.0,90.0
+Eritrea,2002,30.0,47.0,90.0
+Eritrea,2003,30.0,48.0,90.0
+Eritrea,2004,30.0,48.0,90.0
+Eritrea,2005,30.0,48.0,90.0
+Eritrea,2006,29.0,49.0,90.0
+Eritrea,2007,29.0,49.0,90.0
+Eritrea,2008,29.0,50.0,90.0
+Eritrea,2009,29.0,50.0,90.0
+Eritrea,2010,28.0,50.0,90.0
+Eritrea,2011,28.0,50.0,90.0
+Eritrea,2012,28.0,50.0,90.0
+Eritrea,2013,28.0,51.0,90.0
+Eritrea,2014,28.0,51.0,90.0
+Eritrea,2015,28.0,51.0,90.0
+Eritrea,2016,28.0,52.0,90.0
+Estonia,2000,93.0,97.0,99.0
+Estonia,2001,93.0,98.0,99.0
+Estonia,2002,94.0,98.0,99.0
+Estonia,2003,94.0,98.0,99.0
+Estonia,2004,95.0,98.0,99.0
+Estonia,2005,95.0,98.0,99.0
+Estonia,2006,96.0,98.0,100.0
+Estonia,2007,96.0,99.0,100.0
+Estonia,2008,97.0,99.0,100.0
+Estonia,2009,97.0,99.0,100.0
+Estonia,2010,98.0,99.0,100.0
+Estonia,2011,98.0,99.0,100.0
+Estonia,2012,99.0,99.0,100.0
+Estonia,2013,99.0,100.0,100.0
+Estonia,2014,100.0,100.0,100.0
+Estonia,2015,100.0,100.0,100.0
+Estonia,2016,100.0,100.0,100.0
+Estonia,2017,100.0,100.0,100.0
+Estonia,2018,100.0,100.0,100.0
+Estonia,2019,100.0,100.0,100.0
+Estonia,2020,100.0,100.0,100.0
+Estonia,2021,100.0,100.0,100.0
+Estonia,2022,100.0,100.0,100.0
+Eswatini,2000,43.0,53.0,87.0
+Eswatini,2001,44.0,54.0,88.0
+Eswatini,2002,45.0,55.0,88.0
+Eswatini,2003,47.0,56.0,89.0
+Eswatini,2004,47.0,57.0,89.0
+Eswatini,2005,48.0,58.0,90.0
+Eswatini,2006,49.0,58.0,90.0
+Eswatini,2007,50.0,59.0,91.0
+Eswatini,2008,51.0,60.0,91.0
+Eswatini,2009,52.0,61.0,92.0
+Eswatini,2010,53.0,62.0,92.0
+Eswatini,2011,54.0,63.0,93.0
+Eswatini,2012,55.0,64.0,93.0
+Eswatini,2013,56.0,65.0,94.0
+Eswatini,2014,57.0,66.0,94.0
+Eswatini,2015,58.0,67.0,95.0
+Eswatini,2016,59.0,67.0,95.0
+Eswatini,2017,60.0,68.0,96.0
+Eswatini,2018,61.0,69.0,96.0
+Eswatini,2019,62.0,70.0,97.0
+Eswatini,2020,63.0,71.0,97.0
+Eswatini,2021,64.0,72.0,98.0
+Eswatini,2022,65.0,73.0,98.0
+Ethiopia,2000,9.0,19.0,76.0
+Ethiopia,2001,10.0,20.0,77.0
+Ethiopia,2002,12.0,22.0,77.0
+Ethiopia,2003,14.0,23.0,77.0
+Ethiopia,2004,15.0,25.0,77.0
+Ethiopia,2005,17.0,26.0,78.0
+Ethiopia,2006,18.0,28.0,78.0
+Ethiopia,2007,20.0,29.0,78.0
+Ethiopia,2008,21.0,31.0,79.0
+Ethiopia,2009,23.0,32.0,79.0
+Ethiopia,2010,24.0,34.0,79.0
+Ethiopia,2011,26.0,36.0,80.0
+Ethiopia,2012,28.0,37.0,80.0
+Ethiopia,2013,29.0,39.0,80.0
+Ethiopia,2014,30.0,40.0,81.0
+Ethiopia,2015,32.0,42.0,81.0
+Ethiopia,2016,33.0,43.0,81.0
+Ethiopia,2017,35.0,44.0,82.0
+Ethiopia,2018,36.0,46.0,82.0
+Ethiopia,2019,38.0,47.0,82.0
+Ethiopia,2020,39.0,49.0,83.0
+Ethiopia,2021,41.0,50.0,83.0
+Ethiopia,2022,42.0,52.0,83.0
+Fiji,2000,92.0,95.0,98.0
+Fiji,2001,92.0,95.0,98.0
+Fiji,2002,92.0,95.0,98.0
+Fiji,2003,92.0,95.0,98.0
+Fiji,2004,91.0,95.0,98.0
+Fiji,2005,91.0,95.0,98.0
+Fiji,2006,91.0,95.0,98.0
+Fiji,2007,91.0,95.0,98.0
+Fiji,2008,91.0,95.0,98.0
+Fiji,2009,91.0,95.0,98.0
+Fiji,2010,91.0,95.0,99.0
+Fiji,2011,91.0,95.0,99.0
+Fiji,2012,91.0,95.0,99.0
+Fiji,2013,91.0,95.0,99.0
+Fiji,2014,91.0,95.0,99.0
+Fiji,2015,91.0,95.0,99.0
+Fiji,2016,91.0,95.0,99.0
+Fiji,2017,91.0,95.0,99.0
+Fiji,2018,91.0,95.0,99.0
+Fiji,2019,91.0,95.0,99.0
+Fiji,2020,91.0,95.0,99.0
+Fiji,2021,91.0,95.0,99.0
+Fiji,2022,91.0,95.0,99.0
+Finland,2000,100.0,100.0,100.0
+Finland,2001,100.0,100.0,100.0
+Finland,2002,100.0,100.0,100.0
+Finland,2003,100.0,100.0,100.0
+Finland,2004,100.0,100.0,100.0
+Finland,2005,100.0,100.0,100.0
+Finland,2006,100.0,100.0,100.0
+Finland,2007,100.0,100.0,100.0
+Finland,2008,100.0,100.0,100.0
+Finland,2009,100.0,100.0,100.0
+Finland,2010,100.0,100.0,100.0
+Finland,2011,100.0,100.0,100.0
+Finland,2012,100.0,100.0,100.0
+Finland,2013,100.0,100.0,100.0
+Finland,2014,100.0,100.0,100.0
+Finland,2015,100.0,100.0,100.0
+Finland,2016,100.0,100.0,100.0
+Finland,2017,100.0,100.0,100.0
+Finland,2018,100.0,100.0,100.0
+Finland,2019,100.0,100.0,100.0
+Finland,2020,100.0,100.0,100.0
+Finland,2021,100.0,100.0,100.0
+Finland,2022,100.0,100.0,100.0
+France,2000,100.0,100.0,100.0
+France,2001,100.0,100.0,100.0
+France,2002,100.0,100.0,100.0
+France,2003,100.0,100.0,100.0
+France,2004,100.0,100.0,100.0
+France,2005,100.0,100.0,100.0
+France,2006,100.0,100.0,100.0
+France,2007,100.0,100.0,100.0
+France,2008,100.0,100.0,100.0
+France,2009,100.0,100.0,100.0
+France,2010,100.0,100.0,100.0
+France,2011,100.0,100.0,100.0
+France,2012,100.0,100.0,100.0
+France,2013,100.0,100.0,100.0
+France,2014,100.0,100.0,100.0
+France,2015,100.0,100.0,100.0
+France,2016,100.0,100.0,100.0
+France,2017,100.0,100.0,100.0
+France,2018,100.0,100.0,100.0
+France,2019,100.0,100.0,100.0
+France,2020,100.0,100.0,100.0
+France,2021,100.0,100.0,100.0
+France,2022,100.0,100.0,100.0
+Gabon,2000,41.0,80.0,91.0
+Gabon,2001,41.0,81.0,91.0
+Gabon,2002,42.0,81.0,91.0
+Gabon,2003,42.0,82.0,91.0
+Gabon,2004,43.0,82.0,91.0
+Gabon,2005,44.0,82.0,90.0
+Gabon,2006,44.0,82.0,90.0
+Gabon,2007,45.0,83.0,90.0
+Gabon,2008,45.0,83.0,90.0
+Gabon,2009,46.0,83.0,90.0
+Gabon,2010,46.0,83.0,90.0
+Gabon,2011,47.0,84.0,90.0
+Gabon,2012,47.0,84.0,89.0
+Gabon,2013,48.0,84.0,89.0
+Gabon,2014,48.0,84.0,89.0
+Gabon,2015,49.0,85.0,89.0
+Gabon,2016,50.0,85.0,89.0
+Gabon,2017,51.0,85.0,90.0
+Gabon,2018,51.0,86.0,90.0
+Gabon,2019,52.0,86.0,90.0
+Gabon,2020,53.0,86.0,90.0
+Gabon,2021,54.0,87.0,90.0
+Gabon,2022,55.0,87.0,90.0
+Gambia,2000,63.0,72.0,82.0
+Gambia,2001,63.0,73.0,83.0
+Gambia,2002,64.0,73.0,83.0
+Gambia,2003,65.0,74.0,83.0
+Gambia,2004,65.0,75.0,84.0
+Gambia,2005,66.0,75.0,84.0
+Gambia,2006,66.0,76.0,85.0
+Gambia,2007,67.0,77.0,85.0
+Gambia,2008,68.0,77.0,85.0
+Gambia,2009,68.0,78.0,86.0
+Gambia,2010,69.0,78.0,86.0
+Gambia,2011,69.0,79.0,87.0
+Gambia,2012,70.0,80.0,87.0
+Gambia,2013,71.0,80.0,87.0
+Gambia,2014,71.0,81.0,88.0
+Gambia,2015,72.0,82.0,88.0
+Gambia,2016,73.0,82.0,88.0
+Gambia,2017,73.0,83.0,89.0
+Gambia,2018,74.0,83.0,89.0
+Gambia,2019,74.0,84.0,90.0
+Gambia,2020,75.0,84.0,90.0
+Gambia,2021,76.0,85.0,90.0
+Gambia,2022,76.0,86.0,91.0
+Georgia,2000,90.0,95.0,99.0
+Georgia,2001,90.0,95.0,99.0
+Georgia,2002,90.0,95.0,99.0
+Georgia,2003,91.0,95.0,99.0
+Georgia,2004,91.0,95.0,99.0
+Georgia,2005,91.0,95.0,99.0
+Georgia,2006,91.0,95.0,99.0
+Georgia,2007,91.0,96.0,99.0
+Georgia,2008,92.0,96.0,99.0
+Georgia,2009,91.0,96.0,99.0
+Georgia,2010,90.0,95.0,99.0
+Georgia,2011,89.0,95.0,99.0
+Georgia,2012,89.0,94.0,99.0
+Georgia,2013,88.0,94.0,99.0
+Georgia,2014,87.0,93.0,99.0
+Georgia,2015,86.0,93.0,99.0
+Georgia,2016,87.0,94.0,99.0
+Georgia,2017,87.0,94.0,99.0
+Georgia,2018,87.0,94.0,99.0
+Georgia,2019,88.0,94.0,99.0
+Georgia,2020,88.0,95.0,99.0
+Georgia,2021,88.0,95.0,99.0
+Georgia,2022,89.0,95.0,99.0
+Germany,2000,100.0,100.0,100.0
+Germany,2001,100.0,100.0,100.0
+Germany,2002,100.0,100.0,100.0
+Germany,2003,100.0,100.0,100.0
+Germany,2004,100.0,100.0,100.0
+Germany,2005,100.0,100.0,100.0
+Germany,2006,100.0,100.0,100.0
+Germany,2007,100.0,100.0,100.0
+Germany,2008,100.0,100.0,100.0
+Germany,2009,100.0,100.0,100.0
+Germany,2010,100.0,100.0,100.0
+Germany,2011,100.0,100.0,100.0
+Germany,2012,100.0,100.0,100.0
+Germany,2013,100.0,100.0,100.0
+Germany,2014,100.0,100.0,100.0
+Germany,2015,100.0,100.0,100.0
+Germany,2016,100.0,100.0,100.0
+Germany,2017,100.0,100.0,100.0
+Germany,2018,100.0,100.0,100.0
+Germany,2019,100.0,100.0,100.0
+Germany,2020,100.0,100.0,100.0
+Germany,2021,100.0,100.0,100.0
+Germany,2022,100.0,100.0,100.0
+Ghana,2000,54.0,65.0,80.0
+Ghana,2001,55.0,66.0,80.0
+Ghana,2002,56.0,67.0,81.0
+Ghana,2003,57.0,68.0,82.0
+Ghana,2004,58.0,69.0,83.0
+Ghana,2005,59.0,70.0,83.0
+Ghana,2006,59.0,71.0,84.0
+Ghana,2007,60.0,72.0,85.0
+Ghana,2008,61.0,73.0,86.0
+Ghana,2009,62.0,75.0,87.0
+Ghana,2010,63.0,76.0,88.0
+Ghana,2011,64.0,77.0,89.0
+Ghana,2012,65.0,78.0,89.0
+Ghana,2013,66.0,79.0,90.0
+Ghana,2014,67.0,80.0,91.0
+Ghana,2015,68.0,81.0,92.0
+Ghana,2016,69.0,82.0,93.0
+Ghana,2017,70.0,83.0,94.0
+Ghana,2018,70.0,84.0,95.0
+Ghana,2019,71.0,85.0,96.0
+Ghana,2020,72.0,86.0,97.0
+Ghana,2021,73.0,87.0,98.0
+Ghana,2022,74.0,88.0,98.0
+Greece,2000,99.0,100.0,100.0
+Greece,2001,99.0,100.0,100.0
+Greece,2002,99.0,100.0,100.0
+Greece,2003,99.0,100.0,100.0
+Greece,2004,99.0,100.0,100.0
+Greece,2005,99.0,100.0,100.0
+Greece,2006,99.0,100.0,100.0
+Greece,2007,99.0,100.0,100.0
+Greece,2008,100.0,100.0,100.0
+Greece,2009,100.0,100.0,100.0
+Greece,2010,100.0,100.0,100.0
+Greece,2011,100.0,100.0,100.0
+Greece,2012,100.0,100.0,100.0
+Greece,2013,100.0,100.0,100.0
+Greece,2014,100.0,100.0,100.0
+Greece,2015,100.0,100.0,100.0
+Greece,2016,100.0,100.0,100.0
+Greece,2017,100.0,100.0,100.0
+Greece,2018,100.0,100.0,100.0
+Greece,2019,100.0,100.0,100.0
+Greece,2020,100.0,100.0,100.0
+Greece,2021,100.0,100.0,100.0
+Greece,2022,100.0,100.0,100.0
+Grenada,2000,0.0,93.0,0.0
+Grenada,2001,0.0,94.0,0.0
+Grenada,2002,0.0,94.0,0.0
+Grenada,2003,0.0,94.0,0.0
+Grenada,2004,0.0,94.0,0.0
+Grenada,2005,0.0,94.0,0.0
+Grenada,2006,0.0,95.0,0.0
+Grenada,2007,0.0,95.0,0.0
+Grenada,2008,0.0,95.0,0.0
+Grenada,2009,0.0,95.0,0.0
+Grenada,2010,0.0,96.0,0.0
+Grenada,2011,0.0,96.0,0.0
+Grenada,2012,0.0,96.0,0.0
+Grenada,2013,0.0,96.0,0.0
+Grenada,2014,0.0,96.0,0.0
+Grenada,2015,0.0,96.0,0.0
+Grenada,2016,0.0,96.0,0.0
+Grenada,2017,0.0,96.0,0.0
+Guatemala,2000,79.0,87.0,95.0
+Guatemala,2001,80.0,87.0,95.0
+Guatemala,2002,80.0,87.0,95.0
+Guatemala,2003,81.0,88.0,96.0
+Guatemala,2004,81.0,88.0,96.0
+Guatemala,2005,82.0,88.0,96.0
+Guatemala,2006,82.0,89.0,96.0
+Guatemala,2007,83.0,89.0,96.0
+Guatemala,2008,83.0,90.0,96.0
+Guatemala,2009,84.0,90.0,96.0
+Guatemala,2010,85.0,90.0,96.0
+Guatemala,2011,85.0,91.0,97.0
+Guatemala,2012,86.0,91.0,97.0
+Guatemala,2013,86.0,91.0,97.0
+Guatemala,2014,87.0,92.0,97.0
+Guatemala,2015,87.0,92.0,97.0
+Guatemala,2016,88.0,92.0,97.0
+Guatemala,2017,88.0,93.0,97.0
+Guatemala,2018,89.0,93.0,97.0
+Guatemala,2019,89.0,94.0,97.0
+Guatemala,2020,90.0,94.0,98.0
+Guatemala,2021,90.0,94.0,98.0
+Guatemala,2022,91.0,95.0,98.0
+Guinea,2000,39.0,50.0,75.0
+Guinea,2001,39.0,51.0,76.0
+Guinea,2002,40.0,51.0,76.0
+Guinea,2003,41.0,52.0,76.0
+Guinea,2004,42.0,53.0,77.0
+Guinea,2005,42.0,54.0,77.0
+Guinea,2006,43.0,54.0,78.0
+Guinea,2007,44.0,55.0,78.0
+Guinea,2008,44.0,56.0,78.0
+Guinea,2009,45.0,56.0,79.0
+Guinea,2010,46.0,57.0,79.0
+Guinea,2011,47.0,58.0,80.0
+Guinea,2012,48.0,59.0,81.0
+Guinea,2013,49.0,60.0,82.0
+Guinea,2014,50.0,62.0,83.0
+Guinea,2015,51.0,63.0,84.0
+Guinea,2016,52.0,64.0,86.0
+Guinea,2017,53.0,65.0,87.0
+Guinea,2018,54.0,66.0,88.0
+Guinea,2019,56.0,68.0,89.0
+Guinea,2020,57.0,69.0,90.0
+Guinea,2021,58.0,70.0,91.0
+Guinea,2022,59.0,71.0,92.0
+Guinea-Bissau,2000,43.0,55.0,78.0
+Guinea-Bissau,2001,43.0,56.0,77.0
+Guinea-Bissau,2002,44.0,56.0,77.0
+Guinea-Bissau,2003,44.0,57.0,77.0
+Guinea-Bissau,2004,45.0,57.0,77.0
+Guinea-Bissau,2005,45.0,57.0,77.0
+Guinea-Bissau,2006,46.0,58.0,77.0
+Guinea-Bissau,2007,46.0,58.0,77.0
+Guinea-Bissau,2008,47.0,59.0,76.0
+Guinea-Bissau,2009,47.0,59.0,76.0
+Guinea-Bissau,2010,48.0,59.0,76.0
+Guinea-Bissau,2011,48.0,59.0,76.0
+Guinea-Bissau,2012,49.0,60.0,76.0
+Guinea-Bissau,2013,49.0,60.0,75.0
+Guinea-Bissau,2014,50.0,60.0,75.0
+Guinea-Bissau,2015,50.0,61.0,75.0
+Guinea-Bissau,2016,51.0,61.0,75.0
+Guinea-Bissau,2017,51.0,61.0,74.0
+Guinea-Bissau,2018,51.0,61.0,74.0
+Guinea-Bissau,2019,52.0,61.0,74.0
+Guinea-Bissau,2020,52.0,62.0,73.0
+Guinea-Bissau,2021,53.0,62.0,73.0
+Guinea-Bissau,2022,53.0,62.0,73.0
+Guyana,2000,86.0,89.0,94.0
+Guyana,2001,87.0,89.0,95.0
+Guyana,2002,87.0,89.0,95.0
+Guyana,2003,87.0,90.0,95.0
+Guyana,2004,88.0,90.0,95.0
+Guyana,2005,88.0,90.0,95.0
+Guyana,2006,89.0,91.0,95.0
+Guyana,2007,89.0,91.0,95.0
+Guyana,2008,90.0,91.0,95.0
+Guyana,2009,90.0,91.0,95.0
+Guyana,2010,91.0,92.0,95.0
+Guyana,2011,91.0,92.0,95.0
+Guyana,2012,91.0,93.0,96.0
+Guyana,2013,92.0,93.0,96.0
+Guyana,2014,92.0,93.0,96.0
+Guyana,2015,93.0,94.0,96.0
+Guyana,2016,93.0,94.0,96.0
+Guyana,2017,94.0,94.0,96.0
+Guyana,2018,94.0,95.0,96.0
+Guyana,2019,94.0,95.0,96.0
+Guyana,2020,95.0,95.0,96.0
+Guyana,2021,95.0,96.0,96.0
+Guyana,2022,96.0,96.0,96.0
+Haiti,2000,40.0,56.0,85.0
+Haiti,2001,41.0,57.0,85.0
+Haiti,2002,41.0,58.0,85.0
+Haiti,2003,41.0,59.0,85.0
+Haiti,2004,41.0,59.0,85.0
+Haiti,2005,41.0,60.0,85.0
+Haiti,2006,41.0,60.0,85.0
+Haiti,2007,41.0,61.0,85.0
+Haiti,2008,42.0,61.0,85.0
+Haiti,2009,42.0,62.0,85.0
+Haiti,2010,42.0,62.0,85.0
+Haiti,2011,42.0,63.0,85.0
+Haiti,2012,42.0,63.0,85.0
+Haiti,2013,42.0,64.0,85.0
+Haiti,2014,42.0,64.0,85.0
+Haiti,2015,42.0,65.0,85.0
+Haiti,2016,43.0,65.0,85.0
+Haiti,2017,43.0,65.0,85.0
+Haiti,2018,43.0,66.0,85.0
+Haiti,2019,43.0,66.0,85.0
+Haiti,2020,43.0,67.0,85.0
+Haiti,2021,43.0,67.0,85.0
+Haiti,2022,43.0,67.0,85.0
+Honduras,2000,77.0,85.0,96.0
+Honduras,2001,77.0,86.0,96.0
+Honduras,2002,78.0,86.0,96.0
+Honduras,2003,79.0,87.0,96.0
+Honduras,2004,79.0,88.0,97.0
+Honduras,2005,80.0,88.0,97.0
+Honduras,2006,81.0,89.0,97.0
+Honduras,2007,81.0,89.0,97.0
+Honduras,2008,82.0,90.0,97.0
+Honduras,2009,83.0,90.0,97.0
+Honduras,2010,83.0,91.0,97.0
+Honduras,2011,84.0,91.0,98.0
+Honduras,2012,84.0,92.0,98.0
+Honduras,2013,85.0,92.0,98.0
+Honduras,2014,86.0,92.0,98.0
+Honduras,2015,86.0,93.0,98.0
+Honduras,2016,87.0,93.0,98.0
+Honduras,2017,88.0,94.0,99.0
+Honduras,2018,88.0,94.0,99.0
+Honduras,2019,89.0,95.0,99.0
+Honduras,2020,89.0,95.0,99.0
+Honduras,2021,90.0,95.0,99.0
+Honduras,2022,91.0,96.0,99.0
+Hungary,2000,100.0,100.0,100.0
+Hungary,2001,100.0,100.0,100.0
+Hungary,2002,100.0,100.0,100.0
+Hungary,2003,100.0,100.0,100.0
+Hungary,2004,100.0,100.0,100.0
+Hungary,2005,100.0,100.0,100.0
+Hungary,2006,100.0,100.0,100.0
+Hungary,2007,100.0,100.0,100.0
+Hungary,2008,100.0,100.0,100.0
+Hungary,2009,100.0,100.0,100.0
+Hungary,2010,100.0,100.0,100.0
+Hungary,2011,100.0,100.0,100.0
+Hungary,2012,100.0,100.0,100.0
+Hungary,2013,100.0,100.0,100.0
+Hungary,2014,100.0,100.0,100.0
+Hungary,2015,100.0,100.0,100.0
+Hungary,2016,100.0,100.0,100.0
+Hungary,2017,100.0,100.0,100.0
+Hungary,2018,100.0,100.0,100.0
+Hungary,2019,100.0,100.0,100.0
+Hungary,2020,100.0,100.0,100.0
+Hungary,2021,100.0,100.0,100.0
+Hungary,2022,100.0,100.0,100.0
+Iceland,2000,100.0,100.0,100.0
+Iceland,2001,100.0,100.0,100.0
+Iceland,2002,100.0,100.0,100.0
+Iceland,2003,100.0,100.0,100.0
+Iceland,2004,100.0,100.0,100.0
+Iceland,2005,100.0,100.0,100.0
+Iceland,2006,100.0,100.0,100.0
+Iceland,2007,100.0,100.0,100.0
+Iceland,2008,100.0,100.0,100.0
+Iceland,2009,100.0,100.0,100.0
+Iceland,2010,100.0,100.0,100.0
+Iceland,2011,100.0,100.0,100.0
+Iceland,2012,100.0,100.0,100.0
+Iceland,2013,100.0,100.0,100.0
+Iceland,2014,100.0,100.0,100.0
+Iceland,2015,100.0,100.0,100.0
+Iceland,2016,100.0,100.0,100.0
+Iceland,2017,100.0,100.0,100.0
+Iceland,2018,100.0,100.0,100.0
+Iceland,2019,100.0,100.0,100.0
+Iceland,2020,100.0,100.0,100.0
+Iceland,2021,100.0,100.0,100.0
+Iceland,2022,100.0,100.0,100.0
+India,2000,75.0,80.0,92.0
+India,2001,76.0,80.0,92.0
+India,2002,77.0,81.0,92.0
+India,2003,78.0,82.0,92.0
+India,2004,78.0,82.0,93.0
+India,2005,79.0,83.0,93.0
+India,2006,80.0,84.0,93.0
+India,2007,81.0,84.0,93.0
+India,2008,81.0,85.0,93.0
+India,2009,82.0,86.0,93.0
+India,2010,83.0,86.0,94.0
+India,2011,84.0,87.0,94.0
+India,2012,84.0,87.0,94.0
+India,2013,85.0,88.0,94.0
+India,2014,86.0,89.0,94.0
+India,2015,87.0,89.0,95.0
+India,2016,87.0,90.0,95.0
+India,2017,88.0,90.0,95.0
+India,2018,89.0,91.0,95.0
+India,2019,90.0,92.0,95.0
+India,2020,90.0,92.0,95.0
+India,2021,91.0,93.0,96.0
+India,2022,92.0,93.0,96.0
+Indonesia,2000,65.0,75.0,89.0
+Indonesia,2001,66.0,76.0,90.0
+Indonesia,2002,67.0,77.0,90.0
+Indonesia,2003,68.0,78.0,90.0
+Indonesia,2004,70.0,79.0,91.0
+Indonesia,2005,71.0,80.0,91.0
+Indonesia,2006,72.0,81.0,92.0
+Indonesia,2007,73.0,82.0,92.0
+Indonesia,2008,74.0,83.0,92.0
+Indonesia,2009,75.0,84.0,93.0
+Indonesia,2010,76.0,85.0,93.0
+Indonesia,2011,77.0,85.0,94.0
+Indonesia,2012,78.0,86.0,94.0
+Indonesia,2013,79.0,87.0,95.0
+Indonesia,2014,80.0,88.0,95.0
+Indonesia,2015,81.0,89.0,95.0
+Indonesia,2016,82.0,89.0,96.0
+Indonesia,2017,83.0,90.0,96.0
+Indonesia,2018,84.0,91.0,97.0
+Indonesia,2019,85.0,92.0,97.0
+Indonesia,2020,86.0,93.0,98.0
+Indonesia,2021,87.0,93.0,98.0
+Indonesia,2022,88.0,94.0,98.0
+Iran (Islamic Republic of),2000,87.0,94.0,98.0
+Iran (Islamic Republic of),2001,88.0,94.0,98.0
+Iran (Islamic Republic of),2002,88.0,95.0,98.0
+Iran (Islamic Republic of),2003,88.0,95.0,98.0
+Iran (Islamic Republic of),2004,89.0,95.0,98.0
+Iran (Islamic Republic of),2005,89.0,95.0,98.0
+Iran (Islamic Republic of),2006,89.0,95.0,98.0
+Iran (Islamic Republic of),2007,89.0,96.0,98.0
+Iran (Islamic Republic of),2008,90.0,96.0,98.0
+Iran (Islamic Republic of),2009,90.0,96.0,98.0
+Iran (Islamic Republic of),2010,90.0,96.0,98.0
+Iran (Islamic Republic of),2011,91.0,96.0,98.0
+Iran (Islamic Republic of),2012,91.0,96.0,98.0
+Iran (Islamic Republic of),2013,91.0,96.0,98.0
+Iran (Islamic Republic of),2014,92.0,97.0,98.0
+Iran (Islamic Republic of),2015,92.0,97.0,98.0
+Iran (Islamic Republic of),2016,92.0,97.0,99.0
+Iran (Islamic Republic of),2017,93.0,97.0,99.0
+Iran (Islamic Republic of),2018,93.0,97.0,99.0
+Iran (Islamic Republic of),2019,93.0,97.0,99.0
+Iran (Islamic Republic of),2020,94.0,97.0,99.0
+Iran (Islamic Republic of),2021,94.0,98.0,99.0
+Iran (Islamic Republic of),2022,94.0,98.0,99.0
+Iraq,2000,54.0,81.0,93.0
+Iraq,2001,56.0,82.0,94.0
+Iraq,2002,58.0,83.0,94.0
+Iraq,2003,60.0,84.0,94.0
+Iraq,2004,62.0,84.0,95.0
+Iraq,2005,64.0,85.0,95.0
+Iraq,2006,66.0,86.0,95.0
+Iraq,2007,68.0,87.0,96.0
+Iraq,2008,70.0,88.0,96.0
+Iraq,2009,72.0,89.0,96.0
+Iraq,2010,74.0,90.0,97.0
+Iraq,2011,76.0,91.0,97.0
+Iraq,2012,79.0,92.0,97.0
+Iraq,2013,81.0,92.0,98.0
+Iraq,2014,83.0,93.0,98.0
+Iraq,2015,85.0,94.0,98.0
+Iraq,2016,87.0,95.0,99.0
+Iraq,2017,89.0,96.0,99.0
+Iraq,2018,91.0,97.0,99.0
+Iraq,2019,93.0,98.0,100.0
+Iraq,2020,95.0,98.0,100.0
+Iraq,2021,95.0,98.0,100.0
+Iraq,2022,95.0,98.0,100.0
+Ireland,2000,97.0,97.0,97.0
+Ireland,2001,97.0,97.0,97.0
+Ireland,2002,97.0,97.0,97.0
+Ireland,2003,97.0,97.0,97.0
+Ireland,2004,97.0,97.0,97.0
+Ireland,2005,97.0,97.0,97.0
+Ireland,2006,97.0,97.0,97.0
+Ireland,2007,97.0,97.0,96.0
+Ireland,2008,97.0,97.0,96.0
+Ireland,2009,97.0,97.0,96.0
+Ireland,2010,97.0,97.0,96.0
+Ireland,2011,97.0,96.0,96.0
+Ireland,2012,97.0,96.0,96.0
+Ireland,2013,97.0,96.0,96.0
+Ireland,2014,97.0,96.0,96.0
+Ireland,2015,97.0,96.0,96.0
+Ireland,2016,97.0,96.0,96.0
+Ireland,2017,97.0,96.0,95.0
+Ireland,2018,97.0,96.0,95.0
+Ireland,2019,97.0,96.0,95.0
+Ireland,2020,97.0,96.0,95.0
+Ireland,2021,97.0,96.0,95.0
+Ireland,2022,97.0,96.0,95.0
+Israel,2000,100.0,100.0,100.0
+Israel,2001,100.0,100.0,100.0
+Israel,2002,100.0,100.0,100.0
+Israel,2003,100.0,100.0,100.0
+Israel,2004,100.0,100.0,100.0
+Israel,2005,100.0,100.0,100.0
+Israel,2006,100.0,100.0,100.0
+Israel,2007,100.0,100.0,100.0
+Israel,2008,100.0,100.0,100.0
+Israel,2009,100.0,100.0,100.0
+Israel,2010,100.0,100.0,100.0
+Israel,2011,100.0,100.0,100.0
+Israel,2012,100.0,100.0,100.0
+Israel,2013,100.0,100.0,100.0
+Israel,2014,100.0,100.0,100.0
+Israel,2015,100.0,100.0,100.0
+Israel,2016,100.0,100.0,100.0
+Israel,2017,100.0,100.0,100.0
+Israel,2018,100.0,100.0,100.0
+Israel,2019,100.0,100.0,100.0
+Israel,2020,100.0,100.0,100.0
+Israel,2021,100.0,100.0,100.0
+Israel,2022,100.0,100.0,100.0
+Italy,2000,0.0,100.0,0.0
+Italy,2001,0.0,100.0,0.0
+Italy,2002,0.0,100.0,0.0
+Italy,2003,0.0,100.0,0.0
+Italy,2004,0.0,100.0,0.0
+Italy,2005,0.0,100.0,0.0
+Italy,2006,0.0,100.0,0.0
+Italy,2007,0.0,100.0,0.0
+Italy,2008,0.0,100.0,0.0
+Italy,2009,0.0,100.0,0.0
+Italy,2010,0.0,100.0,0.0
+Italy,2011,0.0,100.0,0.0
+Italy,2012,0.0,100.0,0.0
+Italy,2013,0.0,100.0,0.0
+Italy,2014,0.0,100.0,0.0
+Italy,2015,0.0,100.0,0.0
+Italy,2016,0.0,100.0,0.0
+Italy,2017,0.0,100.0,0.0
+Italy,2018,0.0,100.0,0.0
+Italy,2019,0.0,100.0,0.0
+Italy,2020,0.0,100.0,0.0
+Italy,2021,0.0,100.0,0.0
+Italy,2022,0.0,100.0,0.0
+Jamaica,2000,88.0,93.0,98.0
+Jamaica,2001,88.0,93.0,98.0
+Jamaica,2002,89.0,93.0,98.0
+Jamaica,2003,89.0,94.0,98.0
+Jamaica,2004,88.0,93.0,98.0
+Jamaica,2005,88.0,93.0,98.0
+Jamaica,2006,87.0,93.0,97.0
+Jamaica,2007,87.0,92.0,97.0
+Jamaica,2008,86.0,92.0,97.0
+Jamaica,2009,86.0,92.0,96.0
+Jamaica,2010,86.0,91.0,96.0
+Jamaica,2011,85.0,91.0,96.0
+Jamaica,2012,85.0,90.0,96.0
+Jamaica,2013,84.0,90.0,95.0
+Jamaica,2014,84.0,90.0,95.0
+Jamaica,2015,85.0,90.0,95.0
+Jamaica,2016,85.0,91.0,95.0
+Jamaica,2017,85.0,91.0,95.0
+Jamaica,2018,85.0,91.0,95.0
+Jamaica,2019,85.0,91.0,95.0
+Jamaica,2020,85.0,91.0,95.0
+Jamaica,2021,85.0,91.0,95.0
+Jamaica,2022,85.0,91.0,95.0
+Japan,2000,0.0,99.0,0.0
+Japan,2001,0.0,99.0,0.0
+Japan,2002,0.0,99.0,0.0
+Japan,2003,0.0,99.0,0.0
+Japan,2004,0.0,99.0,0.0
+Japan,2005,0.0,99.0,0.0
+Japan,2006,0.0,99.0,0.0
+Japan,2007,0.0,99.0,0.0
+Japan,2008,0.0,99.0,0.0
+Japan,2009,0.0,99.0,0.0
+Japan,2010,0.0,99.0,0.0
+Japan,2011,0.0,99.0,0.0
+Japan,2012,0.0,99.0,0.0
+Japan,2013,0.0,99.0,0.0
+Japan,2014,0.0,99.0,0.0
+Japan,2015,0.0,99.0,0.0
+Japan,2016,0.0,99.0,0.0
+Japan,2017,0.0,99.0,0.0
+Japan,2018,0.0,99.0,0.0
+Japan,2019,0.0,99.0,0.0
+Japan,2020,0.0,99.0,0.0
+Japan,2021,0.0,99.0,0.0
+Japan,2022,0.0,99.0,0.0
+Jordan,2000,97.0,99.0,99.0
+Jordan,2001,97.0,99.0,99.0
+Jordan,2002,97.0,99.0,99.0
+Jordan,2003,97.0,99.0,99.0
+Jordan,2004,97.0,99.0,99.0
+Jordan,2005,97.0,99.0,99.0
+Jordan,2006,97.0,99.0,99.0
+Jordan,2007,97.0,99.0,99.0
+Jordan,2008,97.0,99.0,99.0
+Jordan,2009,97.0,99.0,99.0
+Jordan,2010,97.0,99.0,99.0
+Jordan,2011,97.0,99.0,99.0
+Jordan,2012,97.0,99.0,99.0
+Jordan,2013,97.0,99.0,99.0
+Jordan,2014,97.0,99.0,99.0
+Jordan,2015,97.0,99.0,99.0
+Jordan,2016,97.0,99.0,99.0
+Jordan,2017,97.0,99.0,99.0
+Jordan,2018,97.0,99.0,99.0
+Jordan,2019,97.0,99.0,99.0
+Jordan,2020,97.0,99.0,99.0
+Jordan,2021,97.0,99.0,99.0
+Jordan,2022,97.0,99.0,99.0
+Kazakhstan,2000,82.0,90.0,97.0
+Kazakhstan,2001,82.0,91.0,97.0
+Kazakhstan,2002,83.0,91.0,97.0
+Kazakhstan,2003,84.0,91.0,97.0
+Kazakhstan,2004,84.0,92.0,97.0
+Kazakhstan,2005,85.0,92.0,97.0
+Kazakhstan,2006,85.0,92.0,98.0
+Kazakhstan,2007,86.0,93.0,98.0
+Kazakhstan,2008,87.0,93.0,98.0
+Kazakhstan,2009,87.0,93.0,98.0
+Kazakhstan,2010,88.0,94.0,98.0
+Kazakhstan,2011,88.0,94.0,98.0
+Kazakhstan,2012,89.0,94.0,98.0
+Kazakhstan,2013,90.0,95.0,98.0
+Kazakhstan,2014,90.0,95.0,98.0
+Kazakhstan,2015,91.0,95.0,98.0
+Kazakhstan,2016,91.0,95.0,98.0
+Kazakhstan,2017,92.0,95.0,98.0
+Kazakhstan,2018,92.0,95.0,98.0
+Kazakhstan,2019,92.0,95.0,98.0
+Kazakhstan,2020,92.0,95.0,98.0
+Kazakhstan,2021,92.0,95.0,98.0
+Kazakhstan,2022,0.0,0.0,98.0
+Kenya,2000,38.0,48.0,88.0
+Kenya,2001,38.0,48.0,88.0
+Kenya,2002,39.0,49.0,88.0
+Kenya,2003,40.0,50.0,88.0
+Kenya,2004,40.0,50.0,88.0
+Kenya,2005,41.0,51.0,87.0
+Kenya,2006,42.0,52.0,87.0
+Kenya,2007,43.0,53.0,87.0
+Kenya,2008,43.0,53.0,87.0
+Kenya,2009,44.0,54.0,87.0
+Kenya,2010,45.0,55.0,87.0
+Kenya,2011,45.0,55.0,87.0
+Kenya,2012,46.0,56.0,87.0
+Kenya,2013,47.0,57.0,87.0
+Kenya,2014,48.0,57.0,87.0
+Kenya,2015,48.0,58.0,87.0
+Kenya,2016,49.0,59.0,87.0
+Kenya,2017,50.0,60.0,87.0
+Kenya,2018,50.0,60.0,87.0
+Kenya,2019,51.0,61.0,87.0
+Kenya,2020,52.0,62.0,86.0
+Kenya,2021,53.0,62.0,86.0
+Kenya,2022,53.0,63.0,86.0
+Kiribati,2000,49.0,61.0,77.0
+Kiribati,2001,49.0,62.0,78.0
+Kiribati,2002,50.0,62.0,78.0
+Kiribati,2003,50.0,63.0,79.0
+Kiribati,2004,51.0,64.0,80.0
+Kiribati,2005,51.0,64.0,81.0
+Kiribati,2006,52.0,65.0,82.0
+Kiribati,2007,53.0,66.0,82.0
+Kiribati,2008,53.0,67.0,83.0
+Kiribati,2009,53.0,68.0,84.0
+Kiribati,2010,54.0,68.0,84.0
+Kiribati,2011,54.0,69.0,84.0
+Kiribati,2012,55.0,69.0,85.0
+Kiribati,2013,55.0,70.0,85.0
+Kiribati,2014,56.0,71.0,85.0
+Kiribati,2015,56.0,71.0,86.0
+Kiribati,2016,57.0,72.0,86.0
+Kiribati,2017,57.0,73.0,86.0
+Kiribati,2018,58.0,73.0,86.0
+Kiribati,2019,58.0,74.0,87.0
+Kiribati,2020,59.0,74.0,87.0
+Kiribati,2021,59.0,75.0,87.0
+Kiribati,2022,60.0,76.0,88.0
+Kuwait,2000,0.0,100.0,100.0
+Kuwait,2001,0.0,100.0,100.0
+Kuwait,2002,0.0,100.0,100.0
+Kuwait,2003,0.0,100.0,100.0
+Kuwait,2004,0.0,100.0,100.0
+Kuwait,2005,0.0,100.0,100.0
+Kuwait,2006,0.0,100.0,100.0
+Kuwait,2007,0.0,100.0,100.0
+Kuwait,2008,0.0,100.0,100.0
+Kuwait,2009,0.0,100.0,100.0
+Kuwait,2010,0.0,100.0,100.0
+Kuwait,2011,0.0,100.0,100.0
+Kuwait,2012,0.0,100.0,100.0
+Kuwait,2013,0.0,100.0,100.0
+Kuwait,2014,0.0,100.0,100.0
+Kuwait,2015,0.0,100.0,100.0
+Kuwait,2016,0.0,100.0,100.0
+Kuwait,2017,0.0,100.0,100.0
+Kuwait,2018,0.0,100.0,100.0
+Kuwait,2019,0.0,100.0,100.0
+Kuwait,2020,0.0,100.0,100.0
+Kuwait,2021,0.0,100.0,100.0
+Kuwait,2022,0.0,100.0,100.0
+Kyrgyzstan,2000,72.0,80.0,95.0
+Kyrgyzstan,2001,72.0,80.0,95.0
+Kyrgyzstan,2002,73.0,81.0,95.0
+Kyrgyzstan,2003,74.0,81.0,95.0
+Kyrgyzstan,2004,75.0,82.0,95.0
+Kyrgyzstan,2005,76.0,83.0,96.0
+Kyrgyzstan,2006,76.0,83.0,96.0
+Kyrgyzstan,2007,77.0,84.0,96.0
+Kyrgyzstan,2008,78.0,84.0,96.0
+Kyrgyzstan,2009,78.0,85.0,97.0
+Kyrgyzstan,2010,79.0,85.0,97.0
+Kyrgyzstan,2011,80.0,86.0,97.0
+Kyrgyzstan,2012,80.0,86.0,97.0
+Kyrgyzstan,2013,81.0,87.0,98.0
+Kyrgyzstan,2014,82.0,87.0,98.0
+Kyrgyzstan,2015,82.0,88.0,98.0
+Kyrgyzstan,2016,83.0,89.0,98.0
+Kyrgyzstan,2017,84.0,89.0,98.0
+Kyrgyzstan,2018,84.0,89.0,98.0
+Kyrgyzstan,2019,85.0,90.0,98.0
+Kyrgyzstan,2020,86.0,91.0,99.0
+Kyrgyzstan,2021,86.0,91.0,99.0
+Kyrgyzstan,2022,86.0,91.0,99.0
+Lao People's Democratic Republic,2000,38.0,46.0,77.0
+Lao People's Democratic Republic,2001,40.0,49.0,78.0
+Lao People's Democratic Republic,2002,42.0,51.0,79.0
+Lao People's Democratic Republic,2003,44.0,53.0,80.0
+Lao People's Democratic Republic,2004,47.0,56.0,81.0
+Lao People's Democratic Republic,2005,49.0,58.0,82.0
+Lao People's Democratic Republic,2006,51.0,60.0,83.0
+Lao People's Democratic Republic,2007,53.0,62.0,84.0
+Lao People's Democratic Republic,2008,55.0,64.0,85.0
+Lao People's Democratic Republic,2009,58.0,66.0,86.0
+Lao People's Democratic Republic,2010,60.0,68.0,87.0
+Lao People's Democratic Republic,2011,62.0,70.0,88.0
+Lao People's Democratic Republic,2012,64.0,72.0,89.0
+Lao People's Democratic Republic,2013,66.0,74.0,90.0
+Lao People's Democratic Republic,2014,68.0,76.0,91.0
+Lao People's Democratic Republic,2015,70.0,77.0,92.0
+Lao People's Democratic Republic,2016,72.0,80.0,94.0
+Lao People's Democratic Republic,2017,74.0,81.0,95.0
+Lao People's Democratic Republic,2018,76.0,83.0,96.0
+Lao People's Democratic Republic,2019,78.0,85.0,97.0
+Lao People's Democratic Republic,2020,78.0,85.0,97.0
+Lao People's Democratic Republic,2021,78.0,85.0,97.0
+Lao People's Democratic Republic,2022,78.0,85.0,97.0
+Latvia,2000,96.0,98.0,99.0
+Latvia,2001,96.0,98.0,99.0
+Latvia,2002,96.0,98.0,99.0
+Latvia,2003,96.0,98.0,99.0
+Latvia,2004,96.0,98.0,99.0
+Latvia,2005,96.0,98.0,99.0
+Latvia,2006,97.0,98.0,99.0
+Latvia,2007,97.0,98.0,99.0
+Latvia,2008,97.0,98.0,99.0
+Latvia,2009,97.0,98.0,99.0
+Latvia,2010,97.0,98.0,99.0
+Latvia,2011,97.0,98.0,99.0
+Latvia,2012,97.0,98.0,99.0
+Latvia,2013,98.0,98.0,99.0
+Latvia,2014,98.0,98.0,99.0
+Latvia,2015,98.0,99.0,99.0
+Latvia,2016,98.0,99.0,99.0
+Latvia,2017,98.0,99.0,99.0
+Latvia,2018,98.0,99.0,99.0
+Latvia,2019,98.0,99.0,99.0
+Latvia,2020,99.0,99.0,99.0
+Latvia,2021,99.0,99.0,99.0
+Latvia,2022,99.0,99.0,99.0
+Lebanon,2000,0.0,84.0,0.0
+Lebanon,2001,0.0,85.0,0.0
+Lebanon,2002,0.0,85.0,0.0
+Lebanon,2003,0.0,86.0,0.0
+Lebanon,2004,0.0,86.0,0.0
+Lebanon,2005,0.0,87.0,0.0
+Lebanon,2006,0.0,87.0,0.0
+Lebanon,2007,0.0,87.0,0.0
+Lebanon,2008,0.0,88.0,0.0
+Lebanon,2009,0.0,88.0,0.0
+Lebanon,2010,0.0,89.0,0.0
+Lebanon,2011,0.0,89.0,0.0
+Lebanon,2012,0.0,90.0,0.0
+Lebanon,2013,0.0,90.0,0.0
+Lebanon,2014,0.0,91.0,0.0
+Lebanon,2015,0.0,91.0,0.0
+Lebanon,2016,0.0,91.0,0.0
+Lebanon,2017,0.0,92.0,0.0
+Lebanon,2018,0.0,92.0,0.0
+Lebanon,2019,0.0,93.0,0.0
+Lebanon,2020,0.0,93.0,0.0
+Lebanon,2021,0.0,93.0,0.0
+Lebanon,2022,0.0,93.0,0.0
+Lesotho,2000,62.0,66.0,81.0
+Lesotho,2001,62.0,66.0,82.0
+Lesotho,2002,62.0,66.0,82.0
+Lesotho,2003,62.0,67.0,83.0
+Lesotho,2004,63.0,67.0,83.0
+Lesotho,2005,63.0,67.0,84.0
+Lesotho,2006,63.0,68.0,84.0
+Lesotho,2007,63.0,68.0,85.0
+Lesotho,2008,63.0,69.0,86.0
+Lesotho,2009,63.0,69.0,86.0
+Lesotho,2010,64.0,69.0,87.0
+Lesotho,2011,64.0,70.0,87.0
+Lesotho,2012,64.0,70.0,88.0
+Lesotho,2013,64.0,71.0,88.0
+Lesotho,2014,64.0,71.0,89.0
+Lesotho,2015,65.0,71.0,90.0
+Lesotho,2016,65.0,72.0,90.0
+Lesotho,2017,65.0,72.0,91.0
+Lesotho,2018,65.0,72.0,91.0
+Lesotho,2019,65.0,73.0,92.0
+Lesotho,2020,65.0,73.0,93.0
+Lesotho,2021,66.0,74.0,93.0
+Lesotho,2022,66.0,74.0,93.0
+Liberia,2000,49.0,62.0,78.0
+Liberia,2001,50.0,63.0,79.0
+Liberia,2002,51.0,64.0,79.0
+Liberia,2003,52.0,65.0,80.0
+Liberia,2004,53.0,66.0,80.0
+Liberia,2005,54.0,66.0,81.0
+Liberia,2006,55.0,67.0,81.0
+Liberia,2007,56.0,68.0,81.0
+Liberia,2008,56.0,68.0,81.0
+Liberia,2009,57.0,69.0,82.0
+Liberia,2010,58.0,69.0,82.0
+Liberia,2011,59.0,70.0,82.0
+Liberia,2012,59.0,71.0,82.0
+Liberia,2013,60.0,71.0,83.0
+Liberia,2014,61.0,72.0,83.0
+Liberia,2015,61.0,72.0,83.0
+Liberia,2016,62.0,73.0,83.0
+Liberia,2017,62.0,73.0,84.0
+Liberia,2018,63.0,74.0,84.0
+Liberia,2019,64.0,74.0,84.0
+Liberia,2020,64.0,75.0,84.0
+Liberia,2021,65.0,75.0,84.0
+Liberia,2022,65.0,76.0,85.0
+Libya,2000,0.0,84.0,0.0
+Libya,2001,0.0,85.0,0.0
+Libya,2002,0.0,86.0,0.0
+Libya,2003,0.0,87.0,0.0
+Libya,2004,0.0,88.0,0.0
+Libya,2005,0.0,89.0,0.0
+Libya,2006,0.0,89.0,0.0
+Libya,2007,0.0,90.0,0.0
+Libya,2008,0.0,91.0,0.0
+Libya,2009,0.0,92.0,0.0
+Libya,2010,0.0,93.0,0.0
+Libya,2011,0.0,94.0,0.0
+Libya,2012,0.0,95.0,0.0
+Libya,2013,0.0,96.0,0.0
+Libya,2014,0.0,96.0,0.0
+Libya,2015,0.0,97.0,0.0
+Libya,2016,0.0,98.0,0.0
+Libya,2017,0.0,99.0,0.0
+Libya,2018,0.0,100.0,0.0
+Libya,2019,0.0,100.0,0.0
+Libya,2020,0.0,100.0,0.0
+Libya,2021,0.0,100.0,0.0
+Libya,2022,0.0,100.0,0.0
+Lithuania,2000,75.0,90.0,97.0
+Lithuania,2001,76.0,90.0,97.0
+Lithuania,2002,77.0,91.0,97.0
+Lithuania,2003,78.0,91.0,97.0
+Lithuania,2004,79.0,91.0,97.0
+Lithuania,2005,81.0,92.0,98.0
+Lithuania,2006,82.0,92.0,98.0
+Lithuania,2007,83.0,93.0,98.0
+Lithuania,2008,84.0,93.0,98.0
+Lithuania,2009,85.0,94.0,98.0
+Lithuania,2010,86.0,94.0,99.0
+Lithuania,2011,87.0,95.0,99.0
+Lithuania,2012,88.0,95.0,99.0
+Lithuania,2013,89.0,96.0,99.0
+Lithuania,2014,90.0,96.0,99.0
+Lithuania,2015,91.0,97.0,99.0
+Lithuania,2016,92.0,97.0,100.0
+Lithuania,2017,93.0,98.0,100.0
+Lithuania,2018,94.0,98.0,100.0
+Lithuania,2019,94.0,98.0,100.0
+Lithuania,2020,94.0,98.0,100.0
+Lithuania,2021,94.0,98.0,100.0
+Lithuania,2022,94.0,98.0,100.0
+Luxembourg,2000,100.0,100.0,100.0
+Luxembourg,2001,100.0,100.0,100.0
+Luxembourg,2002,100.0,100.0,100.0
+Luxembourg,2003,100.0,100.0,100.0
+Luxembourg,2004,100.0,100.0,100.0
+Luxembourg,2005,100.0,100.0,100.0
+Luxembourg,2006,100.0,100.0,100.0
+Luxembourg,2007,100.0,100.0,100.0
+Luxembourg,2008,100.0,100.0,100.0
+Luxembourg,2009,100.0,100.0,100.0
+Luxembourg,2010,100.0,100.0,100.0
+Luxembourg,2011,100.0,100.0,100.0
+Luxembourg,2012,100.0,100.0,100.0
+Luxembourg,2013,100.0,100.0,100.0
+Luxembourg,2014,99.0,100.0,100.0
+Luxembourg,2015,99.0,100.0,100.0
+Luxembourg,2016,99.0,100.0,100.0
+Luxembourg,2017,99.0,100.0,100.0
+Luxembourg,2018,99.0,100.0,100.0
+Luxembourg,2019,99.0,100.0,100.0
+Luxembourg,2020,99.0,100.0,100.0
+Luxembourg,2021,99.0,100.0,100.0
+Luxembourg,2022,99.0,100.0,100.0
+Madagascar,2000,24.0,37.0,71.0
+Madagascar,2001,25.0,38.0,72.0
+Madagascar,2002,25.0,38.0,72.0
+Madagascar,2003,26.0,39.0,73.0
+Madagascar,2004,26.0,39.0,73.0
+Madagascar,2005,27.0,40.0,73.0
+Madagascar,2006,27.0,41.0,74.0
+Madagascar,2007,28.0,42.0,74.0
+Madagascar,2008,28.0,43.0,75.0
+Madagascar,2009,29.0,43.0,75.0
+Madagascar,2010,30.0,44.0,75.0
+Madagascar,2011,30.0,45.0,76.0
+Madagascar,2012,31.0,46.0,76.0
+Madagascar,2013,31.0,47.0,76.0
+Madagascar,2014,32.0,47.0,77.0
+Madagascar,2015,32.0,48.0,77.0
+Madagascar,2016,33.0,49.0,78.0
+Madagascar,2017,33.0,50.0,78.0
+Madagascar,2018,34.0,50.0,78.0
+Madagascar,2019,34.0,51.0,79.0
+Madagascar,2020,35.0,52.0,79.0
+Madagascar,2021,35.0,53.0,79.0
+Madagascar,2022,36.0,53.0,80.0
+Malawi,2000,48.0,54.0,86.0
+Malawi,2001,49.0,55.0,86.0
+Malawi,2002,50.0,56.0,86.0
+Malawi,2003,51.0,56.0,86.0
+Malawi,2004,52.0,57.0,86.0
+Malawi,2005,53.0,58.0,86.0
+Malawi,2006,54.0,59.0,86.0
+Malawi,2007,55.0,60.0,86.0
+Malawi,2008,56.0,60.0,86.0
+Malawi,2009,57.0,61.0,86.0
+Malawi,2010,58.0,62.0,86.0
+Malawi,2011,59.0,63.0,86.0
+Malawi,2012,60.0,64.0,86.0
+Malawi,2013,61.0,65.0,86.0
+Malawi,2014,61.0,65.0,86.0
+Malawi,2015,62.0,66.0,86.0
+Malawi,2016,63.0,67.0,86.0
+Malawi,2017,64.0,68.0,86.0
+Malawi,2018,65.0,69.0,86.0
+Malawi,2019,66.0,69.0,86.0
+Malawi,2020,67.0,70.0,86.0
+Malawi,2021,68.0,71.0,86.0
+Malawi,2022,69.0,72.0,86.0
+Malaysia,2000,93.0,97.0,99.0
+Malaysia,2001,93.0,97.0,99.0
+Malaysia,2002,93.0,97.0,99.0
+Malaysia,2003,93.0,97.0,99.0
+Malaysia,2004,93.0,97.0,99.0
+Malaysia,2005,92.0,97.0,99.0
+Malaysia,2006,92.0,97.0,99.0
+Malaysia,2007,92.0,97.0,99.0
+Malaysia,2008,92.0,97.0,99.0
+Malaysia,2009,92.0,97.0,99.0
+Malaysia,2010,92.0,97.0,99.0
+Malaysia,2011,91.0,97.0,99.0
+Malaysia,2012,91.0,97.0,99.0
+Malaysia,2013,91.0,97.0,99.0
+Malaysia,2014,91.0,97.0,99.0
+Malaysia,2015,91.0,97.0,99.0
+Malaysia,2016,91.0,97.0,99.0
+Malaysia,2017,91.0,97.0,99.0
+Malaysia,2018,90.0,97.0,99.0
+Malaysia,2019,90.0,97.0,99.0
+Malaysia,2020,90.0,97.0,99.0
+Malaysia,2021,90.0,97.0,99.0
+Malaysia,2022,90.0,97.0,99.0
+Maldives,2000,92.0,94.0,98.0
+Maldives,2001,93.0,94.0,98.0
+Maldives,2002,93.0,95.0,98.0
+Maldives,2003,94.0,95.0,98.0
+Maldives,2004,94.0,95.0,98.0
+Maldives,2005,94.0,96.0,98.0
+Maldives,2006,95.0,96.0,98.0
+Maldives,2007,95.0,96.0,98.0
+Maldives,2008,96.0,97.0,98.0
+Maldives,2009,96.0,97.0,98.0
+Maldives,2010,97.0,97.0,98.0
+Maldives,2011,97.0,98.0,98.0
+Maldives,2012,98.0,98.0,99.0
+Maldives,2013,98.0,98.0,99.0
+Maldives,2014,98.0,99.0,99.0
+Maldives,2015,99.0,99.0,99.0
+Maldives,2016,99.0,99.0,99.0
+Maldives,2017,100.0,99.0,99.0
+Maldives,2018,100.0,99.0,99.0
+Maldives,2019,100.0,100.0,99.0
+Maldives,2020,100.0,100.0,99.0
+Maldives,2021,100.0,100.0,99.0
+Maldives,2022,100.0,100.0,99.0
+Mali,2000,39.0,50.0,77.0
+Mali,2001,40.0,51.0,78.0
+Mali,2002,42.0,53.0,79.0
+Mali,2003,44.0,55.0,80.0
+Mali,2004,45.0,56.0,80.0
+Mali,2005,47.0,58.0,81.0
+Mali,2006,48.0,59.0,82.0
+Mali,2007,50.0,61.0,83.0
+Mali,2008,51.0,62.0,84.0
+Mali,2009,53.0,64.0,84.0
+Mali,2010,55.0,66.0,85.0
+Mali,2011,56.0,67.0,86.0
+Mali,2012,58.0,69.0,87.0
+Mali,2013,59.0,70.0,88.0
+Mali,2014,61.0,72.0,88.0
+Mali,2015,63.0,73.0,89.0
+Mali,2016,64.0,75.0,90.0
+Mali,2017,66.0,76.0,91.0
+Mali,2018,68.0,78.0,92.0
+Mali,2019,69.0,79.0,92.0
+Mali,2020,71.0,81.0,93.0
+Mali,2021,73.0,82.0,94.0
+Mali,2022,74.0,84.0,95.0
+Malta,2000,100.0,100.0,100.0
+Malta,2001,100.0,100.0,100.0
+Malta,2002,100.0,100.0,100.0
+Malta,2003,100.0,100.0,100.0
+Malta,2004,100.0,100.0,100.0
+Malta,2005,100.0,100.0,100.0
+Malta,2006,100.0,100.0,100.0
+Malta,2007,100.0,100.0,100.0
+Malta,2008,100.0,100.0,100.0
+Malta,2009,100.0,100.0,100.0
+Malta,2010,100.0,100.0,100.0
+Malta,2011,100.0,100.0,100.0
+Malta,2012,100.0,100.0,100.0
+Malta,2013,100.0,100.0,100.0
+Malta,2014,100.0,100.0,100.0
+Malta,2015,100.0,100.0,100.0
+Malta,2016,100.0,100.0,100.0
+Malta,2017,100.0,100.0,100.0
+Malta,2018,100.0,100.0,100.0
+Malta,2019,100.0,100.0,100.0
+Malta,2020,100.0,100.0,100.0
+Malta,2021,100.0,100.0,100.0
+Malta,2022,100.0,100.0,100.0
+Marshall Islands,2000,95.0,0.0,0.0
+Marshall Islands,2001,95.0,89.0,86.0
+Marshall Islands,2002,95.0,89.0,86.0
+Marshall Islands,2003,95.0,89.0,86.0
+Marshall Islands,2004,95.0,89.0,86.0
+Marshall Islands,2005,95.0,89.0,86.0
+Marshall Islands,2006,95.0,89.0,86.0
+Marshall Islands,2007,95.0,88.0,86.0
+Marshall Islands,2008,95.0,88.0,86.0
+Marshall Islands,2009,94.0,88.0,86.0
+Marshall Islands,2010,94.0,88.0,86.0
+Marshall Islands,2011,93.0,88.0,86.0
+Marshall Islands,2012,93.0,87.0,86.0
+Marshall Islands,2013,92.0,87.0,85.0
+Marshall Islands,2014,92.0,87.0,85.0
+Marshall Islands,2015,91.0,87.0,85.0
+Marshall Islands,2016,91.0,86.0,85.0
+Marshall Islands,2017,90.0,86.0,85.0
+Marshall Islands,2018,89.0,86.0,85.0
+Marshall Islands,2019,89.0,86.0,85.0
+Marshall Islands,2020,88.0,85.0,85.0
+Marshall Islands,2021,88.0,85.0,85.0
+Marshall Islands,2022,87.0,85.0,84.0
+Mauritania,2000,26.0,42.0,68.0
+Mauritania,2001,27.0,42.0,68.0
+Mauritania,2002,28.0,44.0,69.0
+Mauritania,2003,29.0,46.0,70.0
+Mauritania,2004,30.0,47.0,71.0
+Mauritania,2005,31.0,49.0,73.0
+Mauritania,2006,33.0,50.0,74.0
+Mauritania,2007,34.0,52.0,75.0
+Mauritania,2008,35.0,54.0,76.0
+Mauritania,2009,37.0,55.0,78.0
+Mauritania,2010,38.0,57.0,79.0
+Mauritania,2011,39.0,59.0,80.0
+Mauritania,2012,41.0,60.0,81.0
+Mauritania,2013,42.0,62.0,83.0
+Mauritania,2014,43.0,64.0,84.0
+Mauritania,2015,45.0,66.0,85.0
+Mauritania,2016,46.0,67.0,87.0
+Mauritania,2017,48.0,69.0,88.0
+Mauritania,2018,49.0,71.0,89.0
+Mauritania,2019,51.0,73.0,91.0
+Mauritania,2020,52.0,74.0,92.0
+Mauritania,2021,54.0,76.0,93.0
+Mauritania,2022,56.0,78.0,95.0
+Mauritius,2000,99.0,99.0,100.0
+Mauritius,2001,99.0,99.0,100.0
+Mauritius,2002,99.0,99.0,100.0
+Mauritius,2003,99.0,99.0,100.0
+Mauritius,2004,99.0,99.0,100.0
+Mauritius,2005,99.0,99.0,100.0
+Mauritius,2006,99.0,100.0,100.0
+Mauritius,2007,99.0,100.0,100.0
+Mauritius,2008,99.0,100.0,100.0
+Mauritius,2009,99.0,100.0,100.0
+Mauritius,2010,99.0,100.0,100.0
+Mauritius,2011,100.0,100.0,100.0
+Mauritius,2012,100.0,100.0,100.0
+Mauritius,2013,100.0,100.0,100.0
+Mauritius,2014,100.0,100.0,100.0
+Mauritius,2015,100.0,100.0,100.0
+Mauritius,2016,100.0,100.0,100.0
+Mauritius,2017,100.0,100.0,100.0
+Mauritius,2018,100.0,100.0,100.0
+Mauritius,2019,100.0,100.0,100.0
+Mauritius,2020,100.0,100.0,100.0
+Mauritius,2021,100.0,100.0,100.0
+Mauritius,2022,100.0,100.0,100.0
+Mexico,2000,76.0,91.0,96.0
+Mexico,2001,77.0,91.0,96.0
+Mexico,2002,79.0,92.0,96.0
+Mexico,2003,80.0,92.0,96.0
+Mexico,2004,81.0,93.0,97.0
+Mexico,2005,83.0,93.0,97.0
+Mexico,2006,84.0,94.0,97.0
+Mexico,2007,85.0,94.0,97.0
+Mexico,2008,86.0,95.0,98.0
+Mexico,2009,87.0,95.0,98.0
+Mexico,2010,88.0,96.0,98.0
+Mexico,2011,89.0,96.0,98.0
+Mexico,2012,90.0,97.0,98.0
+Mexico,2013,91.0,97.0,99.0
+Mexico,2014,92.0,97.0,99.0
+Mexico,2015,92.0,98.0,99.0
+Mexico,2016,93.0,98.0,99.0
+Mexico,2017,94.0,98.0,99.0
+Mexico,2018,95.0,99.0,100.0
+Mexico,2019,96.0,99.0,100.0
+Mexico,2020,97.0,99.0,100.0
+Mexico,2021,98.0,100.0,100.0
+Mexico,2022,98.0,100.0,100.0
+Micronesia (Federated States of),2000,0.0,91.0,0.0
+Micronesia (Federated States of),2001,0.0,91.0,0.0
+Micronesia (Federated States of),2002,0.0,91.0,0.0
+Micronesia (Federated States of),2003,0.0,91.0,0.0
+Micronesia (Federated States of),2004,0.0,91.0,0.0
+Micronesia (Federated States of),2005,0.0,91.0,0.0
+Micronesia (Federated States of),2006,0.0,91.0,0.0
+Micronesia (Federated States of),2007,0.0,91.0,0.0
+Micronesia (Federated States of),2008,0.0,91.0,0.0
+Micronesia (Federated States of),2009,0.0,91.0,0.0
+Micronesia (Federated States of),2010,0.0,90.0,0.0
+Micronesia (Federated States of),2011,0.0,90.0,0.0
+Micronesia (Federated States of),2012,0.0,90.0,0.0
+Micronesia (Federated States of),2013,0.0,90.0,0.0
+Micronesia (Federated States of),2014,0.0,90.0,0.0
+Micronesia (Federated States of),2015,0.0,90.0,0.0
+Micronesia (Federated States of),2016,0.0,90.0,0.0
+Micronesia (Federated States of),2017,0.0,90.0,0.0
+Micronesia (Federated States of),2018,0.0,90.0,0.0
+Micronesia (Federated States of),2019,0.0,90.0,0.0
+Micronesia (Federated States of),2020,0.0,90.0,0.0
+Monaco,2000,0.0,100.0,100.0
+Monaco,2001,0.0,100.0,100.0
+Monaco,2002,0.0,100.0,100.0
+Monaco,2003,0.0,100.0,100.0
+Monaco,2004,0.0,100.0,100.0
+Monaco,2005,0.0,100.0,100.0
+Monaco,2006,0.0,100.0,100.0
+Monaco,2007,0.0,100.0,100.0
+Monaco,2008,0.0,100.0,100.0
+Monaco,2009,0.0,100.0,100.0
+Monaco,2010,0.0,100.0,100.0
+Monaco,2011,0.0,100.0,100.0
+Monaco,2012,0.0,100.0,100.0
+Monaco,2013,0.0,100.0,100.0
+Monaco,2014,0.0,100.0,100.0
+Monaco,2015,0.0,100.0,100.0
+Monaco,2016,0.0,100.0,100.0
+Monaco,2017,0.0,100.0,100.0
+Monaco,2018,0.0,100.0,100.0
+Monaco,2019,0.0,100.0,100.0
+Monaco,2020,0.0,100.0,100.0
+Monaco,2021,0.0,100.0,100.0
+Monaco,2022,0.0,100.0,100.0
+Mongolia,2000,28.0,62.0,88.0
+Mongolia,2001,30.0,64.0,88.0
+Mongolia,2002,31.0,65.0,89.0
+Mongolia,2003,33.0,67.0,89.0
+Mongolia,2004,34.0,68.0,89.0
+Mongolia,2005,35.0,69.0,89.0
+Mongolia,2006,37.0,70.0,90.0
+Mongolia,2007,38.0,72.0,90.0
+Mongolia,2008,40.0,73.0,90.0
+Mongolia,2009,41.0,74.0,91.0
+Mongolia,2010,43.0,75.0,91.0
+Mongolia,2011,44.0,76.0,91.0
+Mongolia,2012,45.0,77.0,91.0
+Mongolia,2013,47.0,77.0,92.0
+Mongolia,2014,48.0,78.0,92.0
+Mongolia,2015,50.0,79.0,92.0
+Mongolia,2016,51.0,79.0,93.0
+Mongolia,2017,53.0,80.0,93.0
+Mongolia,2018,54.0,81.0,93.0
+Mongolia,2019,55.0,81.0,93.0
+Mongolia,2020,57.0,82.0,94.0
+Mongolia,2021,58.0,83.0,94.0
+Mongolia,2022,60.0,84.0,94.0
+Montenegro,2006,94.0,95.0,96.0
+Montenegro,2007,94.0,95.0,96.0
+Montenegro,2008,94.0,96.0,96.0
+Montenegro,2009,95.0,96.0,97.0
+Montenegro,2010,95.0,96.0,97.0
+Montenegro,2011,95.0,96.0,97.0
+Montenegro,2012,95.0,97.0,97.0
+Montenegro,2013,95.0,97.0,98.0
+Montenegro,2014,96.0,97.0,98.0
+Montenegro,2015,96.0,97.0,98.0
+Montenegro,2016,96.0,98.0,98.0
+Montenegro,2017,96.0,98.0,99.0
+Montenegro,2018,98.0,99.0,99.0
+Montenegro,2019,98.0,99.0,99.0
+Montenegro,2020,98.0,99.0,99.0
+Montenegro,2021,98.0,99.0,99.0
+Montenegro,2022,98.0,99.0,99.0
+Morocco,2000,33.0,65.0,93.0
+Morocco,2001,34.0,66.0,93.0
+Morocco,2002,35.0,67.0,93.0
+Morocco,2003,37.0,68.0,94.0
+Morocco,2004,38.0,69.0,94.0
+Morocco,2005,40.0,70.0,94.0
+Morocco,2006,41.0,71.0,94.0
+Morocco,2007,43.0,72.0,94.0
+Morocco,2008,44.0,73.0,95.0
+Morocco,2009,46.0,74.0,95.0
+Morocco,2010,47.0,75.0,95.0
+Morocco,2011,49.0,76.0,95.0
+Morocco,2012,50.0,77.0,95.0
+Morocco,2013,52.0,78.0,96.0
+Morocco,2014,54.0,79.0,96.0
+Morocco,2015,55.0,80.0,96.0
+Morocco,2016,57.0,81.0,96.0
+Morocco,2017,59.0,82.0,96.0
+Morocco,2018,60.0,84.0,98.0
+Morocco,2019,62.0,85.0,98.0
+Morocco,2020,64.0,86.0,99.0
+Morocco,2021,66.0,87.0,99.0
+Morocco,2022,66.0,87.0,99.0
+Mozambique,2000,7.0,23.0,61.0
+Mozambique,2001,8.0,24.0,61.0
+Mozambique,2002,10.0,25.0,62.0
+Mozambique,2003,11.0,27.0,64.0
+Mozambique,2004,13.0,28.0,65.0
+Mozambique,2005,15.0,30.0,66.0
+Mozambique,2006,16.0,32.0,67.0
+Mozambique,2007,18.0,33.0,68.0
+Mozambique,2008,20.0,35.0,70.0
+Mozambique,2009,22.0,37.0,71.0
+Mozambique,2010,24.0,39.0,72.0
+Mozambique,2011,25.0,41.0,73.0
+Mozambique,2012,27.0,43.0,75.0
+Mozambique,2013,29.0,45.0,76.0
+Mozambique,2014,31.0,47.0,77.0
+Mozambique,2015,34.0,49.0,79.0
+Mozambique,2016,36.0,51.0,80.0
+Mozambique,2017,38.0,53.0,81.0
+Mozambique,2018,40.0,55.0,83.0
+Mozambique,2019,42.0,58.0,84.0
+Mozambique,2020,45.0,60.0,85.0
+Mozambique,2021,47.0,61.0,86.0
+Mozambique,2022,48.0,63.0,87.0
+Myanmar,2000,40.0,48.0,70.0
+Myanmar,2001,41.0,49.0,71.0
+Myanmar,2002,43.0,51.0,72.0
+Myanmar,2003,44.0,52.0,73.0
+Myanmar,2004,46.0,54.0,74.0
+Myanmar,2005,47.0,55.0,75.0
+Myanmar,2006,49.0,57.0,76.0
+Myanmar,2007,51.0,58.0,78.0
+Myanmar,2008,53.0,60.0,79.0
+Myanmar,2009,54.0,62.0,80.0
+Myanmar,2010,56.0,63.0,81.0
+Myanmar,2011,58.0,65.0,82.0
+Myanmar,2012,60.0,67.0,83.0
+Myanmar,2013,61.0,68.0,85.0
+Myanmar,2014,63.0,70.0,86.0
+Myanmar,2015,65.0,72.0,87.0
+Myanmar,2016,67.0,74.0,88.0
+Myanmar,2017,69.0,75.0,90.0
+Myanmar,2018,71.0,77.0,91.0
+Myanmar,2019,73.0,79.0,92.0
+Myanmar,2020,75.0,81.0,93.0
+Myanmar,2021,77.0,82.0,94.0
+Myanmar,2022,77.0,82.0,94.0
+Namibia,2000,65.0,76.0,98.0
+Namibia,2001,66.0,76.0,98.0
+Namibia,2002,66.0,77.0,98.0
+Namibia,2003,67.0,77.0,98.0
+Namibia,2004,67.0,78.0,98.0
+Namibia,2005,67.0,78.0,98.0
+Namibia,2006,68.0,79.0,97.0
+Namibia,2007,68.0,79.0,97.0
+Namibia,2008,69.0,80.0,97.0
+Namibia,2009,69.0,80.0,97.0
+Namibia,2010,69.0,81.0,97.0
+Namibia,2011,70.0,81.0,97.0
+Namibia,2012,70.0,82.0,97.0
+Namibia,2013,71.0,82.0,97.0
+Namibia,2014,71.0,83.0,97.0
+Namibia,2015,71.0,83.0,97.0
+Namibia,2016,72.0,84.0,96.0
+Namibia,2017,72.0,84.0,96.0
+Namibia,2018,73.0,84.0,96.0
+Namibia,2019,73.0,85.0,96.0
+Namibia,2020,73.0,85.0,96.0
+Namibia,2021,74.0,86.0,96.0
+Namibia,2022,74.0,86.0,96.0
+Nauru,2000,0.0,98.0,98.0
+Nauru,2001,0.0,98.0,98.0
+Nauru,2002,0.0,98.0,98.0
+Nauru,2003,0.0,98.0,98.0
+Nauru,2004,0.0,98.0,98.0
+Nauru,2005,0.0,98.0,98.0
+Nauru,2006,0.0,98.0,98.0
+Nauru,2007,0.0,98.0,98.0
+Nauru,2008,0.0,98.0,98.0
+Nauru,2009,0.0,97.0,97.0
+Nauru,2010,0.0,97.0,97.0
+Nauru,2011,0.0,97.0,97.0
+Nauru,2012,0.0,97.0,97.0
+Nauru,2013,0.0,97.0,97.0
+Nauru,2014,0.0,97.0,97.0
+Nauru,2015,0.0,97.0,97.0
+Nauru,2016,0.0,97.0,97.0
+Nauru,2017,0.0,97.0,97.0
+Nauru,2018,0.0,97.0,97.0
+Nauru,2019,0.0,97.0,97.0
+Nepal,2000,78.0,80.0,92.0
+Nepal,2001,78.0,80.0,92.0
+Nepal,2002,79.0,81.0,92.0
+Nepal,2003,80.0,82.0,92.0
+Nepal,2004,80.0,82.0,92.0
+Nepal,2005,81.0,83.0,92.0
+Nepal,2006,82.0,83.0,92.0
+Nepal,2007,82.0,84.0,92.0
+Nepal,2008,83.0,84.0,91.0
+Nepal,2009,84.0,85.0,91.0
+Nepal,2010,84.0,86.0,91.0
+Nepal,2011,85.0,86.0,91.0
+Nepal,2012,86.0,87.0,91.0
+Nepal,2013,86.0,87.0,91.0
+Nepal,2014,87.0,88.0,91.0
+Nepal,2015,88.0,88.0,91.0
+Nepal,2016,88.0,89.0,91.0
+Nepal,2017,89.0,89.0,90.0
+Nepal,2018,90.0,90.0,90.0
+Nepal,2019,90.0,90.0,90.0
+Nepal,2020,91.0,91.0,90.0
+Nepal,2021,92.0,91.0,90.0
+Nepal,2022,92.0,91.0,90.0
+Netherlands (Kingdom of the),2000,100.0,100.0,100.0
+Netherlands (Kingdom of the),2001,100.0,100.0,100.0
+Netherlands (Kingdom of the),2002,100.0,100.0,100.0
+Netherlands (Kingdom of the),2003,100.0,100.0,100.0
+Netherlands (Kingdom of the),2004,100.0,100.0,100.0
+Netherlands (Kingdom of the),2005,100.0,100.0,100.0
+Netherlands (Kingdom of the),2006,100.0,100.0,100.0
+Netherlands (Kingdom of the),2007,100.0,100.0,100.0
+Netherlands (Kingdom of the),2008,100.0,100.0,100.0
+Netherlands (Kingdom of the),2009,100.0,100.0,100.0
+Netherlands (Kingdom of the),2010,100.0,100.0,100.0
+Netherlands (Kingdom of the),2011,100.0,100.0,100.0
+Netherlands (Kingdom of the),2012,100.0,100.0,100.0
+Netherlands (Kingdom of the),2013,100.0,100.0,100.0
+Netherlands (Kingdom of the),2014,100.0,100.0,100.0
+Netherlands (Kingdom of the),2015,100.0,100.0,100.0
+Netherlands (Kingdom of the),2016,100.0,100.0,100.0
+Netherlands (Kingdom of the),2017,100.0,100.0,100.0
+Netherlands (Kingdom of the),2018,100.0,100.0,100.0
+Netherlands (Kingdom of the),2019,100.0,100.0,100.0
+Netherlands (Kingdom of the),2020,100.0,100.0,100.0
+Netherlands (Kingdom of the),2021,100.0,100.0,100.0
+Netherlands (Kingdom of the),2022,100.0,100.0,100.0
+New Zealand,2000,100.0,100.0,100.0
+New Zealand,2001,100.0,100.0,100.0
+New Zealand,2002,100.0,100.0,100.0
+New Zealand,2003,100.0,100.0,100.0
+New Zealand,2004,100.0,100.0,100.0
+New Zealand,2005,100.0,100.0,100.0
+New Zealand,2006,100.0,100.0,100.0
+New Zealand,2007,100.0,100.0,100.0
+New Zealand,2008,100.0,100.0,100.0
+New Zealand,2009,100.0,100.0,100.0
+New Zealand,2010,100.0,100.0,100.0
+New Zealand,2011,100.0,100.0,100.0
+New Zealand,2012,100.0,100.0,100.0
+New Zealand,2013,100.0,100.0,100.0
+New Zealand,2014,100.0,100.0,100.0
+New Zealand,2015,100.0,100.0,100.0
+New Zealand,2016,100.0,100.0,100.0
+New Zealand,2017,100.0,100.0,100.0
+New Zealand,2018,100.0,100.0,100.0
+New Zealand,2019,100.0,100.0,100.0
+New Zealand,2020,100.0,100.0,100.0
+New Zealand,2021,100.0,100.0,100.0
+New Zealand,2022,100.0,100.0,100.0
+Nicaragua,2000,63.0,81.0,95.0
+Nicaragua,2001,63.0,81.0,95.0
+Nicaragua,2002,63.0,81.0,95.0
+Nicaragua,2003,63.0,81.0,95.0
+Nicaragua,2004,62.0,81.0,95.0
+Nicaragua,2005,62.0,81.0,96.0
+Nicaragua,2006,62.0,81.0,96.0
+Nicaragua,2007,62.0,81.0,96.0
+Nicaragua,2008,61.0,81.0,96.0
+Nicaragua,2009,61.0,81.0,96.0
+Nicaragua,2010,61.0,81.0,96.0
+Nicaragua,2011,61.0,81.0,97.0
+Nicaragua,2012,60.0,81.0,97.0
+Nicaragua,2013,60.0,81.0,97.0
+Nicaragua,2014,60.0,81.0,97.0
+Nicaragua,2015,60.0,81.0,97.0
+Nicaragua,2016,59.0,81.0,97.0
+Nicaragua,2017,59.0,81.0,97.0
+Nicaragua,2018,59.0,82.0,97.0
+Nicaragua,2019,59.0,82.0,97.0
+Nicaragua,2020,59.0,82.0,97.0
+Niger,2000,27.0,37.0,91.0
+Niger,2001,28.0,38.0,91.0
+Niger,2002,29.0,39.0,91.0
+Niger,2003,30.0,40.0,91.0
+Niger,2004,30.0,40.0,91.0
+Niger,2005,31.0,41.0,91.0
+Niger,2006,32.0,41.0,90.0
+Niger,2007,33.0,42.0,90.0
+Niger,2008,33.0,43.0,90.0
+Niger,2009,34.0,43.0,90.0
+Niger,2010,35.0,44.0,90.0
+Niger,2011,35.0,44.0,90.0
+Niger,2012,36.0,45.0,90.0
+Niger,2013,36.0,45.0,89.0
+Niger,2014,37.0,45.0,89.0
+Niger,2015,37.0,46.0,89.0
+Niger,2016,38.0,46.0,89.0
+Niger,2017,38.0,47.0,89.0
+Niger,2018,39.0,47.0,89.0
+Niger,2019,39.0,47.0,88.0
+Niger,2020,40.0,48.0,88.0
+Niger,2021,40.0,48.0,88.0
+Niger,2022,41.0,49.0,88.0
+Nigeria,2000,32.0,44.0,68.0
+Nigeria,2001,33.0,46.0,69.0
+Nigeria,2002,34.0,47.0,70.0
+Nigeria,2003,36.0,49.0,71.0
+Nigeria,2004,37.0,50.0,72.0
+Nigeria,2005,38.0,52.0,73.0
+Nigeria,2006,40.0,54.0,75.0
+Nigeria,2007,41.0,55.0,76.0
+Nigeria,2008,43.0,57.0,77.0
+Nigeria,2009,44.0,58.0,78.0
+Nigeria,2010,45.0,60.0,79.0
+Nigeria,2011,47.0,62.0,80.0
+Nigeria,2012,48.0,63.0,81.0
+Nigeria,2013,50.0,65.0,83.0
+Nigeria,2014,51.0,67.0,84.0
+Nigeria,2015,53.0,68.0,85.0
+Nigeria,2016,54.0,70.0,86.0
+Nigeria,2017,56.0,71.0,87.0
+Nigeria,2018,57.0,73.0,89.0
+Nigeria,2019,59.0,75.0,90.0
+Nigeria,2020,60.0,76.0,91.0
+Nigeria,2021,62.0,78.0,92.0
+Nigeria,2022,63.0,80.0,94.0
+Niue,2000,0.0,99.0,0.0
+Niue,2001,0.0,99.0,0.0
+Niue,2002,0.0,99.0,0.0
+Niue,2003,0.0,99.0,0.0
+Niue,2004,0.0,99.0,0.0
+Niue,2005,0.0,99.0,0.0
+Niue,2006,0.0,99.0,0.0
+Niue,2007,0.0,99.0,0.0
+Niue,2008,0.0,99.0,0.0
+Niue,2009,0.0,98.0,0.0
+Niue,2010,0.0,98.0,0.0
+Niue,2011,0.0,98.0,0.0
+Niue,2012,0.0,98.0,0.0
+Niue,2013,0.0,98.0,0.0
+Niue,2014,0.0,98.0,0.0
+Niue,2015,0.0,98.0,0.0
+Niue,2016,0.0,97.0,0.0
+Niue,2017,0.0,97.0,0.0
+Niue,2018,0.0,97.0,0.0
+Niue,2019,0.0,97.0,0.0
+Niue,2020,0.0,97.0,0.0
+Niue,2021,0.0,97.0,0.0
+Niue,2022,0.0,97.0,0.0
+North Macedonia,2000,98.0,97.0,96.0
+North Macedonia,2001,98.0,97.0,96.0
+North Macedonia,2002,98.0,97.0,96.0
+North Macedonia,2003,98.0,97.0,96.0
+North Macedonia,2004,98.0,97.0,96.0
+North Macedonia,2005,98.0,97.0,96.0
+North Macedonia,2006,98.0,97.0,96.0
+North Macedonia,2007,98.0,97.0,96.0
+North Macedonia,2008,98.0,97.0,97.0
+North Macedonia,2009,98.0,97.0,97.0
+North Macedonia,2010,98.0,97.0,97.0
+North Macedonia,2011,98.0,97.0,97.0
+North Macedonia,2012,98.0,97.0,97.0
+North Macedonia,2013,98.0,97.0,97.0
+North Macedonia,2014,98.0,97.0,97.0
+North Macedonia,2015,98.0,98.0,97.0
+North Macedonia,2016,98.0,98.0,98.0
+North Macedonia,2017,98.0,98.0,98.0
+North Macedonia,2018,98.0,98.0,98.0
+North Macedonia,2019,98.0,98.0,98.0
+North Macedonia,2020,97.0,98.0,98.0
+North Macedonia,2021,97.0,98.0,98.0
+North Macedonia,2022,97.0,98.0,98.0
+Norway,2000,100.0,100.0,100.0
+Norway,2001,100.0,100.0,100.0
+Norway,2002,100.0,100.0,100.0
+Norway,2003,100.0,100.0,100.0
+Norway,2004,100.0,100.0,100.0
+Norway,2005,100.0,100.0,100.0
+Norway,2006,100.0,100.0,100.0
+Norway,2007,100.0,100.0,100.0
+Norway,2008,100.0,100.0,100.0
+Norway,2009,100.0,100.0,100.0
+Norway,2010,100.0,100.0,100.0
+Norway,2011,100.0,100.0,100.0
+Norway,2012,100.0,100.0,100.0
+Norway,2013,100.0,100.0,100.0
+Norway,2014,100.0,100.0,100.0
+Norway,2015,100.0,100.0,100.0
+Norway,2016,100.0,100.0,100.0
+Norway,2017,100.0,100.0,100.0
+Norway,2018,100.0,100.0,100.0
+Norway,2019,100.0,100.0,100.0
+Norway,2020,100.0,100.0,100.0
+Norway,2021,100.0,100.0,100.0
+Norway,2022,100.0,100.0,100.0
+Oman,2000,70.0,86.0,92.0
+Oman,2001,70.0,86.0,92.0
+Oman,2002,70.0,86.0,92.0
+Oman,2003,70.0,86.0,92.0
+Oman,2004,70.0,86.0,92.0
+Oman,2005,71.0,86.0,92.0
+Oman,2006,71.0,86.0,92.0
+Oman,2007,71.0,87.0,92.0
+Oman,2008,72.0,87.0,93.0
+Oman,2009,72.0,87.0,93.0
+Oman,2010,72.0,88.0,93.0
+Oman,2011,73.0,88.0,93.0
+Oman,2012,73.0,89.0,93.0
+Oman,2013,74.0,89.0,93.0
+Oman,2014,74.0,90.0,94.0
+Oman,2015,74.0,90.0,94.0
+Oman,2016,75.0,91.0,94.0
+Oman,2017,75.0,91.0,94.0
+Oman,2018,75.0,92.0,94.0
+Oman,2019,76.0,92.0,95.0
+Oman,2020,76.0,92.0,95.0
+Oman,2021,76.0,92.0,95.0
+Oman,2022,76.0,92.0,95.0
+Pakistan,2000,83.0,87.0,97.0
+Pakistan,2001,83.0,88.0,97.0
+Pakistan,2002,83.0,88.0,97.0
+Pakistan,2003,84.0,88.0,97.0
+Pakistan,2004,84.0,88.0,97.0
+Pakistan,2005,84.0,88.0,95.0
+Pakistan,2006,85.0,88.0,95.0
+Pakistan,2007,85.0,88.0,95.0
+Pakistan,2008,85.0,88.0,95.0
+Pakistan,2009,85.0,89.0,95.0
+Pakistan,2010,86.0,89.0,94.0
+Pakistan,2011,86.0,89.0,94.0
+Pakistan,2012,86.0,89.0,94.0
+Pakistan,2013,87.0,89.0,94.0
+Pakistan,2014,87.0,89.0,94.0
+Pakistan,2015,87.0,90.0,94.0
+Pakistan,2016,88.0,90.0,94.0
+Pakistan,2017,88.0,90.0,94.0
+Pakistan,2018,88.0,90.0,93.0
+Pakistan,2019,88.0,90.0,93.0
+Pakistan,2020,89.0,90.0,93.0
+Pakistan,2021,89.0,90.0,93.0
+Pakistan,2022,89.0,91.0,93.0
+Palau,2000,99.0,99.0,100.0
+Palau,2001,99.0,99.0,100.0
+Palau,2002,99.0,99.0,100.0
+Palau,2003,99.0,99.0,100.0
+Palau,2004,99.0,99.0,100.0
+Palau,2005,99.0,99.0,100.0
+Palau,2006,99.0,99.0,100.0
+Palau,2007,99.0,99.0,100.0
+Palau,2008,99.0,99.0,100.0
+Palau,2009,99.0,99.0,100.0
+Palau,2010,99.0,99.0,100.0
+Palau,2011,99.0,99.0,100.0
+Palau,2012,99.0,99.0,100.0
+Palau,2013,99.0,100.0,100.0
+Palau,2014,99.0,100.0,100.0
+Palau,2015,99.0,100.0,100.0
+Palau,2016,99.0,100.0,100.0
+Palau,2017,99.0,100.0,100.0
+Palau,2018,99.0,100.0,100.0
+Palau,2019,99.0,100.0,100.0
+Palau,2020,99.0,100.0,100.0
+Palau,2021,99.0,100.0,100.0
+Palau,2022,99.0,100.0,100.0
+Panama,2000,77.0,90.0,97.0
+Panama,2001,78.0,90.0,97.0
+Panama,2002,78.0,90.0,97.0
+Panama,2003,79.0,91.0,97.0
+Panama,2004,79.0,91.0,98.0
+Panama,2005,80.0,91.0,98.0
+Panama,2006,80.0,91.0,98.0
+Panama,2007,80.0,91.0,98.0
+Panama,2008,81.0,92.0,98.0
+Panama,2009,81.0,92.0,98.0
+Panama,2010,81.0,92.0,98.0
+Panama,2011,82.0,92.0,98.0
+Panama,2012,82.0,92.0,98.0
+Panama,2013,82.0,93.0,98.0
+Panama,2014,83.0,93.0,98.0
+Panama,2015,83.0,93.0,98.0
+Panama,2016,83.0,93.0,98.0
+Panama,2017,84.0,94.0,98.0
+Panama,2018,84.0,94.0,98.0
+Panama,2019,85.0,94.0,98.0
+Panama,2020,86.0,94.0,98.0
+Panama,2021,86.0,95.0,98.0
+Panama,2022,86.0,95.0,98.0
+Papua New Guinea,2000,24.0,32.0,83.0
+Papua New Guinea,2001,24.0,32.0,83.0
+Papua New Guinea,2002,24.0,32.0,83.0
+Papua New Guinea,2003,24.0,32.0,83.0
+Papua New Guinea,2004,24.0,32.0,83.0
+Papua New Guinea,2005,25.0,33.0,83.0
+Papua New Guinea,2006,26.0,34.0,83.0
+Papua New Guinea,2007,28.0,35.0,83.0
+Papua New Guinea,2008,29.0,36.0,83.0
+Papua New Guinea,2009,30.0,37.0,83.0
+Papua New Guinea,2010,31.0,38.0,84.0
+Papua New Guinea,2011,32.0,39.0,84.0
+Papua New Guinea,2012,33.0,40.0,84.0
+Papua New Guinea,2013,34.0,41.0,85.0
+Papua New Guinea,2014,36.0,42.0,85.0
+Papua New Guinea,2015,37.0,43.0,85.0
+Papua New Guinea,2016,38.0,44.0,86.0
+Papua New Guinea,2017,39.0,45.0,86.0
+Papua New Guinea,2018,40.0,46.0,86.0
+Papua New Guinea,2019,41.0,47.0,87.0
+Papua New Guinea,2020,42.0,48.0,87.0
+Papua New Guinea,2021,43.0,49.0,87.0
+Papua New Guinea,2022,44.0,50.0,87.0
+Paraguay,2000,54.0,76.0,94.0
+Paraguay,2001,57.0,78.0,94.0
+Paraguay,2002,59.0,79.0,95.0
+Paraguay,2003,62.0,81.0,95.0
+Paraguay,2004,64.0,82.0,95.0
+Paraguay,2005,67.0,83.0,96.0
+Paraguay,2006,69.0,85.0,96.0
+Paraguay,2007,72.0,86.0,96.0
+Paraguay,2008,74.0,87.0,97.0
+Paraguay,2009,77.0,89.0,97.0
+Paraguay,2010,79.0,90.0,97.0
+Paraguay,2011,82.0,91.0,98.0
+Paraguay,2012,84.0,92.0,98.0
+Paraguay,2013,87.0,94.0,98.0
+Paraguay,2014,89.0,95.0,99.0
+Paraguay,2015,92.0,96.0,99.0
+Paraguay,2016,94.0,97.0,99.0
+Paraguay,2017,97.0,98.0,100.0
+Paraguay,2018,99.0,100.0,100.0
+Paraguay,2019,99.0,100.0,100.0
+Paraguay,2020,99.0,100.0,100.0
+Paraguay,2021,99.0,100.0,100.0
+Paraguay,2022,99.0,100.0,100.0
+Peru,2000,50.0,80.0,91.0
+Peru,2001,52.0,81.0,91.0
+Peru,2002,53.0,82.0,92.0
+Peru,2003,55.0,82.0,92.0
+Peru,2004,57.0,83.0,92.0
+Peru,2005,58.0,84.0,93.0
+Peru,2006,60.0,85.0,93.0
+Peru,2007,61.0,85.0,93.0
+Peru,2008,63.0,86.0,93.0
+Peru,2009,64.0,87.0,94.0
+Peru,2010,66.0,87.0,94.0
+Peru,2011,68.0,88.0,94.0
+Peru,2012,69.0,89.0,95.0
+Peru,2013,71.0,89.0,95.0
+Peru,2014,72.0,90.0,95.0
+Peru,2015,74.0,91.0,95.0
+Peru,2016,75.0,91.0,96.0
+Peru,2017,77.0,92.0,96.0
+Peru,2018,79.0,92.0,96.0
+Peru,2019,80.0,93.0,97.0
+Peru,2020,82.0,94.0,97.0
+Peru,2021,83.0,94.0,97.0
+Peru,2022,85.0,95.0,97.0
+Philippines,2000,80.0,86.0,93.0
+Philippines,2001,80.0,86.0,94.0
+Philippines,2002,81.0,87.0,94.0
+Philippines,2003,81.0,87.0,94.0
+Philippines,2004,82.0,88.0,94.0
+Philippines,2005,82.0,88.0,94.0
+Philippines,2006,83.0,88.0,95.0
+Philippines,2007,84.0,89.0,95.0
+Philippines,2008,84.0,89.0,95.0
+Philippines,2009,85.0,89.0,95.0
+Philippines,2010,85.0,90.0,95.0
+Philippines,2011,86.0,90.0,96.0
+Philippines,2012,86.0,91.0,96.0
+Philippines,2013,87.0,91.0,96.0
+Philippines,2014,88.0,92.0,96.0
+Philippines,2015,88.0,92.0,96.0
+Philippines,2016,89.0,92.0,97.0
+Philippines,2017,89.0,93.0,97.0
+Philippines,2018,90.0,93.0,97.0
+Philippines,2019,90.0,94.0,97.0
+Philippines,2020,91.0,94.0,97.0
+Philippines,2021,92.0,94.0,98.0
+Philippines,2022,92.0,95.0,98.0
+Poland,2000,0.0,0.0,100.0
+Poland,2001,0.0,0.0,100.0
+Poland,2002,0.0,0.0,100.0
+Poland,2003,0.0,0.0,100.0
+Poland,2004,0.0,0.0,100.0
+Poland,2005,98.0,99.0,100.0
+Poland,2006,98.0,99.0,100.0
+Poland,2007,98.0,99.0,100.0
+Poland,2008,98.0,99.0,100.0
+Poland,2009,98.0,99.0,100.0
+Poland,2010,97.0,98.0,99.0
+Poland,2011,95.0,98.0,99.0
+Poland,2012,94.0,97.0,99.0
+Poland,2013,93.0,96.0,98.0
+Poland,2014,92.0,96.0,98.0
+Poland,2015,90.0,95.0,98.0
+Poland,2016,89.0,94.0,97.0
+Poland,2017,88.0,93.0,97.0
+Poland,2018,86.0,93.0,97.0
+Poland,2019,85.0,92.0,96.0
+Poland,2020,84.0,91.0,96.0
+Poland,2021,82.0,90.0,96.0
+Poland,2022,82.0,90.0,96.0
+Portugal,2000,99.0,99.0,99.0
+Portugal,2001,99.0,99.0,99.0
+Portugal,2002,99.0,99.0,99.0
+Portugal,2003,99.0,99.0,99.0
+Portugal,2004,99.0,99.0,99.0
+Portugal,2005,99.0,99.0,99.0
+Portugal,2006,99.0,99.0,99.0
+Portugal,2007,99.0,99.0,99.0
+Portugal,2008,99.0,99.0,99.0
+Portugal,2009,99.0,99.0,99.0
+Portugal,2010,99.0,99.0,99.0
+Portugal,2011,99.0,99.0,99.0
+Portugal,2012,99.0,99.0,100.0
+Portugal,2013,99.0,99.0,100.0
+Portugal,2014,98.0,99.0,100.0
+Portugal,2015,98.0,99.0,100.0
+Portugal,2016,98.0,99.0,100.0
+Portugal,2017,98.0,99.0,100.0
+Portugal,2018,98.0,99.0,100.0
+Portugal,2019,98.0,99.0,100.0
+Portugal,2020,98.0,99.0,100.0
+Portugal,2021,98.0,99.0,100.0
+Portugal,2022,98.0,99.0,100.0
+Qatar,2000,0.0,100.0,0.0
+Qatar,2001,0.0,100.0,0.0
+Qatar,2002,0.0,100.0,0.0
+Qatar,2003,0.0,100.0,0.0
+Qatar,2004,0.0,100.0,0.0
+Qatar,2005,0.0,100.0,0.0
+Qatar,2006,0.0,100.0,0.0
+Qatar,2007,0.0,100.0,0.0
+Qatar,2008,0.0,100.0,0.0
+Qatar,2009,0.0,100.0,0.0
+Qatar,2010,0.0,100.0,0.0
+Qatar,2011,0.0,100.0,0.0
+Qatar,2012,0.0,100.0,0.0
+Qatar,2013,0.0,100.0,0.0
+Qatar,2014,0.0,100.0,0.0
+Qatar,2015,0.0,100.0,0.0
+Qatar,2016,0.0,100.0,0.0
+Qatar,2017,0.0,100.0,0.0
+Qatar,2018,0.0,100.0,0.0
+Qatar,2019,0.0,100.0,0.0
+Qatar,2020,0.0,100.0,0.0
+Qatar,2021,0.0,100.0,0.0
+Qatar,2022,0.0,100.0,0.0
+Republic of Korea,2002,0.0,99.0,0.0
+Republic of Korea,2003,0.0,99.0,0.0
+Republic of Korea,2004,0.0,99.0,0.0
+Republic of Korea,2005,0.0,99.0,0.0
+Republic of Korea,2006,0.0,99.0,0.0
+Republic of Korea,2007,0.0,99.0,0.0
+Republic of Korea,2008,0.0,99.0,0.0
+Republic of Korea,2009,0.0,99.0,0.0
+Republic of Korea,2010,0.0,99.0,0.0
+Republic of Korea,2011,0.0,99.0,0.0
+Republic of Korea,2012,0.0,99.0,0.0
+Republic of Korea,2013,0.0,99.0,0.0
+Republic of Korea,2014,0.0,99.0,0.0
+Republic of Korea,2015,0.0,99.0,0.0
+Republic of Korea,2016,0.0,100.0,0.0
+Republic of Korea,2017,0.0,100.0,0.0
+Republic of Korea,2018,0.0,100.0,0.0
+Republic of Korea,2019,0.0,100.0,0.0
+Republic of Korea,2020,0.0,100.0,0.0
+Republic of Korea,2021,0.0,100.0,0.0
+Republic of Korea,2022,0.0,100.0,0.0
+Republic of Moldova,2000,73.0,83.0,95.0
+Republic of Moldova,2001,74.0,83.0,95.0
+Republic of Moldova,2002,74.0,84.0,95.0
+Republic of Moldova,2003,75.0,84.0,95.0
+Republic of Moldova,2004,76.0,84.0,96.0
+Republic of Moldova,2005,76.0,85.0,96.0
+Republic of Moldova,2006,77.0,85.0,96.0
+Republic of Moldova,2007,78.0,86.0,96.0
+Republic of Moldova,2008,78.0,86.0,96.0
+Republic of Moldova,2009,79.0,86.0,96.0
+Republic of Moldova,2010,80.0,87.0,96.0
+Republic of Moldova,2011,80.0,87.0,96.0
+Republic of Moldova,2012,81.0,88.0,96.0
+Republic of Moldova,2013,82.0,88.0,97.0
+Republic of Moldova,2014,83.0,89.0,97.0
+Republic of Moldova,2015,83.0,89.0,97.0
+Republic of Moldova,2016,84.0,89.0,97.0
+Republic of Moldova,2017,84.0,90.0,97.0
+Republic of Moldova,2018,85.0,90.0,97.0
+Republic of Moldova,2019,86.0,91.0,97.0
+Republic of Moldova,2020,86.0,91.0,97.0
+Republic of Moldova,2021,87.0,92.0,98.0
+Republic of Moldova,2022,88.0,92.0,98.0
+Romania,2000,100.0,100.0,100.0
+Romania,2001,100.0,100.0,100.0
+Romania,2002,100.0,100.0,100.0
+Romania,2003,100.0,100.0,100.0
+Romania,2004,100.0,100.0,100.0
+Romania,2005,100.0,100.0,100.0
+Romania,2006,100.0,100.0,100.0
+Romania,2007,100.0,100.0,100.0
+Romania,2008,100.0,100.0,100.0
+Romania,2009,100.0,100.0,100.0
+Romania,2010,100.0,100.0,100.0
+Romania,2011,100.0,100.0,100.0
+Romania,2012,100.0,100.0,100.0
+Romania,2013,100.0,100.0,100.0
+Romania,2014,100.0,100.0,100.0
+Romania,2015,100.0,100.0,100.0
+Romania,2016,100.0,100.0,100.0
+Romania,2017,100.0,100.0,100.0
+Romania,2018,100.0,100.0,100.0
+Romania,2019,100.0,100.0,100.0
+Romania,2020,100.0,100.0,100.0
+Romania,2021,100.0,100.0,100.0
+Romania,2022,100.0,100.0,100.0
+Russian Federation,2000,86.0,95.0,99.0
+Russian Federation,2001,86.0,95.0,99.0
+Russian Federation,2002,87.0,95.0,99.0
+Russian Federation,2003,87.0,95.0,99.0
+Russian Federation,2004,87.0,96.0,99.0
+Russian Federation,2005,87.0,96.0,99.0
+Russian Federation,2006,88.0,96.0,99.0
+Russian Federation,2007,88.0,96.0,99.0
+Russian Federation,2008,88.0,96.0,99.0
+Russian Federation,2009,88.0,96.0,99.0
+Russian Federation,2010,89.0,96.0,99.0
+Russian Federation,2011,89.0,96.0,99.0
+Russian Federation,2012,89.0,96.0,99.0
+Russian Federation,2013,89.0,96.0,99.0
+Russian Federation,2014,90.0,96.0,99.0
+Russian Federation,2015,90.0,96.0,99.0
+Russian Federation,2016,90.0,97.0,99.0
+Russian Federation,2017,90.0,97.0,99.0
+Russian Federation,2018,91.0,97.0,99.0
+Russian Federation,2019,91.0,97.0,99.0
+Russian Federation,2020,91.0,97.0,99.0
+Russian Federation,2021,91.0,97.0,99.0
+Russian Federation,2022,92.0,97.0,99.0
+Rwanda,2000,40.0,44.0,70.0
+Rwanda,2001,41.0,46.0,71.0
+Rwanda,2002,42.0,47.0,72.0
+Rwanda,2003,43.0,48.0,72.0
+Rwanda,2004,43.0,48.0,73.0
+Rwanda,2005,44.0,49.0,74.0
+Rwanda,2006,45.0,50.0,75.0
+Rwanda,2007,46.0,51.0,76.0
+Rwanda,2008,47.0,52.0,76.0
+Rwanda,2009,48.0,53.0,77.0
+Rwanda,2010,49.0,54.0,78.0
+Rwanda,2011,50.0,55.0,79.0
+Rwanda,2012,51.0,56.0,80.0
+Rwanda,2013,52.0,57.0,81.0
+Rwanda,2014,53.0,58.0,82.0
+Rwanda,2015,54.0,58.0,82.0
+Rwanda,2016,55.0,59.0,83.0
+Rwanda,2017,56.0,60.0,84.0
+Rwanda,2018,57.0,61.0,85.0
+Rwanda,2019,57.0,62.0,86.0
+Rwanda,2020,59.0,63.0,87.0
+Rwanda,2021,60.0,64.0,88.0
+Rwanda,2022,60.0,65.0,88.0
+Saint Kitts and Nevis,2000,0.0,98.0,0.0
+Saint Kitts and Nevis,2001,0.0,98.0,0.0
+Saint Kitts and Nevis,2002,0.0,98.0,0.0
+Saint Kitts and Nevis,2003,0.0,98.0,0.0
+Saint Kitts and Nevis,2004,0.0,98.0,0.0
+Saint Kitts and Nevis,2005,0.0,99.0,0.0
+Saint Kitts and Nevis,2006,0.0,99.0,0.0
+Saint Kitts and Nevis,2007,0.0,99.0,0.0
+Saint Kitts and Nevis,2008,0.0,99.0,0.0
+Saint Kitts and Nevis,2009,0.0,99.0,0.0
+Saint Kitts and Nevis,2010,0.0,99.0,0.0
+Saint Kitts and Nevis,2011,0.0,99.0,0.0
+Saint Kitts and Nevis,2012,0.0,99.0,0.0
+Saint Kitts and Nevis,2013,0.0,99.0,0.0
+Saint Kitts and Nevis,2014,0.0,99.0,0.0
+Saint Kitts and Nevis,2015,0.0,99.0,0.0
+Saint Kitts and Nevis,2016,0.0,99.0,0.0
+Saint Kitts and Nevis,2017,0.0,99.0,0.0
+Saint Lucia,2000,89.0,90.0,94.0
+Saint Lucia,2001,89.0,90.0,94.0
+Saint Lucia,2002,89.0,90.0,94.0
+Saint Lucia,2003,89.0,91.0,95.0
+Saint Lucia,2004,90.0,91.0,95.0
+Saint Lucia,2005,90.0,91.0,95.0
+Saint Lucia,2006,91.0,92.0,95.0
+Saint Lucia,2007,91.0,92.0,95.0
+Saint Lucia,2008,92.0,93.0,95.0
+Saint Lucia,2009,92.0,93.0,96.0
+Saint Lucia,2010,93.0,93.0,96.0
+Saint Lucia,2011,93.0,94.0,96.0
+Saint Lucia,2012,94.0,94.0,96.0
+Saint Lucia,2013,94.0,95.0,96.0
+Saint Lucia,2014,95.0,95.0,97.0
+Saint Lucia,2015,95.0,96.0,97.0
+Saint Lucia,2016,96.0,96.0,97.0
+Saint Lucia,2017,96.0,96.0,97.0
+Saint Lucia,2018,97.0,97.0,97.0
+Saint Lucia,2019,97.0,97.0,97.0
+Saint Lucia,2020,97.0,97.0,97.0
+Saint Lucia,2021,97.0,97.0,97.0
+Saint Lucia,2022,97.0,97.0,97.0
+Saint Vincent and the Grenadines,2000,95.0,95.0,96.0
+Saint Vincent and the Grenadines,2001,95.0,96.0,96.0
+Saint Vincent and the Grenadines,2002,96.0,96.0,96.0
+Saint Vincent and the Grenadines,2003,96.0,96.0,96.0
+Saint Vincent and the Grenadines,2004,96.0,96.0,96.0
+Saint Vincent and the Grenadines,2005,96.0,96.0,97.0
+Saint Vincent and the Grenadines,2006,96.0,96.0,97.0
+Saint Vincent and the Grenadines,2007,96.0,97.0,97.0
+Saint Vincent and the Grenadines,2008,96.0,97.0,97.0
+Saint Vincent and the Grenadines,2009,96.0,97.0,97.0
+Saint Vincent and the Grenadines,2010,97.0,97.0,98.0
+Saint Vincent and the Grenadines,2011,97.0,97.0,98.0
+Saint Vincent and the Grenadines,2012,97.0,97.0,98.0
+Saint Vincent and the Grenadines,2013,97.0,98.0,98.0
+Saint Vincent and the Grenadines,2014,97.0,98.0,98.0
+Saint Vincent and the Grenadines,2015,97.0,98.0,98.0
+Saint Vincent and the Grenadines,2016,97.0,98.0,98.0
+Saint Vincent and the Grenadines,2017,97.0,98.0,98.0
+Saint Vincent and the Grenadines,2018,97.0,98.0,98.0
+Samoa,2000,88.0,87.0,83.0
+Samoa,2001,88.0,87.0,83.0
+Samoa,2002,88.0,87.0,83.0
+Samoa,2003,88.0,87.0,83.0
+Samoa,2004,88.0,87.0,83.0
+Samoa,2005,88.0,87.0,83.0
+Samoa,2006,89.0,88.0,84.0
+Samoa,2007,89.0,88.0,84.0
+Samoa,2008,89.0,88.0,85.0
+Samoa,2009,89.0,88.0,85.0
+Samoa,2010,89.0,89.0,86.0
+Samoa,2011,89.0,89.0,86.0
+Samoa,2012,90.0,89.0,87.0
+Samoa,2013,91.0,90.0,88.0
+Samoa,2014,91.0,91.0,90.0
+Samoa,2015,92.0,92.0,92.0
+Samoa,2016,93.0,93.0,93.0
+Samoa,2017,94.0,94.0,95.0
+Samoa,2018,95.0,95.0,97.0
+Samoa,2019,96.0,96.0,98.0
+Samoa,2020,97.0,97.0,99.0
+Samoa,2021,98.0,98.0,100.0
+Samoa,2022,99.0,99.0,100.0
+San Marino,2000,0.0,100.0,0.0
+San Marino,2001,0.0,100.0,0.0
+San Marino,2002,0.0,100.0,0.0
+San Marino,2003,0.0,100.0,0.0
+San Marino,2004,0.0,100.0,0.0
+San Marino,2005,0.0,100.0,0.0
+San Marino,2006,0.0,100.0,0.0
+San Marino,2007,0.0,100.0,0.0
+San Marino,2008,0.0,100.0,0.0
+San Marino,2009,0.0,100.0,0.0
+San Marino,2010,0.0,100.0,0.0
+San Marino,2011,0.0,100.0,0.0
+San Marino,2012,0.0,100.0,0.0
+San Marino,2013,0.0,100.0,0.0
+San Marino,2014,0.0,100.0,0.0
+San Marino,2015,0.0,100.0,0.0
+San Marino,2016,0.0,100.0,0.0
+San Marino,2017,0.0,100.0,0.0
+San Marino,2018,0.0,100.0,0.0
+San Marino,2019,0.0,100.0,0.0
+San Marino,2020,0.0,100.0,0.0
+San Marino,2021,0.0,100.0,0.0
+San Marino,2022,0.0,100.0,0.0
+Sao Tome and Principe,2000,62.0,69.0,74.0
+Sao Tome and Principe,2001,63.0,69.0,75.0
+Sao Tome and Principe,2002,63.0,70.0,75.0
+Sao Tome and Principe,2003,64.0,70.0,75.0
+Sao Tome and Principe,2004,64.0,71.0,76.0
+Sao Tome and Principe,2005,65.0,71.0,76.0
+Sao Tome and Principe,2006,65.0,72.0,76.0
+Sao Tome and Principe,2007,65.0,72.0,77.0
+Sao Tome and Principe,2008,66.0,73.0,77.0
+Sao Tome and Principe,2009,66.0,73.0,77.0
+Sao Tome and Principe,2010,67.0,74.0,78.0
+Sao Tome and Principe,2011,67.0,74.0,78.0
+Sao Tome and Principe,2012,68.0,75.0,78.0
+Sao Tome and Principe,2013,68.0,75.0,78.0
+Sao Tome and Principe,2014,68.0,76.0,79.0
+Sao Tome and Principe,2015,69.0,76.0,79.0
+Sao Tome and Principe,2016,69.0,76.0,79.0
+Sao Tome and Principe,2017,70.0,77.0,80.0
+Sao Tome and Principe,2018,70.0,77.0,80.0
+Sao Tome and Principe,2019,70.0,77.0,80.0
+Sao Tome and Principe,2020,71.0,77.0,80.0
+Sao Tome and Principe,2021,71.0,77.0,79.0
+Sao Tome and Principe,2022,71.0,77.0,79.0
+Saudi Arabia,2000,100.0,0.0,0.0
+Saudi Arabia,2001,100.0,0.0,0.0
+Saudi Arabia,2002,100.0,0.0,0.0
+Saudi Arabia,2003,100.0,0.0,0.0
+Saudi Arabia,2004,100.0,0.0,0.0
+Saudi Arabia,2005,100.0,0.0,0.0
+Saudi Arabia,2006,100.0,0.0,0.0
+Saudi Arabia,2007,100.0,0.0,0.0
+Saudi Arabia,2008,100.0,0.0,0.0
+Saudi Arabia,2009,100.0,0.0,0.0
+Saudi Arabia,2010,100.0,0.0,0.0
+Saudi Arabia,2011,100.0,0.0,0.0
+Saudi Arabia,2012,100.0,0.0,0.0
+Saudi Arabia,2013,100.0,0.0,0.0
+Saudi Arabia,2014,100.0,0.0,0.0
+Saudi Arabia,2015,100.0,99.0,98.0
+Saudi Arabia,2016,100.0,99.0,98.0
+Saudi Arabia,2017,100.0,99.0,98.0
+Saudi Arabia,2018,100.0,99.0,98.0
+Saudi Arabia,2019,100.0,99.0,98.0
+Saudi Arabia,2020,100.0,99.0,98.0
+Saudi Arabia,2021,100.0,99.0,98.0
+Saudi Arabia,2022,100.0,99.0,98.0
+Senegal,2000,41.0,60.0,88.0
+Senegal,2001,42.0,61.0,89.0
+Senegal,2002,44.0,62.0,89.0
+Senegal,2003,45.0,63.0,89.0
+Senegal,2004,47.0,64.0,90.0
+Senegal,2005,48.0,66.0,90.0
+Senegal,2006,50.0,67.0,90.0
+Senegal,2007,52.0,68.0,91.0
+Senegal,2008,53.0,69.0,91.0
+Senegal,2009,55.0,71.0,91.0
+Senegal,2010,56.0,72.0,92.0
+Senegal,2011,58.0,73.0,92.0
+Senegal,2012,60.0,74.0,92.0
+Senegal,2013,61.0,75.0,93.0
+Senegal,2014,63.0,77.0,93.0
+Senegal,2015,65.0,78.0,93.0
+Senegal,2016,66.0,79.0,94.0
+Senegal,2017,68.0,80.0,94.0
+Senegal,2018,70.0,82.0,94.0
+Senegal,2019,72.0,83.0,95.0
+Senegal,2020,73.0,84.0,95.0
+Senegal,2021,75.0,85.0,96.0
+Senegal,2022,77.0,86.0,96.0
+Serbia,2000,92.0,89.0,87.0
+Serbia,2001,92.0,89.0,87.0
+Serbia,2002,92.0,89.0,87.0
+Serbia,2003,92.0,89.0,87.0
+Serbia,2004,92.0,89.0,87.0
+Serbia,2005,92.0,90.0,87.0
+Serbia,2006,93.0,90.0,88.0
+Serbia,2007,93.0,90.0,88.0
+Serbia,2008,93.0,91.0,89.0
+Serbia,2009,93.0,91.0,89.0
+Serbia,2010,94.0,91.0,90.0
+Serbia,2011,94.0,92.0,90.0
+Serbia,2012,94.0,92.0,91.0
+Serbia,2013,94.0,93.0,91.0
+Serbia,2014,94.0,93.0,92.0
+Serbia,2015,95.0,93.0,92.0
+Serbia,2016,95.0,94.0,93.0
+Serbia,2017,95.0,94.0,93.0
+Serbia,2018,95.0,95.0,94.0
+Serbia,2019,96.0,95.0,94.0
+Serbia,2020,96.0,95.0,95.0
+Serbia,2021,96.0,96.0,95.0
+Serbia,2022,96.0,96.0,95.0
+Seychelles,2000,0.0,94.0,0.0
+Seychelles,2001,0.0,94.0,0.0
+Seychelles,2002,0.0,94.0,0.0
+Seychelles,2003,0.0,94.0,0.0
+Seychelles,2004,0.0,94.0,0.0
+Seychelles,2005,0.0,95.0,0.0
+Seychelles,2006,0.0,95.0,0.0
+Seychelles,2007,0.0,95.0,0.0
+Seychelles,2008,0.0,95.0,0.0
+Seychelles,2009,0.0,95.0,0.0
+Seychelles,2010,0.0,95.0,0.0
+Seychelles,2011,0.0,95.0,0.0
+Seychelles,2012,0.0,95.0,0.0
+Seychelles,2013,0.0,96.0,0.0
+Seychelles,2014,0.0,96.0,0.0
+Seychelles,2015,0.0,96.0,0.0
+Seychelles,2016,0.0,96.0,0.0
+Seychelles,2017,0.0,96.0,0.0
+Seychelles,2018,0.0,96.0,0.0
+Seychelles,2019,0.0,96.0,0.0
+Seychelles,2020,0.0,96.0,0.0
+Seychelles,2021,0.0,96.0,0.0
+Seychelles,2022,0.0,96.0,0.0
+Sierra Leone,2000,27.0,41.0,67.0
+Sierra Leone,2001,27.0,41.0,68.0
+Sierra Leone,2002,28.0,43.0,68.0
+Sierra Leone,2003,29.0,44.0,69.0
+Sierra Leone,2004,30.0,45.0,69.0
+Sierra Leone,2005,32.0,46.0,70.0
+Sierra Leone,2006,33.0,47.0,71.0
+Sierra Leone,2007,34.0,48.0,71.0
+Sierra Leone,2008,36.0,49.0,72.0
+Sierra Leone,2009,37.0,50.0,72.0
+Sierra Leone,2010,38.0,52.0,73.0
+Sierra Leone,2011,39.0,53.0,73.0
+Sierra Leone,2012,41.0,54.0,74.0
+Sierra Leone,2013,42.0,55.0,75.0
+Sierra Leone,2014,43.0,56.0,75.0
+Sierra Leone,2015,45.0,57.0,76.0
+Sierra Leone,2016,46.0,59.0,76.0
+Sierra Leone,2017,47.0,60.0,77.0
+Sierra Leone,2018,49.0,61.0,77.0
+Sierra Leone,2019,50.0,62.0,78.0
+Sierra Leone,2020,51.0,63.0,79.0
+Sierra Leone,2021,53.0,64.0,79.0
+Sierra Leone,2022,54.0,65.0,80.0
+Singapore,2000,0.0,100.0,100.0
+Singapore,2001,0.0,100.0,100.0
+Singapore,2002,0.0,100.0,100.0
+Singapore,2003,0.0,100.0,100.0
+Singapore,2004,0.0,100.0,100.0
+Singapore,2005,0.0,100.0,100.0
+Singapore,2006,0.0,100.0,100.0
+Singapore,2007,0.0,100.0,100.0
+Singapore,2008,0.0,100.0,100.0
+Singapore,2009,0.0,100.0,100.0
+Singapore,2010,0.0,100.0,100.0
+Singapore,2011,0.0,100.0,100.0
+Singapore,2012,0.0,100.0,100.0
+Singapore,2013,0.0,100.0,100.0
+Singapore,2014,0.0,100.0,100.0
+Singapore,2015,0.0,100.0,100.0
+Singapore,2016,0.0,100.0,100.0
+Singapore,2017,0.0,100.0,100.0
+Singapore,2018,0.0,100.0,100.0
+Singapore,2019,0.0,100.0,100.0
+Singapore,2020,0.0,100.0,100.0
+Singapore,2021,0.0,100.0,100.0
+Singapore,2022,0.0,100.0,100.0
+Slovakia,2000,97.0,98.0,99.0
+Slovakia,2001,97.0,98.0,99.0
+Slovakia,2002,97.0,98.0,99.0
+Slovakia,2003,97.0,98.0,99.0
+Slovakia,2004,97.0,98.0,99.0
+Slovakia,2005,97.0,98.0,99.0
+Slovakia,2006,97.0,98.0,99.0
+Slovakia,2007,97.0,98.0,99.0
+Slovakia,2008,97.0,98.0,99.0
+Slovakia,2009,97.0,98.0,99.0
+Slovakia,2010,98.0,99.0,99.0
+Slovakia,2011,99.0,99.0,99.0
+Slovakia,2012,100.0,99.0,99.0
+Slovakia,2013,100.0,100.0,99.0
+Slovakia,2014,100.0,100.0,100.0
+Slovakia,2015,100.0,100.0,100.0
+Slovakia,2016,100.0,100.0,100.0
+Slovakia,2017,100.0,100.0,100.0
+Slovakia,2018,100.0,100.0,100.0
+Slovakia,2019,100.0,100.0,100.0
+Slovakia,2020,100.0,100.0,100.0
+Slovakia,2021,100.0,100.0,100.0
+Slovakia,2022,100.0,100.0,100.0
+Slovenia,2000,0.0,100.0,0.0
+Slovenia,2001,0.0,100.0,0.0
+Slovenia,2002,0.0,100.0,0.0
+Slovenia,2003,0.0,100.0,0.0
+Slovenia,2004,0.0,100.0,0.0
+Slovenia,2005,0.0,100.0,0.0
+Slovenia,2006,0.0,100.0,0.0
+Slovenia,2007,0.0,100.0,0.0
+Slovenia,2008,0.0,100.0,0.0
+Slovenia,2009,0.0,100.0,0.0
+Slovenia,2010,0.0,100.0,0.0
+Slovenia,2011,0.0,100.0,0.0
+Slovenia,2012,0.0,100.0,0.0
+Slovenia,2013,0.0,100.0,0.0
+Slovenia,2014,0.0,100.0,0.0
+Slovenia,2015,0.0,100.0,0.0
+Slovenia,2016,0.0,100.0,0.0
+Slovenia,2017,0.0,100.0,0.0
+Slovenia,2018,0.0,100.0,0.0
+Slovenia,2019,0.0,100.0,0.0
+Slovenia,2020,0.0,100.0,0.0
+Slovenia,2021,0.0,100.0,0.0
+Slovenia,2022,0.0,100.0,0.0
+Solomon Islands,2000,76.0,79.0,90.0
+Solomon Islands,2001,76.0,79.0,90.0
+Solomon Islands,2002,76.0,79.0,90.0
+Solomon Islands,2003,76.0,79.0,90.0
+Solomon Islands,2004,76.0,79.0,90.0
+Solomon Islands,2005,75.0,78.0,91.0
+Solomon Islands,2006,74.0,77.0,91.0
+Solomon Islands,2007,73.0,76.0,91.0
+Solomon Islands,2008,72.0,75.0,91.0
+Solomon Islands,2009,70.0,74.0,91.0
+Solomon Islands,2010,69.0,74.0,91.0
+Solomon Islands,2011,68.0,73.0,91.0
+Solomon Islands,2012,67.0,72.0,91.0
+Solomon Islands,2013,65.0,71.0,91.0
+Solomon Islands,2014,64.0,70.0,91.0
+Solomon Islands,2015,63.0,69.0,91.0
+Solomon Islands,2016,62.0,69.0,91.0
+Solomon Islands,2017,61.0,68.0,91.0
+Solomon Islands,2018,59.0,67.0,91.0
+Solomon Islands,2019,59.0,67.0,91.0
+Solomon Islands,2020,59.0,67.0,91.0
+Solomon Islands,2021,59.0,67.0,91.0
+Solomon Islands,2022,59.0,0.0,0.0
+Somalia,2000,6.0,24.0,60.0
+Somalia,2001,7.0,25.0,61.0
+Somalia,2002,9.0,27.0,62.0
+Somalia,2003,10.0,29.0,63.0
+Somalia,2004,12.0,30.0,64.0
+Somalia,2005,14.0,32.0,65.0
+Somalia,2006,15.0,34.0,66.0
+Somalia,2007,17.0,34.0,67.0
+Somalia,2008,18.0,36.0,68.0
+Somalia,2009,20.0,38.0,68.0
+Somalia,2010,21.0,40.0,69.0
+Somalia,2011,23.0,42.0,70.0
+Somalia,2012,25.0,44.0,71.0
+Somalia,2013,26.0,46.0,72.0
+Somalia,2014,28.0,47.0,73.0
+Somalia,2015,29.0,49.0,74.0
+Somalia,2016,31.0,50.0,75.0
+Somalia,2017,32.0,52.0,76.0
+Somalia,2018,34.0,53.0,77.0
+Somalia,2019,36.0,55.0,78.0
+Somalia,2020,37.0,56.0,79.0
+Somalia,2021,39.0,58.0,80.0
+Somalia,2022,39.0,58.0,80.0
+South Africa,2000,66.0,85.0,98.0
+South Africa,2001,67.0,85.0,98.0
+South Africa,2002,68.0,86.0,98.0
+South Africa,2003,69.0,86.0,98.0
+South Africa,2004,70.0,87.0,98.0
+South Africa,2005,71.0,87.0,99.0
+South Africa,2006,71.0,88.0,99.0
+South Africa,2007,72.0,88.0,99.0
+South Africa,2008,73.0,89.0,99.0
+South Africa,2009,74.0,89.0,99.0
+South Africa,2010,75.0,90.0,99.0
+South Africa,2011,75.0,90.0,99.0
+South Africa,2012,76.0,91.0,99.0
+South Africa,2013,77.0,91.0,99.0
+South Africa,2014,78.0,91.0,99.0
+South Africa,2015,79.0,92.0,99.0
+South Africa,2016,80.0,92.0,99.0
+South Africa,2017,80.0,93.0,99.0
+South Africa,2018,81.0,93.0,99.0
+South Africa,2019,82.0,93.0,99.0
+South Africa,2020,83.0,94.0,99.0
+South Africa,2021,84.0,94.0,99.0
+South Africa,2022,85.0,94.0,99.0
+South Sudan,2011,39.0,41.0,52.0
+South Sudan,2012,38.0,41.0,54.0
+South Sudan,2013,38.0,41.0,56.0
+South Sudan,2014,37.0,41.0,58.0
+South Sudan,2015,37.0,41.0,61.0
+South Sudan,2016,36.0,41.0,63.0
+South Sudan,2017,35.0,41.0,65.0
+South Sudan,2018,34.0,41.0,68.0
+South Sudan,2019,34.0,41.0,70.0
+South Sudan,2020,34.0,41.0,70.0
+South Sudan,2021,34.0,41.0,70.0
+South Sudan,2022,34.0,41.0,70.0
+Spain,2000,100.0,100.0,100.0
+Spain,2001,100.0,100.0,100.0
+Spain,2002,100.0,100.0,100.0
+Spain,2003,100.0,100.0,100.0
+Spain,2004,100.0,100.0,100.0
+Spain,2005,100.0,100.0,100.0
+Spain,2006,100.0,100.0,100.0
+Spain,2007,100.0,100.0,100.0
+Spain,2008,100.0,100.0,100.0
+Spain,2009,100.0,100.0,100.0
+Spain,2010,100.0,100.0,100.0
+Spain,2011,100.0,100.0,100.0
+Spain,2012,100.0,100.0,100.0
+Spain,2013,100.0,100.0,100.0
+Spain,2014,100.0,100.0,100.0
+Spain,2015,100.0,100.0,100.0
+Spain,2016,100.0,100.0,100.0
+Spain,2017,100.0,100.0,100.0
+Spain,2018,100.0,100.0,100.0
+Spain,2019,100.0,100.0,100.0
+Spain,2020,100.0,100.0,100.0
+Spain,2021,100.0,100.0,100.0
+Spain,2022,100.0,100.0,100.0
+Sri Lanka,2000,80.0,83.0,94.0
+Sri Lanka,2001,81.0,83.0,94.0
+Sri Lanka,2002,81.0,83.0,95.0
+Sri Lanka,2003,81.0,84.0,95.0
+Sri Lanka,2004,82.0,84.0,95.0
+Sri Lanka,2005,82.0,84.0,95.0
+Sri Lanka,2006,82.0,85.0,95.0
+Sri Lanka,2007,82.0,85.0,95.0
+Sri Lanka,2008,83.0,85.0,96.0
+Sri Lanka,2009,83.0,85.0,96.0
+Sri Lanka,2010,83.0,86.0,96.0
+Sri Lanka,2011,84.0,86.0,96.0
+Sri Lanka,2012,84.0,86.0,96.0
+Sri Lanka,2013,84.0,87.0,97.0
+Sri Lanka,2014,85.0,87.0,97.0
+Sri Lanka,2015,85.0,87.0,97.0
+Sri Lanka,2016,85.0,87.0,97.0
+Sri Lanka,2017,86.0,88.0,97.0
+Sri Lanka,2018,86.0,88.0,97.0
+Sri Lanka,2019,86.0,88.0,98.0
+Sri Lanka,2020,87.0,89.0,98.0
+Sri Lanka,2021,87.0,89.0,98.0
+Sri Lanka,2022,87.0,89.0,98.0
+Sudan,2000,36.0,45.0,62.0
+Sudan,2001,36.0,45.0,62.0
+Sudan,2002,36.0,45.0,62.0
+Sudan,2003,36.0,45.0,62.0
+Sudan,2004,36.0,45.0,62.0
+Sudan,2005,37.0,46.0,63.0
+Sudan,2006,39.0,47.0,64.0
+Sudan,2007,40.0,48.0,64.0
+Sudan,2008,41.0,49.0,65.0
+Sudan,2009,43.0,50.0,66.0
+Sudan,2010,44.0,51.0,66.0
+Sudan,2011,45.0,53.0,67.0
+Sudan,2012,47.0,54.0,68.0
+Sudan,2013,48.0,55.0,68.0
+Sudan,2014,49.0,56.0,69.0
+Sudan,2015,51.0,57.0,70.0
+Sudan,2016,52.0,58.0,70.0
+Sudan,2017,53.0,59.0,71.0
+Sudan,2018,54.0,60.0,72.0
+Sudan,2019,56.0,62.0,72.0
+Sudan,2020,57.0,63.0,73.0
+Sudan,2021,58.0,64.0,74.0
+Sudan,2022,60.0,65.0,74.0
+Suriname,2000,72.0,89.0,97.0
+Suriname,2001,74.0,90.0,98.0
+Suriname,2002,75.0,90.0,98.0
+Suriname,2003,76.0,90.0,98.0
+Suriname,2004,77.0,91.0,98.0
+Suriname,2005,79.0,91.0,98.0
+Suriname,2006,80.0,92.0,98.0
+Suriname,2007,81.0,92.0,98.0
+Suriname,2008,82.0,93.0,98.0
+Suriname,2009,83.0,93.0,98.0
+Suriname,2010,85.0,94.0,98.0
+Suriname,2011,86.0,94.0,98.0
+Suriname,2012,87.0,94.0,98.0
+Suriname,2013,88.0,95.0,98.0
+Suriname,2014,89.0,95.0,98.0
+Suriname,2015,91.0,96.0,98.0
+Suriname,2016,92.0,96.0,98.0
+Suriname,2017,93.0,97.0,99.0
+Suriname,2018,94.0,97.0,99.0
+Suriname,2019,95.0,98.0,99.0
+Suriname,2020,97.0,98.0,99.0
+Suriname,2021,97.0,98.0,99.0
+Suriname,2022,97.0,98.0,99.0
+Sweden,2000,98.0,99.0,100.0
+Sweden,2001,98.0,99.0,100.0
+Sweden,2002,99.0,100.0,100.0
+Sweden,2003,99.0,100.0,100.0
+Sweden,2004,99.0,100.0,100.0
+Sweden,2005,99.0,100.0,100.0
+Sweden,2006,99.0,100.0,100.0
+Sweden,2007,99.0,100.0,100.0
+Sweden,2008,99.0,100.0,100.0
+Sweden,2009,99.0,100.0,100.0
+Sweden,2010,99.0,100.0,100.0
+Sweden,2011,99.0,100.0,100.0
+Sweden,2012,99.0,100.0,100.0
+Sweden,2013,99.0,100.0,100.0
+Sweden,2014,99.0,100.0,100.0
+Sweden,2015,99.0,100.0,100.0
+Sweden,2016,99.0,100.0,100.0
+Sweden,2017,99.0,100.0,100.0
+Sweden,2018,99.0,100.0,100.0
+Sweden,2019,99.0,100.0,100.0
+Sweden,2020,100.0,100.0,100.0
+Sweden,2021,100.0,100.0,100.0
+Sweden,2022,100.0,100.0,100.0
+Switzerland,2000,100.0,100.0,100.0
+Switzerland,2001,100.0,100.0,100.0
+Switzerland,2002,100.0,100.0,100.0
+Switzerland,2003,100.0,100.0,100.0
+Switzerland,2004,100.0,100.0,100.0
+Switzerland,2005,100.0,100.0,100.0
+Switzerland,2006,100.0,100.0,100.0
+Switzerland,2007,100.0,100.0,100.0
+Switzerland,2008,100.0,100.0,100.0
+Switzerland,2009,100.0,100.0,100.0
+Switzerland,2010,100.0,100.0,100.0
+Switzerland,2011,100.0,100.0,100.0
+Switzerland,2012,100.0,100.0,100.0
+Switzerland,2013,100.0,100.0,100.0
+Switzerland,2014,100.0,100.0,100.0
+Switzerland,2015,100.0,100.0,100.0
+Switzerland,2016,100.0,100.0,100.0
+Switzerland,2017,100.0,100.0,100.0
+Switzerland,2018,100.0,100.0,100.0
+Switzerland,2019,100.0,100.0,100.0
+Switzerland,2020,100.0,100.0,100.0
+Switzerland,2021,100.0,100.0,100.0
+Switzerland,2022,100.0,100.0,100.0
+Syrian Arab Republic,2000,87.0,92.0,96.0
+Syrian Arab Republic,2001,88.0,92.0,96.0
+Syrian Arab Republic,2002,88.0,92.0,96.0
+Syrian Arab Republic,2003,88.0,92.0,96.0
+Syrian Arab Republic,2004,88.0,92.0,96.0
+Syrian Arab Republic,2005,89.0,92.0,96.0
+Syrian Arab Republic,2006,89.0,92.0,96.0
+Syrian Arab Republic,2007,89.0,93.0,96.0
+Syrian Arab Republic,2008,89.0,93.0,96.0
+Syrian Arab Republic,2009,89.0,93.0,96.0
+Syrian Arab Republic,2010,90.0,93.0,96.0
+Syrian Arab Republic,2011,90.0,93.0,96.0
+Syrian Arab Republic,2012,90.0,93.0,96.0
+Syrian Arab Republic,2013,90.0,93.0,96.0
+Syrian Arab Republic,2014,91.0,93.0,96.0
+Syrian Arab Republic,2015,91.0,93.0,96.0
+Syrian Arab Republic,2016,91.0,93.0,96.0
+Syrian Arab Republic,2017,91.0,94.0,96.0
+Syrian Arab Republic,2018,92.0,94.0,96.0
+Syrian Arab Republic,2019,92.0,94.0,96.0
+Syrian Arab Republic,2020,92.0,94.0,96.0
+Syrian Arab Republic,2021,92.0,94.0,96.0
+Syrian Arab Republic,2022,92.0,94.0,96.0
+Tajikistan,2000,44.0,57.0,91.0
+Tajikistan,2001,46.0,58.0,91.0
+Tajikistan,2002,47.0,59.0,91.0
+Tajikistan,2003,49.0,60.0,92.0
+Tajikistan,2004,51.0,62.0,92.0
+Tajikistan,2005,52.0,63.0,92.0
+Tajikistan,2006,54.0,64.0,92.0
+Tajikistan,2007,56.0,66.0,93.0
+Tajikistan,2008,57.0,67.0,93.0
+Tajikistan,2009,59.0,68.0,93.0
+Tajikistan,2010,61.0,69.0,93.0
+Tajikistan,2011,63.0,71.0,94.0
+Tajikistan,2012,64.0,72.0,94.0
+Tajikistan,2013,66.0,73.0,94.0
+Tajikistan,2014,68.0,75.0,94.0
+Tajikistan,2015,70.0,76.0,95.0
+Tajikistan,2016,71.0,78.0,95.0
+Tajikistan,2017,73.0,79.0,95.0
+Tajikistan,2018,75.0,80.0,95.0
+Tajikistan,2019,77.0,82.0,96.0
+Tajikistan,2020,77.0,82.0,96.0
+Tajikistan,2021,77.0,82.0,96.0
+Tajikistan,2022,77.0,82.0,96.0
+Thailand,2000,92.0,94.0,98.0
+Thailand,2001,93.0,94.0,98.0
+Thailand,2002,93.0,95.0,98.0
+Thailand,2003,93.0,95.0,98.0
+Thailand,2004,94.0,96.0,99.0
+Thailand,2005,94.0,96.0,99.0
+Thailand,2006,95.0,96.0,99.0
+Thailand,2007,95.0,97.0,99.0
+Thailand,2008,96.0,97.0,99.0
+Thailand,2009,96.0,97.0,99.0
+Thailand,2010,96.0,98.0,99.0
+Thailand,2011,97.0,98.0,99.0
+Thailand,2012,97.0,98.0,99.0
+Thailand,2013,98.0,98.0,99.0
+Thailand,2014,98.0,99.0,99.0
+Thailand,2015,98.0,99.0,100.0
+Thailand,2016,99.0,99.0,100.0
+Thailand,2017,99.0,99.0,100.0
+Thailand,2018,99.0,100.0,100.0
+Thailand,2019,100.0,100.0,100.0
+Thailand,2020,100.0,100.0,100.0
+Thailand,2021,100.0,100.0,100.0
+Thailand,2022,100.0,100.0,100.0
+Timor-Leste,2002,43.0,51.0,74.0
+Timor-Leste,2003,44.0,52.0,76.0
+Timor-Leste,2004,46.0,54.0,77.0
+Timor-Leste,2005,47.0,55.0,78.0
+Timor-Leste,2006,49.0,57.0,79.0
+Timor-Leste,2007,50.0,58.0,80.0
+Timor-Leste,2008,52.0,60.0,81.0
+Timor-Leste,2009,54.0,62.0,83.0
+Timor-Leste,2010,56.0,64.0,84.0
+Timor-Leste,2011,58.0,66.0,85.0
+Timor-Leste,2012,60.0,68.0,86.0
+Timor-Leste,2013,63.0,70.0,88.0
+Timor-Leste,2014,65.0,72.0,89.0
+Timor-Leste,2015,68.0,74.0,90.0
+Timor-Leste,2016,70.0,76.0,92.0
+Timor-Leste,2017,72.0,79.0,93.0
+Timor-Leste,2018,75.0,81.0,94.0
+Timor-Leste,2019,77.0,82.0,95.0
+Timor-Leste,2020,78.0,84.0,96.0
+Timor-Leste,2021,80.0,86.0,98.0
+Timor-Leste,2022,82.0,87.0,98.0
+Togo,2000,27.0,45.0,82.0
+Togo,2001,29.0,47.0,82.0
+Togo,2002,30.0,48.0,83.0
+Togo,2003,32.0,49.0,83.0
+Togo,2004,33.0,50.0,83.0
+Togo,2005,35.0,52.0,83.0
+Togo,2006,36.0,53.0,83.0
+Togo,2007,37.0,54.0,84.0
+Togo,2008,39.0,55.0,84.0
+Togo,2009,40.0,56.0,84.0
+Togo,2010,42.0,58.0,84.0
+Togo,2011,43.0,59.0,85.0
+Togo,2012,44.0,60.0,85.0
+Togo,2013,46.0,61.0,85.0
+Togo,2014,47.0,62.0,85.0
+Togo,2015,49.0,63.0,85.0
+Togo,2016,50.0,65.0,86.0
+Togo,2017,51.0,66.0,86.0
+Togo,2018,53.0,67.0,86.0
+Togo,2019,54.0,68.0,86.0
+Togo,2020,56.0,69.0,87.0
+Togo,2021,57.0,70.0,87.0
+Togo,2022,58.0,71.0,87.0
+Tonga,2000,98.0,98.0,98.0
+Tonga,2001,98.0,98.0,98.0
+Tonga,2002,98.0,98.0,98.0
+Tonga,2003,98.0,98.0,98.0
+Tonga,2004,98.0,98.0,98.0
+Tonga,2005,98.0,98.0,98.0
+Tonga,2006,98.0,98.0,98.0
+Tonga,2007,98.0,98.0,98.0
+Tonga,2008,98.0,98.0,98.0
+Tonga,2009,98.0,98.0,98.0
+Tonga,2010,98.0,98.0,99.0
+Tonga,2011,98.0,98.0,99.0
+Tonga,2012,98.0,98.0,99.0
+Tonga,2013,98.0,98.0,99.0
+Tonga,2014,98.0,99.0,99.0
+Tonga,2015,98.0,99.0,99.0
+Tonga,2016,98.0,99.0,99.0
+Tonga,2017,98.0,99.0,99.0
+Tonga,2018,98.0,99.0,99.0
+Tonga,2019,99.0,99.0,99.0
+Tonga,2020,99.0,99.0,99.0
+Tonga,2021,99.0,99.0,99.0
+Tonga,2022,99.0,99.0,100.0
+Trinidad and Tobago,2000,0.0,92.0,0.0
+Trinidad and Tobago,2001,0.0,93.0,0.0
+Trinidad and Tobago,2002,0.0,93.0,0.0
+Trinidad and Tobago,2003,0.0,93.0,0.0
+Trinidad and Tobago,2004,0.0,94.0,0.0
+Trinidad and Tobago,2005,0.0,94.0,0.0
+Trinidad and Tobago,2006,0.0,94.0,0.0
+Trinidad and Tobago,2007,0.0,95.0,0.0
+Trinidad and Tobago,2008,0.0,95.0,0.0
+Trinidad and Tobago,2009,0.0,95.0,0.0
+Trinidad and Tobago,2010,0.0,96.0,0.0
+Trinidad and Tobago,2011,0.0,96.0,0.0
+Trinidad and Tobago,2012,0.0,96.0,0.0
+Trinidad and Tobago,2013,0.0,97.0,0.0
+Trinidad and Tobago,2014,0.0,98.0,0.0
+Trinidad and Tobago,2015,0.0,98.0,0.0
+Trinidad and Tobago,2016,0.0,99.0,0.0
+Trinidad and Tobago,2017,0.0,99.0,0.0
+Trinidad and Tobago,2018,0.0,99.0,0.0
+Trinidad and Tobago,2019,0.0,99.0,0.0
+Trinidad and Tobago,2020,0.0,99.0,0.0
+Trinidad and Tobago,2021,0.0,99.0,0.0
+Trinidad and Tobago,2022,0.0,99.0,0.0
+Tunisia,2000,72.0,89.0,99.0
+Tunisia,2001,73.0,89.0,99.0
+Tunisia,2002,74.0,90.0,99.0
+Tunisia,2003,74.0,90.0,99.0
+Tunisia,2004,75.0,90.0,99.0
+Tunisia,2005,75.0,91.0,99.0
+Tunisia,2006,76.0,91.0,99.0
+Tunisia,2007,77.0,91.0,99.0
+Tunisia,2008,77.0,91.0,99.0
+Tunisia,2009,78.0,92.0,99.0
+Tunisia,2010,78.0,92.0,99.0
+Tunisia,2011,79.0,92.0,99.0
+Tunisia,2012,80.0,93.0,99.0
+Tunisia,2013,82.0,93.0,99.0
+Tunisia,2014,83.0,94.0,99.0
+Tunisia,2015,84.0,94.0,99.0
+Tunisia,2016,86.0,95.0,99.0
+Tunisia,2017,88.0,95.0,99.0
+Tunisia,2018,89.0,96.0,99.0
+Tunisia,2019,91.0,96.0,99.0
+Tunisia,2020,92.0,97.0,99.0
+Tunisia,2021,93.0,97.0,99.0
+Tunisia,2022,93.0,97.0,99.0
+Turkmenistan,2000,79.0,87.0,96.0
+Turkmenistan,2001,80.0,88.0,96.0
+Turkmenistan,2002,82.0,88.0,97.0
+Turkmenistan,2003,83.0,89.0,97.0
+Turkmenistan,2004,84.0,90.0,97.0
+Turkmenistan,2005,85.0,91.0,97.0
+Turkmenistan,2006,86.0,91.0,97.0
+Turkmenistan,2007,87.0,92.0,97.0
+Turkmenistan,2008,88.0,93.0,97.0
+Turkmenistan,2009,89.0,93.0,98.0
+Turkmenistan,2010,91.0,94.0,98.0
+Turkmenistan,2011,92.0,95.0,98.0
+Turkmenistan,2012,93.0,96.0,98.0
+Turkmenistan,2013,94.0,96.0,99.0
+Turkmenistan,2014,95.0,97.0,99.0
+Turkmenistan,2015,96.0,98.0,99.0
+Turkmenistan,2016,97.0,98.0,99.0
+Turkmenistan,2017,98.0,99.0,99.0
+Turkmenistan,2018,99.0,99.0,100.0
+Turkmenistan,2019,100.0,100.0,100.0
+Turkmenistan,2020,100.0,100.0,100.0
+Turkmenistan,2021,100.0,100.0,100.0
+Turkmenistan,2022,100.0,100.0,100.0
+Tuvalu,2000,99.0,99.0,99.0
+Tuvalu,2001,99.0,99.0,99.0
+Tuvalu,2002,99.0,99.0,99.0
+Tuvalu,2003,99.0,99.0,99.0
+Tuvalu,2004,99.0,99.0,99.0
+Tuvalu,2005,99.0,99.0,99.0
+Tuvalu,2006,99.0,99.0,99.0
+Tuvalu,2007,99.0,99.0,99.0
+Tuvalu,2008,99.0,99.0,99.0
+Tuvalu,2009,99.0,99.0,99.0
+Tuvalu,2010,99.0,99.0,99.0
+Tuvalu,2011,99.0,99.0,99.0
+Tuvalu,2012,99.0,99.0,99.0
+Tuvalu,2013,99.0,99.0,99.0
+Tuvalu,2014,99.0,99.0,99.0
+Tuvalu,2015,100.0,99.0,99.0
+Tuvalu,2016,100.0,99.0,99.0
+Tuvalu,2017,100.0,99.0,99.0
+Tuvalu,2018,100.0,99.0,99.0
+Tuvalu,2019,100.0,99.0,99.0
+Tuvalu,2020,100.0,99.0,99.0
+Tuvalu,2021,100.0,99.0,99.0
+Tuvalu,2022,100.0,99.0,99.0
+Türkiye,2000,89.0,94.0,96.0
+Türkiye,2001,89.0,94.0,96.0
+Türkiye,2002,89.0,94.0,96.0
+Türkiye,2003,90.0,94.0,96.0
+Türkiye,2004,90.0,94.0,96.0
+Türkiye,2005,91.0,94.0,96.0
+Türkiye,2006,91.0,95.0,96.0
+Türkiye,2007,91.0,95.0,96.0
+Türkiye,2008,92.0,95.0,97.0
+Türkiye,2009,92.0,95.0,97.0
+Türkiye,2010,92.0,95.0,97.0
+Türkiye,2011,93.0,96.0,97.0
+Türkiye,2012,93.0,96.0,97.0
+Türkiye,2013,93.0,96.0,97.0
+Türkiye,2014,94.0,96.0,97.0
+Türkiye,2015,94.0,96.0,97.0
+Türkiye,2016,95.0,96.0,97.0
+Türkiye,2017,95.0,97.0,97.0
+Türkiye,2018,95.0,97.0,97.0
+Türkiye,2019,96.0,97.0,97.0
+Türkiye,2020,96.0,97.0,97.0
+Türkiye,2021,96.0,97.0,97.0
+Türkiye,2022,96.0,97.0,97.0
+Uganda,2000,19.0,26.0,70.0
+Uganda,2001,20.0,28.0,70.0
+Uganda,2002,21.0,29.0,71.0
+Uganda,2003,23.0,30.0,71.0
+Uganda,2004,24.0,32.0,72.0
+Uganda,2005,25.0,33.0,72.0
+Uganda,2006,26.0,34.0,72.0
+Uganda,2007,28.0,36.0,73.0
+Uganda,2008,29.0,37.0,73.0
+Uganda,2009,31.0,39.0,74.0
+Uganda,2010,32.0,40.0,74.0
+Uganda,2011,33.0,42.0,75.0
+Uganda,2012,35.0,43.0,75.0
+Uganda,2013,37.0,45.0,76.0
+Uganda,2014,38.0,46.0,76.0
+Uganda,2015,40.0,48.0,77.0
+Uganda,2016,41.0,49.0,77.0
+Uganda,2017,43.0,51.0,78.0
+Uganda,2018,45.0,53.0,78.0
+Uganda,2019,46.0,54.0,79.0
+Uganda,2020,48.0,56.0,79.0
+Uganda,2021,50.0,58.0,80.0
+Uganda,2022,52.0,59.0,80.0
+Ukraine,2000,95.0,98.0,100.0
+Ukraine,2001,95.0,98.0,100.0
+Ukraine,2002,95.0,98.0,100.0
+Ukraine,2003,95.0,98.0,100.0
+Ukraine,2004,96.0,98.0,99.0
+Ukraine,2005,96.0,97.0,98.0
+Ukraine,2006,96.0,97.0,97.0
+Ukraine,2007,96.0,96.0,96.0
+Ukraine,2008,96.0,96.0,96.0
+Ukraine,2009,96.0,95.0,95.0
+Ukraine,2010,97.0,95.0,94.0
+Ukraine,2011,97.0,94.0,93.0
+Ukraine,2012,97.0,94.0,93.0
+Ukraine,2013,98.0,94.0,92.0
+Ukraine,2014,98.0,93.0,91.0
+Ukraine,2015,99.0,93.0,91.0
+Ukraine,2016,99.0,93.0,91.0
+Ukraine,2017,99.0,93.0,91.0
+Ukraine,2018,99.0,93.0,91.0
+Ukraine,2019,99.0,94.0,91.0
+Ukraine,2020,100.0,94.0,91.0
+Ukraine,2021,100.0,94.0,91.0
+Ukraine,2022,100.0,94.0,91.0
+United Arab Emirates,2000,100.0,100.0,100.0
+United Arab Emirates,2001,100.0,100.0,100.0
+United Arab Emirates,2002,100.0,100.0,100.0
+United Arab Emirates,2003,100.0,100.0,100.0
+United Arab Emirates,2004,100.0,100.0,100.0
+United Arab Emirates,2005,100.0,100.0,100.0
+United Arab Emirates,2006,100.0,100.0,100.0
+United Arab Emirates,2007,100.0,100.0,100.0
+United Arab Emirates,2008,100.0,100.0,100.0
+United Arab Emirates,2009,100.0,100.0,100.0
+United Arab Emirates,2010,100.0,100.0,100.0
+United Arab Emirates,2011,100.0,100.0,100.0
+United Arab Emirates,2012,100.0,100.0,100.0
+United Arab Emirates,2013,100.0,100.0,100.0
+United Arab Emirates,2014,100.0,100.0,100.0
+United Arab Emirates,2015,100.0,100.0,100.0
+United Arab Emirates,2016,100.0,100.0,100.0
+United Arab Emirates,2017,100.0,100.0,100.0
+United Arab Emirates,2018,100.0,100.0,100.0
+United Arab Emirates,2019,100.0,100.0,100.0
+United Arab Emirates,2020,100.0,100.0,100.0
+United Arab Emirates,2021,100.0,100.0,100.0
+United Arab Emirates,2022,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2000,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2001,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2002,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2003,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2004,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2005,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2006,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2007,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2008,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2009,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2010,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2011,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2012,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2013,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2014,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2015,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2016,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2017,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2018,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2019,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2020,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2021,100.0,100.0,100.0
+United Kingdom of Great Britain and Northern Ireland,2022,100.0,100.0,100.0
+United Republic of Tanzania,2000,17.0,29.0,69.0
+United Republic of Tanzania,2001,18.0,30.0,70.0
+United Republic of Tanzania,2002,20.0,31.0,71.0
+United Republic of Tanzania,2003,21.0,33.0,72.0
+United Republic of Tanzania,2004,22.0,34.0,72.0
+United Republic of Tanzania,2005,24.0,36.0,73.0
+United Republic of Tanzania,2006,25.0,37.0,73.0
+United Republic of Tanzania,2007,27.0,39.0,74.0
+United Republic of Tanzania,2008,28.0,40.0,74.0
+United Republic of Tanzania,2009,30.0,42.0,75.0
+United Republic of Tanzania,2010,31.0,43.0,75.0
+United Republic of Tanzania,2011,32.0,45.0,76.0
+United Republic of Tanzania,2012,34.0,46.0,76.0
+United Republic of Tanzania,2013,35.0,48.0,77.0
+United Republic of Tanzania,2014,37.0,49.0,77.0
+United Republic of Tanzania,2015,38.0,51.0,78.0
+United Republic of Tanzania,2016,40.0,52.0,78.0
+United Republic of Tanzania,2017,41.0,54.0,79.0
+United Republic of Tanzania,2018,43.0,55.0,79.0
+United Republic of Tanzania,2019,45.0,57.0,79.0
+United Republic of Tanzania,2020,46.0,58.0,80.0
+United Republic of Tanzania,2021,48.0,59.0,80.0
+United Republic of Tanzania,2022,49.0,61.0,81.0
+United States of America,2000,0.0,0.0,100.0
+United States of America,2001,0.0,0.0,100.0
+United States of America,2002,0.0,0.0,100.0
+United States of America,2003,0.0,0.0,100.0
+United States of America,2004,0.0,0.0,100.0
+United States of America,2005,96.0,99.0,100.0
+United States of America,2006,96.0,99.0,100.0
+United States of America,2007,96.0,99.0,100.0
+United States of America,2008,96.0,99.0,100.0
+United States of America,2009,96.0,99.0,100.0
+United States of America,2010,96.0,99.0,100.0
+United States of America,2011,96.0,99.0,100.0
+United States of America,2012,97.0,99.0,100.0
+United States of America,2013,97.0,99.0,100.0
+United States of America,2014,97.0,99.0,100.0
+United States of America,2015,98.0,99.0,100.0
+United States of America,2016,98.0,100.0,100.0
+United States of America,2017,98.0,100.0,100.0
+United States of America,2018,99.0,100.0,100.0
+United States of America,2019,99.0,100.0,100.0
+United States of America,2020,99.0,100.0,100.0
+United States of America,2021,100.0,100.0,100.0
+United States of America,2022,100.0,100.0,100.0
+Uruguay,2000,75.0,97.0,99.0
+Uruguay,2001,75.0,97.0,99.0
+Uruguay,2002,75.0,97.0,99.0
+Uruguay,2003,75.0,97.0,99.0
+Uruguay,2004,75.0,97.0,99.0
+Uruguay,2005,76.0,97.0,99.0
+Uruguay,2006,78.0,98.0,99.0
+Uruguay,2007,79.0,98.0,99.0
+Uruguay,2008,81.0,98.0,99.0
+Uruguay,2009,82.0,98.0,99.0
+Uruguay,2010,84.0,98.0,99.0
+Uruguay,2011,85.0,99.0,99.0
+Uruguay,2012,87.0,99.0,99.0
+Uruguay,2013,88.0,99.0,99.0
+Uruguay,2014,90.0,99.0,99.0
+Uruguay,2015,91.0,99.0,100.0
+Uruguay,2016,93.0,99.0,100.0
+Uruguay,2017,95.0,99.0,100.0
+Uruguay,2018,95.0,99.0,100.0
+Uruguay,2019,95.0,99.0,100.0
+Uruguay,2020,95.0,99.0,100.0
+Uruguay,2021,95.0,100.0,100.0
+Uruguay,2022,95.0,100.0,100.0
+Uzbekistan,2000,80.0,87.0,96.0
+Uzbekistan,2001,80.0,88.0,96.0
+Uzbekistan,2002,81.0,88.0,97.0
+Uzbekistan,2003,82.0,89.0,97.0
+Uzbekistan,2004,82.0,89.0,97.0
+Uzbekistan,2005,83.0,90.0,97.0
+Uzbekistan,2006,84.0,90.0,97.0
+Uzbekistan,2007,85.0,91.0,97.0
+Uzbekistan,2008,85.0,91.0,97.0
+Uzbekistan,2009,86.0,92.0,97.0
+Uzbekistan,2010,87.0,92.0,97.0
+Uzbekistan,2011,87.0,92.0,97.0
+Uzbekistan,2012,88.0,93.0,97.0
+Uzbekistan,2013,89.0,93.0,97.0
+Uzbekistan,2014,90.0,94.0,97.0
+Uzbekistan,2015,90.0,94.0,97.0
+Uzbekistan,2016,91.0,94.0,98.0
+Uzbekistan,2017,92.0,95.0,98.0
+Uzbekistan,2018,93.0,95.0,98.0
+Uzbekistan,2019,93.0,96.0,98.0
+Uzbekistan,2020,94.0,96.0,98.0
+Uzbekistan,2021,95.0,96.0,98.0
+Uzbekistan,2022,95.0,97.0,98.0
+Vanuatu,2000,80.0,83.0,97.0
+Vanuatu,2001,80.0,83.0,97.0
+Vanuatu,2002,80.0,83.0,97.0
+Vanuatu,2003,80.0,84.0,97.0
+Vanuatu,2004,80.0,84.0,97.0
+Vanuatu,2005,80.0,84.0,97.0
+Vanuatu,2006,81.0,84.0,97.0
+Vanuatu,2007,81.0,85.0,97.0
+Vanuatu,2008,82.0,85.0,97.0
+Vanuatu,2009,82.0,86.0,97.0
+Vanuatu,2010,83.0,86.0,97.0
+Vanuatu,2011,83.0,87.0,98.0
+Vanuatu,2012,84.0,87.0,98.0
+Vanuatu,2013,84.0,88.0,98.0
+Vanuatu,2014,85.0,88.0,98.0
+Vanuatu,2015,85.0,88.0,98.0
+Vanuatu,2016,86.0,89.0,98.0
+Vanuatu,2017,86.0,89.0,98.0
+Vanuatu,2018,87.0,90.0,99.0
+Vanuatu,2019,87.0,90.0,99.0
+Vanuatu,2020,88.0,90.0,99.0
+Vanuatu,2021,88.0,91.0,99.0
+Vanuatu,2022,89.0,91.0,99.0
+Venezuela (Bolivarian Republic of),2000,0.0,97.0,0.0
+Venezuela (Bolivarian Republic of),2001,0.0,97.0,0.0
+Venezuela (Bolivarian Republic of),2002,0.0,97.0,0.0
+Venezuela (Bolivarian Republic of),2003,0.0,97.0,0.0
+Venezuela (Bolivarian Republic of),2004,0.0,97.0,0.0
+Venezuela (Bolivarian Republic of),2005,0.0,96.0,0.0
+Venezuela (Bolivarian Republic of),2006,0.0,96.0,0.0
+Venezuela (Bolivarian Republic of),2007,0.0,96.0,0.0
+Venezuela (Bolivarian Republic of),2008,0.0,96.0,0.0
+Venezuela (Bolivarian Republic of),2009,0.0,96.0,0.0
+Venezuela (Bolivarian Republic of),2010,0.0,95.0,0.0
+Venezuela (Bolivarian Republic of),2011,0.0,95.0,0.0
+Venezuela (Bolivarian Republic of),2012,0.0,95.0,0.0
+Venezuela (Bolivarian Republic of),2013,0.0,95.0,0.0
+Venezuela (Bolivarian Republic of),2014,0.0,95.0,0.0
+Venezuela (Bolivarian Republic of),2015,0.0,95.0,0.0
+Venezuela (Bolivarian Republic of),2016,0.0,94.0,0.0
+Venezuela (Bolivarian Republic of),2017,0.0,94.0,0.0
+Venezuela (Bolivarian Republic of),2018,0.0,94.0,0.0
+Venezuela (Bolivarian Republic of),2019,0.0,94.0,0.0
+Venezuela (Bolivarian Republic of),2020,0.0,94.0,0.0
+Venezuela (Bolivarian Republic of),2021,0.0,94.0,0.0
+Venezuela (Bolivarian Republic of),2022,0.0,93.0,0.0
+Viet Nam,2000,76.0,81.0,95.0
+Viet Nam,2001,77.0,81.0,95.0
+Viet Nam,2002,78.0,82.0,95.0
+Viet Nam,2003,79.0,83.0,95.0
+Viet Nam,2004,80.0,84.0,96.0
+Viet Nam,2005,81.0,85.0,96.0
+Viet Nam,2006,82.0,86.0,96.0
+Viet Nam,2007,83.0,86.0,96.0
+Viet Nam,2008,84.0,87.0,96.0
+Viet Nam,2009,84.0,88.0,96.0
+Viet Nam,2010,85.0,89.0,97.0
+Viet Nam,2011,86.0,90.0,97.0
+Viet Nam,2012,87.0,90.0,97.0
+Viet Nam,2013,88.0,91.0,97.0
+Viet Nam,2014,89.0,92.0,97.0
+Viet Nam,2015,90.0,93.0,97.0
+Viet Nam,2016,91.0,93.0,98.0
+Viet Nam,2017,92.0,94.0,98.0
+Viet Nam,2018,94.0,95.0,98.0
+Viet Nam,2019,94.0,96.0,99.0
+Viet Nam,2020,95.0,97.0,99.0
+Viet Nam,2021,96.0,97.0,99.0
+Viet Nam,2022,97.0,98.0,99.0
+Yemen,2000,29.0,41.0,74.0
+Yemen,2001,29.0,41.0,74.0
+Yemen,2002,29.0,41.0,74.0
+Yemen,2003,31.0,43.0,74.0
+Yemen,2004,32.0,44.0,74.0
+Yemen,2005,33.0,45.0,74.0
+Yemen,2006,34.0,46.0,74.0
+Yemen,2007,35.0,47.0,75.0
+Yemen,2008,37.0,48.0,75.0
+Yemen,2009,38.0,49.0,75.0
+Yemen,2010,39.0,51.0,75.0
+Yemen,2011,40.0,52.0,75.0
+Yemen,2012,41.0,53.0,76.0
+Yemen,2013,43.0,54.0,76.0
+Yemen,2014,44.0,55.0,76.0
+Yemen,2015,45.0,56.0,76.0
+Yemen,2016,46.0,57.0,76.0
+Yemen,2017,47.0,58.0,76.0
+Yemen,2018,48.0,59.0,77.0
+Yemen,2019,50.0,60.0,77.0
+Yemen,2020,51.0,61.0,77.0
+Yemen,2021,52.0,62.0,77.0
+Yemen,2022,52.0,62.0,77.0
+Zambia,2000,28.0,47.0,83.0
+Zambia,2001,29.0,48.0,83.0
+Zambia,2002,30.0,49.0,83.0
+Zambia,2003,32.0,50.0,83.0
+Zambia,2004,33.0,51.0,84.0
+Zambia,2005,34.0,52.0,84.0
+Zambia,2006,35.0,54.0,84.0
+Zambia,2007,36.0,55.0,85.0
+Zambia,2008,37.0,56.0,85.0
+Zambia,2009,39.0,57.0,85.0
+Zambia,2010,40.0,58.0,86.0
+Zambia,2011,41.0,59.0,86.0
+Zambia,2012,42.0,60.0,86.0
+Zambia,2013,43.0,61.0,86.0
+Zambia,2014,44.0,62.0,87.0
+Zambia,2015,45.0,63.0,87.0
+Zambia,2016,47.0,64.0,87.0
+Zambia,2017,48.0,65.0,88.0
+Zambia,2018,49.0,66.0,88.0
+Zambia,2019,50.0,67.0,88.0
+Zambia,2020,51.0,68.0,89.0
+Zambia,2021,51.0,68.0,89.0
+Zambia,2022,51.0,68.0,89.0
+Zimbabwe,2000,60.0,72.0,95.0
+Zimbabwe,2001,60.0,72.0,95.0
+Zimbabwe,2002,59.0,72.0,95.0
+Zimbabwe,2003,59.0,71.0,95.0
+Zimbabwe,2004,58.0,71.0,95.0
+Zimbabwe,2005,57.0,70.0,95.0
+Zimbabwe,2006,57.0,70.0,95.0
+Zimbabwe,2007,56.0,69.0,95.0
+Zimbabwe,2008,55.0,69.0,95.0
+Zimbabwe,2009,55.0,68.0,94.0
+Zimbabwe,2010,54.0,68.0,94.0
+Zimbabwe,2011,54.0,67.0,94.0
+Zimbabwe,2012,53.0,66.0,94.0
+Zimbabwe,2013,52.0,66.0,94.0
+Zimbabwe,2014,52.0,65.0,94.0
+Zimbabwe,2015,51.0,65.0,94.0
+Zimbabwe,2016,51.0,64.0,93.0
+Zimbabwe,2017,50.0,64.0,93.0
+Zimbabwe,2018,49.0,64.0,93.0
+Zimbabwe,2019,49.0,63.0,93.0
+Zimbabwe,2020,48.0,63.0,93.0
+Zimbabwe,2021,48.0,62.0,93.0
+Zimbabwe,2022,48.0,62.0,93.0
+"occupied Palestinian territory, including east Jerusalem",2000,87.0,91.0,92.0
+"occupied Palestinian territory, including east Jerusalem",2001,88.0,91.0,92.0
+"occupied Palestinian territory, including east Jerusalem",2002,88.0,91.0,93.0
+"occupied Palestinian territory, including east Jerusalem",2003,89.0,92.0,93.0
+"occupied Palestinian territory, including east Jerusalem",2004,89.0,92.0,93.0
+"occupied Palestinian territory, including east Jerusalem",2005,90.0,93.0,94.0
+"occupied Palestinian territory, including east Jerusalem",2006,90.0,93.0,94.0
+"occupied Palestinian territory, including east Jerusalem",2007,91.0,93.0,94.0
+"occupied Palestinian territory, including east Jerusalem",2008,91.0,94.0,95.0
+"occupied Palestinian territory, including east Jerusalem",2009,92.0,94.0,95.0
+"occupied Palestinian territory, including east Jerusalem",2010,92.0,95.0,95.0
+"occupied Palestinian territory, including east Jerusalem",2011,93.0,95.0,96.0
+"occupied Palestinian territory, including east Jerusalem",2012,93.0,95.0,96.0
+"occupied Palestinian territory, including east Jerusalem",2013,94.0,96.0,96.0
+"occupied Palestinian territory, including east Jerusalem",2014,95.0,96.0,97.0
+"occupied Palestinian territory, including east Jerusalem",2015,95.0,96.0,97.0
+"occupied Palestinian territory, including east Jerusalem",2016,96.0,97.0,97.0
+"occupied Palestinian territory, including east Jerusalem",2017,97.0,97.0,97.0
+"occupied Palestinian territory, including east Jerusalem",2018,97.0,97.0,97.0
+"occupied Palestinian territory, including east Jerusalem",2019,98.0,98.0,97.0
+"occupied Palestinian territory, including east Jerusalem",2020,99.0,98.0,98.0
+"occupied Palestinian territory, including east Jerusalem",2021,99.0,98.0,98.0
+"occupied Palestinian territory, including east Jerusalem",2022,100.0,98.0,98.0

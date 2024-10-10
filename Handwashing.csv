@@ -1,0 +1,4330 @@
+Location,Period,Dim1,Value_Handwash
+Liberia,2022,Rural,1
+Lesotho,2022,Urban,10
+Senegal,2022,Rural,10
+Togo,2022,Rural,10
+Bahrain,2022,Total,100
+Kyrgyzstan,2022,Rural,100
+Kyrgyzstan,2022,Total,100
+Kyrgyzstan,2022,Urban,100
+North Macedonia,2022,Rural,100
+North Macedonia,2022,Total,100
+North Macedonia,2022,Urban,100
+Turkmenistan,2022,Rural,100
+Turkmenistan,2022,Total,100
+Turkmenistan,2022,Urban,100
+Cote d'Ivoire,2022,Rural,11
+Sudan,2022,Total,11
+Benin,2022,Total,12
+Central African Republic,2022,Rural,12
+Democratic Republic of the Congo,2022,Rural,12
+Gambia,2022,Rural,12
+Gambia,2022,Total,13
+Guinea,2022,Rural,13
+Malawi,2022,Rural,13
+Gambia,2022,Urban,14
+Haiti,2022,Rural,15
+Madagascar,2022,Rural,15
+Malawi,2022,Total,15
+Sierra Leone,2022,Rural,15
+Guinea-Bissau,2022,Rural,16
+Rwanda,2022,Rural,16
+Benin,2022,Urban,17
+Burkina Faso,2022,Urban,17
+Mali,2022,Total,17
+Togo,2022,Total,17
+Rwanda,2022,Total,18
+Sierra Leone,2022,Total,18
+Zambia,2022,Total,18
+Burundi,2022,Urban,19
+Democratic Republic of the Congo,2022,Total,19
+Mauritania,2022,Rural,19
+Somalia,2022,Rural,19
+Ethiopia,2022,Urban,20
+Guinea-Bissau,2022,Total,20
+Guinea,2022,Total,21
+Sierra Leone,2022,Urban,21
+Bolivia (Plurinational State of),2022,Rural,22
+Cote d'Ivoire,2022,Total,22
+Cameroon,2022,Rural,22
+Central African Republic,2022,Total,22
+Niger,2022,Rural,22
+Senegal,2022,Total,22
+United Republic of Tanzania,2022,Rural,22
+Haiti,2022,Total,23
+Madagascar,2022,Total,23
+Nigeria,2022,Rural,23
+Chad,2022,Rural,24
+Guinea-Bissau,2022,Urban,25
+Niger,2022,Total,25
+Papua New Guinea,2022,Rural,25
+Somalia,2022,Total,25
+Uganda,2022,Rural,25
+Chad,2022,Total,26
+Bolivia (Plurinational State of),2022,Total,27
+Democratic Republic of the Congo,2022,Urban,27
+Mali,2022,Urban,27
+Togo,2022,Urban,27
+Haiti,2022,Urban,28
+Malawi,2022,Urban,28
+Solomon Islands,2022,Rural,28
+Bolivia (Plurinational State of),2022,Urban,29
+Rwanda,2022,Urban,29
+United Republic of Tanzania,2022,Total,29
+Zambia,2022,Urban,29
+Liberia,2022,Total,3
+Papua New Guinea,2022,Total,30
+Cote d'Ivoire,2022,Urban,31
+Nigeria,2022,Total,31
+Uganda,2022,Total,31
+Somalia,2022,Urban,32
+Colombia,2022,Rural,33
+Dominican Republic,2022,Rural,33
+Guinea,2022,Urban,33
+Chad,2022,Urban,34
+Central African Republic,2022,Urban,35
+Ghana,2022,Rural,35
+Kenya,2022,Rural,35
+Senegal,2022,Urban,35
+Madagascar,2022,Urban,36
+Zimbabwe,2022,Rural,36
+Cameroon,2022,Total,37
+Kenya,2022,Total,38
+Nigeria,2022,Urban,38
+Niger,2022,Urban,39
+Burundi,2022,Rural,4
+Lesotho,2022,Rural,4
+United Republic of Tanzania,2022,Urban,40
+Ghana,2022,Total,42
+Mauritania,2022,Total,42
+Zimbabwe,2022,Total,42
+Sao Tome and Principe,2022,Rural,43
+Afghanistan,2022,Rural,44
+Kenya,2022,Urban,45
+Cameroon,2022,Urban,47
+Ghana,2022,Urban,47
+Uganda,2022,Urban,47
+Afghanistan,2022,Total,48
+Dominican Republic,2022,Total,48
+Burkina Faso,2022,Rural,5
+Ethiopia,2022,Rural,5
+Dominican Republic,2022,Urban,51
+Kiribati,2022,Rural,51
+Kiribati,2022,Total,56
+Zimbabwe,2022,Urban,56
+Bangladesh,2022,Rural,58
+Sao Tome and Principe,2022,Total,58
+Afghanistan,2022,Urban,59
+Kiribati,2022,Urban,59
+Mauritania,2022,Urban,59
+Burundi,2022,Total,6
+Lesotho,2022,Total,6
+Liberia,2022,Urban,6
+South Sudan,2022,Total,6
+Nepal,2022,Rural,60
+Bangladesh,2022,Total,62
+Papua New Guinea,2022,Urban,62
+Sao Tome and Principe,2022,Urban,63
+Nepal,2022,Total,64
+Tonga,2022,Rural,66
+Suriname,2022,Rural,67
+Tunisia,2022,Rural,67
+Bangladesh,2022,Urban,68
+Tajikistan,2022,Rural,68
+Samoa,2022,Rural,69
+Colombia,2022,Total,70
+India,2022,Rural,70
+Peru,2022,Rural,70
+Tonga,2022,Total,70
+Myanmar,2022,Rural,71
+Samoa,2022,Total,72
+Suriname,2022,Total,72
+Tajikistan,2022,Total,73
+Algeria,2022,Rural,75
+Myanmar,2022,Total,75
+Nepal,2022,Urban,75
+Suriname,2022,Urban,75
+Uzbekistan,2022,Rural,75
+Vanuatu,2022,Rural,75
+India,2022,Total,76
+Indonesia,2022,Rural,76
+Vanuatu,2022,Total,76
+Colombia,2022,Urban,78
+Guyana,2022,Urban,78
+Ecuador,2022,Rural,79
+Indonesia,2022,Total,79
+Philippines,2022,Rural,79
+Benin,2022,Rural,8
+Ethiopia,2022,Total,8
+Fiji,2022,Rural,80
+Pakistan,2022,Rural,80
+Tonga,2022,Urban,80
+Vanuatu,2022,Urban,80
+Indonesia,2022,Urban,81
+Mongolia,2022,Rural,81
+Syrian Arab Republic,2022,Rural,81
+Cambodia,2022,Rural,82
+Philippines,2022,Total,82
+Uzbekistan,2022,Total,82
+Cambodia,2022,Total,83
+Costa Rica,2022,Rural,83
+Guyana,2022,Total,83
+Myanmar,2022,Urban,83
+Sri Lanka,2022,Rural,83
+Thailand,2022,Rural,83
+Honduras,2022,Rural,84
+Samoa,2022,Urban,84
+Syrian Arab Republic,2022,Total,84
+Tunisia,2022,Total,84
+Algeria,2022,Total,85
+Guyana,2022,Rural,85
+Honduras,2022,Total,85
+Honduras,2022,Urban,85
+Pakistan,2022,Total,85
+Philippines,2022,Urban,85
+Sri Lanka,2022,Total,85
+Thailand,2022,Total,85
+Viet Nam,2022,Rural,85
+Costa Rica,2022,Total,86
+Mongolia,2022,Total,86
+Costa Rica,2022,Urban,87
+Ecuador,2022,Total,87
+Fiji,2022,Total,87
+Georgia,2022,Rural,87
+Syrian Arab Republic,2022,Urban,87
+Tajikistan,2022,Urban,87
+Thailand,2022,Urban,87
+Algeria,2022,Urban,88
+Cambodia,2022,Urban,88
+Cuba,2022,Rural,88
+India,2022,Urban,88
+Uzbekistan,2022,Urban,88
+Belize,2022,Rural,89
+Mongolia,2022,Urban,89
+Viet Nam,2022,Total,89
+Burkina Faso,2022,Total,9
+Mali,2022,Rural,9
+Zambia,2022,Rural,9
+Armenia,2022,Rural,90
+Belize,2022,Total,90
+Bhutan,2022,Urban,90
+Fiji,2022,Urban,91
+Tunisia,2022,Urban,91
+Belize,2022,Urban,92
+Ecuador,2022,Urban,92
+Georgia,2022,Total,92
+Pakistan,2022,Urban,92
+Bhutan,2022,Total,93
+Cuba,2022,Total,93
+Sri Lanka,2022,Urban,93
+Tuvalu,2022,Urban,93
+Armenia,2022,Total,94
+Mexico,2022,Rural,94
+Mexico,2022,Total,94
+Mexico,2022,Urban,94
+Tuvalu,2022,Total,94
+China,2022,Rural,95
+Cuba,2022,Urban,95
+Georgia,2022,Urban,95
+"occupied Palestinian territory, including east Jerusalem",2022,Total,95
+"occupied Palestinian territory, including east Jerusalem",2022,Urban,95
+Viet Nam,2022,Urban,95
+Bhutan,2022,Rural,96
+"occupied Palestinian territory, including east Jerusalem",2022,Rural,96
+Tuvalu,2022,Rural,96
+Armenia,2022,Urban,97
+China,2022,Total,97
+Iraq,2022,Rural,97
+Iraq,2022,Total,97
+China,2022,Urban,98
+Iraq,2022,Urban,98
+Montenegro,2022,Rural,99
+Montenegro,2022,Total,99
+Montenegro,2022,Urban,99
+Liberia,2021,Rural,1
+Lesotho,2021,Urban,10
+Senegal,2021,Rural,10
+Togo,2021,Rural,10
+Bahrain,2021,Total,100
+Kyrgyzstan,2021,Rural,100
+Kyrgyzstan,2021,Total,100
+Kyrgyzstan,2021,Urban,100
+North Macedonia,2021,Rural,100
+North Macedonia,2021,Total,100
+North Macedonia,2021,Urban,100
+Turkmenistan,2021,Rural,100
+Turkmenistan,2021,Total,100
+Turkmenistan,2021,Urban,100
+Cote d'Ivoire,2021,Rural,11
+Sudan,2021,Total,11
+Benin,2021,Total,12
+Central African Republic,2021,Rural,12
+Democratic Republic of the Congo,2021,Rural,12
+Gambia,2021,Rural,12
+Gambia,2021,Total,13
+Guinea,2021,Rural,13
+Malawi,2021,Rural,13
+Gambia,2021,Urban,14
+Haiti,2021,Rural,15
+Madagascar,2021,Rural,15
+Malawi,2021,Total,15
+Sierra Leone,2021,Rural,15
+Guinea-Bissau,2021,Rural,16
+Rwanda,2021,Rural,16
+Benin,2021,Urban,17
+Burkina Faso,2021,Urban,17
+Mali,2021,Total,17
+Sierra Leone,2021,Total,17
+Togo,2021,Total,17
+Rwanda,2021,Total,18
+Zambia,2021,Total,18
+Burundi,2021,Urban,19
+Democratic Republic of the Congo,2021,Total,19
+Somalia,2021,Rural,19
+Ethiopia,2021,Urban,20
+Guinea-Bissau,2021,Total,20
+Guinea,2021,Total,21
+Sierra Leone,2021,Urban,21
+Bolivia (Plurinational State of),2021,Rural,22
+Cote d'Ivoire,2021,Total,22
+Cameroon,2021,Rural,22
+Central African Republic,2021,Total,22
+Haiti,2021,Total,22
+Mauritania,2021,Rural,22
+Niger,2021,Rural,22
+Senegal,2021,Total,22
+United Republic of Tanzania,2021,Rural,22
+Madagascar,2021,Total,23
+Nigeria,2021,Rural,23
+Chad,2021,Rural,24
+Uganda,2021,Rural,24
+Guinea-Bissau,2021,Urban,25
+Niger,2021,Total,25
+Papua New Guinea,2021,Rural,25
+Somalia,2021,Total,25
+Chad,2021,Total,26
+Bolivia (Plurinational State of),2021,Total,27
+Democratic Republic of the Congo,2021,Urban,27
+Mali,2021,Urban,27
+Togo,2021,Urban,27
+Haiti,2021,Urban,28
+Malawi,2021,Urban,28
+Solomon Islands,2021,Rural,28
+Bolivia (Plurinational State of),2021,Urban,29
+Rwanda,2021,Urban,29
+Uganda,2021,Total,29
+United Republic of Tanzania,2021,Total,29
+Zambia,2021,Urban,29
+Liberia,2021,Total,3
+Papua New Guinea,2021,Total,30
+Cote d'Ivoire,2021,Urban,31
+Nigeria,2021,Total,31
+Somalia,2021,Urban,32
+Colombia,2021,Rural,33
+Dominican Republic,2021,Rural,33
+Guinea,2021,Urban,33
+Chad,2021,Urban,34
+Central African Republic,2021,Urban,35
+Ghana,2021,Rural,35
+Kenya,2021,Rural,35
+Senegal,2021,Urban,35
+Madagascar,2021,Urban,36
+Zimbabwe,2021,Rural,36
+Cameroon,2021,Total,37
+Kenya,2021,Total,38
+Nigeria,2021,Urban,38
+Niger,2021,Urban,39
+Burundi,2021,Rural,4
+Lesotho,2021,Rural,4
+United Republic of Tanzania,2021,Urban,40
+Ghana,2021,Total,42
+Zimbabwe,2021,Total,42
+Afghanistan,2021,Rural,43
+Mauritania,2021,Total,43
+Sao Tome and Principe,2021,Rural,43
+Kenya,2021,Urban,45
+Uganda,2021,Urban,45
+Lao People's Democratic Republic,2021,Rural,46
+Afghanistan,2021,Total,47
+Cameroon,2021,Urban,47
+Ghana,2021,Urban,47
+Dominican Republic,2021,Total,48
+Burkina Faso,2021,Rural,5
+Ethiopia,2021,Rural,5
+Liberia,2021,Urban,5
+Dominican Republic,2021,Urban,51
+Kiribati,2021,Rural,51
+Kiribati,2021,Total,56
+Lao People's Democratic Republic,2021,Total,56
+Zimbabwe,2021,Urban,56
+Bangladesh,2021,Rural,58
+Sao Tome and Principe,2021,Total,58
+Afghanistan,2021,Urban,59
+Kiribati,2021,Urban,59
+Burundi,2021,Total,6
+Lesotho,2021,Total,6
+South Sudan,2021,Total,6
+Mauritania,2021,Urban,60
+Nepal,2021,Rural,60
+Bangladesh,2021,Total,62
+Papua New Guinea,2021,Urban,62
+Nepal,2021,Total,63
+Sao Tome and Principe,2021,Urban,63
+Tonga,2021,Rural,66
+Peru,2021,Rural,67
+Suriname,2021,Rural,67
+Tunisia,2021,Rural,67
+Bangladesh,2021,Urban,68
+India,2021,Rural,68
+Tajikistan,2021,Rural,68
+Samoa,2021,Rural,69
+Vanuatu,2021,Rural,69
+Colombia,2021,Total,70
+Tonga,2021,Total,70
+Myanmar,2021,Rural,71
+Vanuatu,2021,Total,71
+Samoa,2021,Total,72
+Suriname,2021,Total,72
+Lao People's Democratic Republic,2021,Urban,73
+Tajikistan,2021,Total,73
+India,2021,Total,74
+Algeria,2021,Rural,75
+Indonesia,2021,Rural,75
+Myanmar,2021,Total,75
+Nepal,2021,Urban,75
+Suriname,2021,Urban,75
+Uzbekistan,2021,Rural,75
+Pakistan,2021,Rural,76
+Vanuatu,2021,Urban,77
+Colombia,2021,Urban,78
+Guyana,2021,Urban,78
+Cambodia,2021,Rural,79
+Ecuador,2021,Rural,79
+Indonesia,2021,Total,79
+Philippines,2021,Rural,79
+Benin,2021,Rural,8
+Ethiopia,2021,Total,8
+Fiji,2021,Rural,80
+Marshall Islands,2021,Rural,80
+Tonga,2021,Urban,80
+Cambodia,2021,Total,81
+Mongolia,2021,Rural,81
+Syrian Arab Republic,2021,Rural,81
+Indonesia,2021,Urban,82
+Pakistan,2021,Total,82
+Philippines,2021,Total,82
+Uzbekistan,2021,Total,82
+Costa Rica,2021,Rural,83
+Guyana,2021,Total,83
+Myanmar,2021,Urban,83
+Sri Lanka,2021,Rural,83
+Thailand,2021,Rural,83
+Honduras,2021,Rural,84
+Samoa,2021,Urban,84
+Syrian Arab Republic,2021,Total,84
+Tunisia,2021,Total,84
+Viet Nam,2021,Rural,84
+Algeria,2021,Total,85
+Guyana,2021,Rural,85
+Honduras,2021,Total,85
+Honduras,2021,Urban,85
+Marshall Islands,2021,Total,85
+Philippines,2021,Urban,85
+Sri Lanka,2021,Total,85
+Thailand,2021,Total,85
+Costa Rica,2021,Total,86
+Fiji,2021,Total,86
+India,2021,Urban,86
+Marshall Islands,2021,Urban,86
+Mongolia,2021,Total,86
+Costa Rica,2021,Urban,87
+Ecuador,2021,Total,87
+Georgia,2021,Rural,87
+Syrian Arab Republic,2021,Urban,87
+Tajikistan,2021,Urban,87
+Thailand,2021,Urban,87
+Algeria,2021,Urban,88
+Cambodia,2021,Urban,88
+Cuba,2021,Rural,88
+Uzbekistan,2021,Urban,88
+Viet Nam,2021,Total,88
+Belize,2021,Rural,89
+Mongolia,2021,Urban,89
+Burkina Faso,2021,Total,9
+Mali,2021,Rural,9
+Zambia,2021,Rural,9
+Armenia,2021,Rural,90
+Belize,2021,Total,90
+Bhutan,2021,Urban,90
+Fiji,2021,Urban,91
+Pakistan,2021,Urban,91
+Tunisia,2021,Urban,91
+Belize,2021,Urban,92
+Ecuador,2021,Urban,92
+Georgia,2021,Total,92
+Bhutan,2021,Total,93
+Cuba,2021,Total,93
+Sri Lanka,2021,Urban,93
+Tuvalu,2021,Urban,93
+Armenia,2021,Total,94
+Mexico,2021,Rural,94
+Mexico,2021,Total,94
+Mexico,2021,Urban,94
+Tuvalu,2021,Total,94
+China,2021,Rural,95
+Cuba,2021,Urban,95
+Georgia,2021,Urban,95
+Maldives,2021,Rural,95
+"occupied Palestinian territory, including east Jerusalem",2021,Total,95
+"occupied Palestinian territory, including east Jerusalem",2021,Urban,95
+Viet Nam,2021,Urban,95
+Bhutan,2021,Rural,96
+Maldives,2021,Total,96
+"occupied Palestinian territory, including east Jerusalem",2021,Rural,96
+Tuvalu,2021,Rural,96
+Armenia,2021,Urban,97
+China,2021,Total,97
+Iraq,2021,Rural,97
+Iraq,2021,Total,97
+Maldives,2021,Urban,97
+Oman,2021,Total,97
+China,2021,Urban,98
+Iraq,2021,Urban,98
+Montenegro,2021,Rural,99
+Montenegro,2021,Total,99
+Montenegro,2021,Urban,99
+Liberia,2020,Rural,1
+Lesotho,2020,Urban,10
+Senegal,2020,Rural,10
+Togo,2020,Rural,10
+Bahrain,2020,Total,100
+Kyrgyzstan,2020,Rural,100
+Kyrgyzstan,2020,Total,100
+Kyrgyzstan,2020,Urban,100
+North Macedonia,2020,Rural,100
+North Macedonia,2020,Total,100
+North Macedonia,2020,Urban,100
+Turkmenistan,2020,Rural,100
+Turkmenistan,2020,Total,100
+Turkmenistan,2020,Urban,100
+Cote d'Ivoire,2020,Rural,11
+Benin,2020,Total,12
+Central African Republic,2020,Rural,12
+Democratic Republic of the Congo,2020,Rural,12
+Gambia,2020,Rural,12
+Angola,2020,Rural,13
+Gambia,2020,Total,13
+Guinea,2020,Rural,13
+Malawi,2020,Rural,13
+Sudan,2020,Total,13
+Gambia,2020,Urban,14
+Guinea-Bissau,2020,Rural,14
+Sierra Leone,2020,Rural,14
+Haiti,2020,Rural,15
+Madagascar,2020,Rural,15
+Malawi,2020,Total,15
+Rwanda,2020,Rural,15
+Benin,2020,Urban,17
+Burkina Faso,2020,Urban,17
+Eswatini,2020,Rural,17
+Mali,2020,Total,17
+Rwanda,2020,Total,17
+Sierra Leone,2020,Total,17
+Togo,2020,Total,17
+Guinea-Bissau,2020,Total,18
+Zambia,2020,Total,18
+Burundi,2020,Urban,19
+Democratic Republic of the Congo,2020,Total,19
+Somalia,2020,Rural,19
+Ethiopia,2020,Urban,20
+Guinea,2020,Total,20
+Niger,2020,Rural,20
+Sierra Leone,2020,Urban,21
+Bolivia (Plurinational State of),2020,Rural,22
+Cote d'Ivoire,2020,Total,22
+Cameroon,2020,Rural,22
+Central African Republic,2020,Total,22
+Chad,2020,Rural,22
+Haiti,2020,Total,22
+Senegal,2020,Total,22
+Timor-Leste,2020,Rural,22
+United Republic of Tanzania,2020,Rural,22
+Guinea-Bissau,2020,Urban,23
+Niger,2020,Total,23
+Nigeria,2020,Rural,23
+Uganda,2020,Rural,23
+Eswatini,2020,Total,24
+Madagascar,2020,Total,24
+Mauritania,2020,Rural,24
+Chad,2020,Total,25
+Papua New Guinea,2020,Rural,25
+Somalia,2020,Total,25
+Angola,2020,Total,27
+Bolivia (Plurinational State of),2020,Total,27
+Democratic Republic of the Congo,2020,Urban,27
+Mali,2020,Urban,27
+South Africa,2020,Rural,27
+Togo,2020,Urban,27
+Haiti,2020,Urban,28
+Malawi,2020,Urban,28
+Rwanda,2020,Urban,28
+Solomon Islands,2020,Rural,28
+Timor-Leste,2020,Total,28
+Uganda,2020,Total,28
+Bolivia (Plurinational State of),2020,Urban,29
+United Republic of Tanzania,2020,Total,29
+Zambia,2020,Urban,29
+Liberia,2020,Total,3
+Papua New Guinea,2020,Total,30
+Cote d'Ivoire,2020,Urban,31
+Nigeria,2020,Total,31
+Somalia,2020,Urban,32
+Colombia,2020,Rural,33
+Guinea,2020,Urban,33
+Angola,2020,Urban,34
+Central African Republic,2020,Urban,34
+Dominican Republic,2020,Rural,34
+Chad,2020,Urban,35
+Ghana,2020,Rural,35
+Kenya,2020,Rural,35
+Senegal,2020,Urban,35
+Cameroon,2020,Total,36
+Zimbabwe,2020,Rural,36
+Kenya,2020,Total,37
+Madagascar,2020,Urban,37
+Nigeria,2020,Urban,38
+Niger,2020,Urban,39
+Burundi,2020,Rural,4
+Lesotho,2020,Rural,4
+United Republic of Tanzania,2020,Urban,40
+Afghanistan,2020,Rural,42
+Ghana,2020,Total,42
+Zimbabwe,2020,Total,42
+Timor-Leste,2020,Urban,43
+Sao Tome and Principe,2020,Rural,44
+South Africa,2020,Total,44
+Uganda,2020,Urban,44
+Kenya,2020,Urban,45
+Mauritania,2020,Total,45
+Lao People's Democratic Republic,2020,Rural,46
+Afghanistan,2020,Total,47
+Cameroon,2020,Urban,47
+Ghana,2020,Urban,47
+Eswatini,2020,Urban,48
+Dominican Republic,2020,Total,49
+Burkina Faso,2020,Rural,5
+Ethiopia,2020,Rural,5
+Liberia,2020,Urban,5
+Kiribati,2020,Rural,51
+Dominican Republic,2020,Urban,52
+South Africa,2020,Urban,53
+Bangladesh,2020,Rural,54
+Sao Tome and Principe,2020,Total,55
+Kiribati,2020,Total,56
+Lao People's Democratic Republic,2020,Total,56
+Zimbabwe,2020,Urban,56
+Bangladesh,2020,Total,58
+Kiribati,2020,Urban,59
+Nepal,2020,Rural,59
+Sao Tome and Principe,2020,Urban,59
+Burundi,2020,Total,6
+Lesotho,2020,Total,6
+South Sudan,2020,Total,6
+Afghanistan,2020,Urban,60
+Mauritania,2020,Urban,61
+Nepal,2020,Total,62
+Papua New Guinea,2020,Urban,62
+Peru,2020,Rural,64
+Vanuatu,2020,Rural,64
+India,2020,Rural,65
+Bangladesh,2020,Urban,66
+Tonga,2020,Rural,66
+Suriname,2020,Rural,67
+Tunisia,2020,Rural,67
+Vanuatu,2020,Total,67
+Tajikistan,2020,Rural,68
+Samoa,2020,Rural,69
+Colombia,2020,Total,70
+Tonga,2020,Total,70
+Myanmar,2020,Rural,71
+India,2020,Total,72
+Pakistan,2020,Rural,72
+Paraguay,2020,Rural,72
+Samoa,2020,Total,72
+Suriname,2020,Total,72
+Lao People's Democratic Republic,2020,Urban,73
+Tajikistan,2020,Total,73
+Indonesia,2020,Rural,74
+Algeria,2020,Rural,75
+Myanmar,2020,Total,75
+Nepal,2020,Urban,75
+Suriname,2020,Urban,75
+Uzbekistan,2020,Rural,75
+Vanuatu,2020,Urban,75
+Cambodia,2020,Rural,76
+Colombia,2020,Urban,78
+Guyana,2020,Urban,78
+Cambodia,2020,Total,79
+Ecuador,2020,Rural,79
+Indonesia,2020,Total,79
+Pakistan,2020,Total,79
+Philippines,2020,Rural,79
+Benin,2020,Rural,8
+Ethiopia,2020,Total,8
+Fiji,2020,Rural,80
+Marshall Islands,2020,Rural,80
+Paraguay,2020,Total,80
+Tonga,2020,Urban,80
+Mongolia,2020,Rural,81
+Syrian Arab Republic,2020,Rural,81
+Guyana,2020,Total,82
+Indonesia,2020,Urban,82
+Philippines,2020,Total,82
+Uzbekistan,2020,Total,82
+Costa Rica,2020,Rural,83
+Myanmar,2020,Urban,83
+Sri Lanka,2020,Rural,83
+Thailand,2020,Rural,83
+Guyana,2020,Rural,84
+Honduras,2020,Rural,84
+Samoa,2020,Urban,84
+Syrian Arab Republic,2020,Total,84
+Tunisia,2020,Total,84
+Viet Nam,2020,Rural,84
+Algeria,2020,Total,85
+Honduras,2020,Total,85
+India,2020,Urban,85
+Marshall Islands,2020,Total,85
+Paraguay,2020,Urban,85
+Philippines,2020,Urban,85
+Sri Lanka,2020,Total,85
+Thailand,2020,Total,85
+Costa Rica,2020,Total,86
+Cuba,2020,Rural,86
+Fiji,2020,Total,86
+Honduras,2020,Urban,86
+Marshall Islands,2020,Urban,86
+Mongolia,2020,Total,86
+Costa Rica,2020,Urban,87
+Ecuador,2020,Total,87
+Georgia,2020,Rural,87
+Syrian Arab Republic,2020,Urban,87
+Tajikistan,2020,Urban,87
+Thailand,2020,Urban,87
+Algeria,2020,Urban,88
+Cambodia,2020,Urban,88
+Egypt,2020,Rural,88
+Uzbekistan,2020,Urban,88
+Viet Nam,2020,Total,88
+Belize,2020,Rural,89
+Bhutan,2020,Urban,89
+Mongolia,2020,Urban,89
+Burkina Faso,2020,Total,9
+Mali,2020,Rural,9
+Zambia,2020,Rural,9
+Armenia,2020,Rural,90
+Belize,2020,Total,90
+Egypt,2020,Total,90
+Pakistan,2020,Urban,90
+Fiji,2020,Urban,91
+Tunisia,2020,Urban,91
+Belize,2020,Urban,92
+Bhutan,2020,Total,92
+Cuba,2020,Total,92
+Ecuador,2020,Urban,92
+Georgia,2020,Total,92
+Egypt,2020,Urban,93
+Mexico,2020,Rural,93
+Mexico,2020,Total,93
+Mexico,2020,Urban,93
+Sri Lanka,2020,Urban,93
+Tuvalu,2020,Urban,93
+Armenia,2020,Total,94
+Bhutan,2020,Rural,94
+Cuba,2020,Urban,94
+Tuvalu,2020,Total,94
+China,2020,Rural,95
+Georgia,2020,Urban,95
+Maldives,2020,Rural,95
+"occupied Palestinian territory, including east Jerusalem",2020,Total,95
+"occupied Palestinian territory, including east Jerusalem",2020,Urban,95
+Viet Nam,2020,Urban,95
+Maldives,2020,Total,96
+"occupied Palestinian territory, including east Jerusalem",2020,Rural,96
+Tuvalu,2020,Rural,96
+Armenia,2020,Urban,97
+China,2020,Total,97
+Iraq,2020,Rural,97
+Iraq,2020,Total,97
+Maldives,2020,Urban,97
+Oman,2020,Total,97
+China,2020,Urban,98
+Iraq,2020,Urban,98
+Montenegro,2020,Rural,99
+Montenegro,2020,Total,99
+Montenegro,2020,Urban,99
+Liberia,2019,Rural,1
+Lesotho,2019,Urban,10
+Senegal,2019,Rural,10
+Togo,2019,Rural,10
+Bahrain,2019,Total,100
+North Macedonia,2019,Rural,100
+North Macedonia,2019,Total,100
+North Macedonia,2019,Urban,100
+Turkmenistan,2019,Rural,100
+Turkmenistan,2019,Total,100
+Turkmenistan,2019,Urban,100
+Benin,2019,Total,11
+Cote d'Ivoire,2019,Rural,11
+Central African Republic,2019,Rural,12
+Democratic Republic of the Congo,2019,Rural,12
+Gambia,2019,Rural,12
+Angola,2019,Rural,13
+Gambia,2019,Total,13
+Guinea,2019,Rural,13
+Guinea-Bissau,2019,Rural,13
+Malawi,2019,Rural,13
+Sierra Leone,2019,Rural,13
+Gambia,2019,Urban,14
+Rwanda,2019,Rural,14
+Sudan,2019,Total,14
+Haiti,2019,Rural,15
+Madagascar,2019,Rural,15
+Malawi,2019,Total,15
+Benin,2019,Urban,16
+Rwanda,2019,Total,16
+Sierra Leone,2019,Total,16
+Burkina Faso,2019,Urban,17
+Eswatini,2019,Rural,17
+Guinea-Bissau,2019,Total,17
+Mali,2019,Total,17
+Togo,2019,Total,17
+Zambia,2019,Total,18
+Burundi,2019,Urban,19
+Democratic Republic of the Congo,2019,Total,19
+Niger,2019,Rural,19
+Somalia,2019,Rural,19
+Ethiopia,2019,Urban,20
+Guinea,2019,Total,20
+Cote d'Ivoire,2019,Total,21
+Central African Republic,2019,Total,21
+Chad,2019,Rural,21
+Guinea-Bissau,2019,Urban,21
+Sierra Leone,2019,Urban,21
+Bolivia (Plurinational State of),2019,Rural,22
+Cameroon,2019,Rural,22
+Haiti,2019,Total,22
+Niger,2019,Total,22
+Senegal,2019,Total,22
+Timor-Leste,2019,Rural,22
+Uganda,2019,Rural,22
+United Republic of Tanzania,2019,Rural,22
+Nigeria,2019,Rural,23
+Chad,2019,Total,24
+Eswatini,2019,Total,24
+Madagascar,2019,Total,24
+Papua New Guinea,2019,Rural,25
+Somalia,2019,Total,25
+Angola,2019,Total,27
+Bolivia (Plurinational State of),2019,Total,27
+Democratic Republic of the Congo,2019,Urban,27
+Mali,2019,Urban,27
+Mauritania,2019,Rural,27
+Rwanda,2019,Urban,27
+South Africa,2019,Rural,27
+Togo,2019,Urban,27
+Uganda,2019,Total,27
+Haiti,2019,Urban,28
+Solomon Islands,2019,Rural,28
+Timor-Leste,2019,Total,28
+Bolivia (Plurinational State of),2019,Urban,29
+Malawi,2019,Urban,29
+United Republic of Tanzania,2019,Total,29
+Zambia,2019,Urban,29
+Liberia,2019,Total,3
+Papua New Guinea,2019,Total,30
+Cote d'Ivoire,2019,Urban,31
+Nigeria,2019,Total,31
+Congo,2019,Rural,32
+Somalia,2019,Urban,32
+Central African Republic,2019,Urban,33
+Colombia,2019,Rural,33
+Guinea,2019,Urban,33
+Angola,2019,Urban,34
+Chad,2019,Urban,35
+Dominican Republic,2019,Rural,35
+Ghana,2019,Rural,35
+Kenya,2019,Rural,35
+Senegal,2019,Urban,35
+Cameroon,2019,Total,36
+Zimbabwe,2019,Rural,36
+Kenya,2019,Total,37
+Madagascar,2019,Urban,37
+Niger,2019,Urban,38
+Nigeria,2019,Urban,38
+Solomon Islands,2019,Total,39
+Burundi,2019,Rural,4
+Lesotho,2019,Rural,4
+Liberia,2019,Urban,4
+Afghanistan,2019,Rural,40
+United Republic of Tanzania,2019,Urban,40
+Ghana,2019,Total,41
+Uganda,2019,Urban,42
+Zimbabwe,2019,Total,42
+Timor-Leste,2019,Urban,43
+Sao Tome and Principe,2019,Rural,44
+South Africa,2019,Total,44
+Kenya,2019,Urban,45
+Afghanistan,2019,Total,46
+Lao People's Democratic Republic,2019,Rural,46
+Mauritania,2019,Total,46
+Cameroon,2019,Urban,47
+Ghana,2019,Urban,47
+Congo,2019,Total,48
+Eswatini,2019,Urban,48
+Dominican Republic,2019,Total,49
+Burkina Faso,2019,Rural,5
+Ethiopia,2019,Rural,5
+Lesotho,2019,Total,5
+Bangladesh,2019,Rural,50
+Kiribati,2019,Rural,51
+Dominican Republic,2019,Urban,53
+Sao Tome and Principe,2019,Total,53
+South Africa,2019,Urban,53
+Bangladesh,2019,Total,55
+Lao People's Democratic Republic,2019,Total,55
+Congo,2019,Urban,56
+Kiribati,2019,Total,56
+Sao Tome and Principe,2019,Urban,56
+Zimbabwe,2019,Urban,56
+Nepal,2019,Rural,57
+Kiribati,2019,Urban,59
+Vanuatu,2019,Rural,59
+Burundi,2019,Total,6
+South Sudan,2019,Total,6
+Afghanistan,2019,Urban,61
+Nepal,2019,Total,61
+Mauritania,2019,Urban,62
+Papua New Guinea,2019,Urban,62
+Peru,2019,Rural,62
+India,2019,Rural,63
+Vanuatu,2019,Total,63
+Bangladesh,2019,Urban,64
+Tonga,2019,Rural,66
+Suriname,2019,Rural,67
+Tunisia,2019,Rural,67
+Pakistan,2019,Rural,68
+Tajikistan,2019,Rural,68
+Samoa,2019,Rural,69
+Benin,2019,Rural,7
+Colombia,2019,Total,70
+Guatemala,2019,Rural,70
+India,2019,Total,70
+Tonga,2019,Total,70
+Myanmar,2019,Rural,71
+Solomon Islands,2019,Urban,71
+Paraguay,2019,Rural,72
+Samoa,2019,Total,72
+Suriname,2019,Total,72
+Cambodia,2019,Rural,73
+Indonesia,2019,Rural,73
+Lao People's Democratic Republic,2019,Urban,73
+Tajikistan,2019,Total,73
+Vanuatu,2019,Urban,73
+Myanmar,2019,Total,74
+Algeria,2019,Rural,75
+Nepal,2019,Urban,75
+Suriname,2019,Urban,75
+Uzbekistan,2019,Rural,75
+Pakistan,2019,Total,76
+Cambodia,2019,Total,77
+Guatemala,2019,Total,77
+Guyana,2019,Urban,77
+Mongolia,2019,Rural,77
+Colombia,2019,Urban,78
+Indonesia,2019,Total,78
+Ecuador,2019,Rural,79
+Philippines,2019,Rural,79
+Ethiopia,2019,Total,8
+Fiji,2019,Rural,80
+Marshall Islands,2019,Rural,80
+Paraguay,2019,Total,80
+Tonga,2019,Urban,80
+Guyana,2019,Total,81
+Syrian Arab Republic,2019,Rural,81
+Indonesia,2019,Urban,82
+Philippines,2019,Total,82
+Uzbekistan,2019,Total,82
+Costa Rica,2019,Rural,83
+Guatemala,2019,Urban,83
+Guyana,2019,Rural,83
+Honduras,2019,Rural,83
+Myanmar,2019,Urban,83
+Sri Lanka,2019,Rural,83
+Thailand,2019,Rural,83
+India,2019,Urban,84
+Mongolia,2019,Total,84
+Samoa,2019,Urban,84
+Syrian Arab Republic,2019,Total,84
+Tunisia,2019,Total,84
+Viet Nam,2019,Rural,84
+Algeria,2019,Total,85
+Cuba,2019,Rural,85
+Honduras,2019,Total,85
+Marshall Islands,2019,Total,85
+Paraguay,2019,Urban,85
+Philippines,2019,Urban,85
+Sri Lanka,2019,Total,85
+Thailand,2019,Total,85
+Costa Rica,2019,Total,86
+Costa Rica,2019,Urban,86
+Fiji,2019,Total,86
+Honduras,2019,Urban,86
+Marshall Islands,2019,Urban,86
+Ecuador,2019,Total,87
+Georgia,2019,Rural,87
+Syrian Arab Republic,2019,Urban,87
+Tajikistan,2019,Urban,87
+Thailand,2019,Urban,87
+Algeria,2019,Urban,88
+Cambodia,2019,Urban,88
+Egypt,2019,Rural,88
+Mongolia,2019,Urban,88
+Uzbekistan,2019,Urban,88
+Viet Nam,2019,Total,88
+Belize,2019,Rural,89
+Bhutan,2019,Urban,89
+Pakistan,2019,Urban,89
+Burkina Faso,2019,Total,9
+Mali,2019,Rural,9
+Zambia,2019,Rural,9
+Armenia,2019,Rural,90
+Belize,2019,Total,90
+Egypt,2019,Total,90
+Bhutan,2019,Total,91
+Cuba,2019,Total,91
+Fiji,2019,Urban,91
+Belize,2019,Urban,92
+Bhutan,2019,Rural,92
+Ecuador,2019,Urban,92
+Georgia,2019,Total,92
+Tunisia,2019,Urban,92
+Cuba,2019,Urban,93
+Egypt,2019,Urban,93
+Mexico,2019,Rural,93
+Mexico,2019,Total,93
+Mexico,2019,Urban,93
+Sri Lanka,2019,Urban,93
+Tuvalu,2019,Urban,93
+Armenia,2019,Total,94
+Tuvalu,2019,Total,94
+Viet Nam,2019,Urban,94
+China,2019,Rural,95
+Georgia,2019,Urban,95
+Iraq,2019,Rural,95
+Maldives,2019,Rural,95
+"occupied Palestinian territory, including east Jerusalem",2019,Total,95
+"occupied Palestinian territory, including east Jerusalem",2019,Urban,95
+Maldives,2019,Total,96
+"occupied Palestinian territory, including east Jerusalem",2019,Rural,96
+Tuvalu,2019,Rural,96
+Armenia,2019,Urban,97
+China,2019,Total,97
+Iraq,2019,Total,97
+Iraq,2019,Urban,97
+Maldives,2019,Urban,97
+Oman,2019,Total,97
+China,2019,Urban,98
+Kyrgyzstan,2019,Rural,98
+Kyrgyzstan,2019,Total,98
+Kazakhstan,2019,Rural,99
+Kazakhstan,2019,Total,99
+Kazakhstan,2019,Urban,99
+Kyrgyzstan,2019,Urban,99
+Montenegro,2019,Rural,99
+Montenegro,2019,Total,99
+Montenegro,2019,Urban,99
+Liberia,2018,Rural,1
+Cote d'Ivoire,2018,Rural,10
+Lesotho,2018,Urban,10
+Senegal,2018,Rural,10
+Bahrain,2018,Total,100
+North Macedonia,2018,Rural,100
+North Macedonia,2018,Total,100
+North Macedonia,2018,Urban,100
+Turkmenistan,2018,Rural,100
+Turkmenistan,2018,Total,100
+Turkmenistan,2018,Urban,100
+Benin,2018,Total,11
+Central African Republic,2018,Rural,12
+Democratic Republic of the Congo,2018,Rural,12
+Gambia,2018,Rural,12
+Guinea-Bissau,2018,Rural,12
+Sierra Leone,2018,Rural,12
+Angola,2018,Rural,13
+Gambia,2018,Total,13
+Guinea,2018,Rural,13
+Malawi,2018,Rural,13
+Rwanda,2018,Rural,13
+Gambia,2018,Urban,14
+Benin,2018,Urban,15
+Guinea-Bissau,2018,Total,15
+Madagascar,2018,Rural,15
+Malawi,2018,Total,15
+Rwanda,2018,Total,15
+Haiti,2018,Rural,16
+Sierra Leone,2018,Total,16
+Sudan,2018,Total,16
+Togo,2018,Total,16
+Eswatini,2018,Rural,17
+Mali,2018,Total,17
+Burkina Faso,2018,Urban,18
+Niger,2018,Rural,18
+Zambia,2018,Total,18
+Democratic Republic of the Congo,2018,Total,19
+Guinea-Bissau,2018,Urban,19
+Somalia,2018,Rural,19
+Liberia,2018,Total,2
+Burundi,2018,Urban,20
+Cote d'Ivoire,2018,Total,20
+Central African Republic,2018,Total,20
+Chad,2018,Rural,20
+Ethiopia,2018,Urban,20
+Guinea,2018,Total,20
+Niger,2018,Total,21
+Sierra Leone,2018,Urban,21
+Uganda,2018,Rural,21
+Bolivia (Plurinational State of),2018,Rural,22
+Cameroon,2018,Rural,22
+Senegal,2018,Total,22
+Timor-Leste,2018,Rural,22
+United Republic of Tanzania,2018,Rural,22
+Haiti,2018,Total,23
+Nigeria,2018,Rural,23
+Chad,2018,Total,24
+Eswatini,2018,Total,24
+Madagascar,2018,Total,24
+Papua New Guinea,2018,Rural,25
+Somalia,2018,Total,25
+Uganda,2018,Total,25
+Rwanda,2018,Urban,26
+Togo,2018,Urban,26
+Angola,2018,Total,27
+Bolivia (Plurinational State of),2018,Total,27
+Democratic Republic of the Congo,2018,Urban,27
+Mali,2018,Urban,27
+South Africa,2018,Rural,27
+Haiti,2018,Urban,28
+Solomon Islands,2018,Rural,28
+Timor-Leste,2018,Total,28
+United Republic of Tanzania,2018,Total,28
+Bolivia (Plurinational State of),2018,Urban,29
+Malawi,2018,Urban,29
+Mauritania,2018,Rural,29
+Zambia,2018,Urban,29
+Cote d'Ivoire,2018,Urban,30
+Papua New Guinea,2018,Total,30
+Nigeria,2018,Total,31
+Central African Republic,2018,Urban,32
+Congo,2018,Rural,32
+Somalia,2018,Urban,32
+Colombia,2018,Rural,33
+Guinea,2018,Urban,33
+Angola,2018,Urban,34
+Chad,2018,Urban,35
+Ghana,2018,Rural,35
+Kenya,2018,Rural,35
+Senegal,2018,Urban,35
+Cameroon,2018,Total,36
+Dominican Republic,2018,Rural,36
+Zimbabwe,2018,Rural,36
+Kenya,2018,Total,37
+Madagascar,2018,Urban,37
+Niger,2018,Urban,37
+Nigeria,2018,Urban,38
+Solomon Islands,2018,Total,38
+Afghanistan,2018,Rural,39
+Burundi,2018,Rural,4
+Lesotho,2018,Rural,4
+Liberia,2018,Urban,4
+Uganda,2018,Urban,40
+United Republic of Tanzania,2018,Urban,40
+Ghana,2018,Total,41
+Zimbabwe,2018,Total,42
+Timor-Leste,2018,Urban,43
+South Africa,2018,Total,44
+Afghanistan,2018,Total,45
+Kenya,2018,Urban,45
+Sao Tome and Principe,2018,Rural,45
+Bangladesh,2018,Rural,46
+Lao People's Democratic Republic,2018,Rural,46
+Cameroon,2018,Urban,47
+Ghana,2018,Urban,47
+Mauritania,2018,Total,47
+Congo,2018,Total,48
+Eswatini,2018,Urban,48
+Burkina Faso,2018,Rural,5
+Ethiopia,2018,Rural,5
+Lesotho,2018,Total,5
+Dominican Republic,2018,Total,50
+Kiribati,2018,Rural,51
+Sao Tome and Principe,2018,Total,51
+Bangladesh,2018,Total,52
+Dominican Republic,2018,Urban,53
+Sao Tome and Principe,2018,Urban,53
+South Africa,2018,Urban,53
+Vanuatu,2018,Rural,54
+Kiribati,2018,Total,55
+Lao People's Democratic Republic,2018,Total,55
+Congo,2018,Urban,56
+Nepal,2018,Rural,56
+Zimbabwe,2018,Urban,56
+Vanuatu,2018,Total,58
+Kiribati,2018,Urban,59
+Nepal,2018,Total,59
+Peru,2018,Rural,59
+Burundi,2018,Total,6
+South Sudan,2018,Total,6
+India,2018,Rural,60
+Afghanistan,2018,Urban,61
+Bangladesh,2018,Urban,62
+Papua New Guinea,2018,Urban,62
+Mauritania,2018,Urban,63
+Pakistan,2018,Rural,64
+Tonga,2018,Rural,66
+Suriname,2018,Rural,67
+Tajikistan,2018,Rural,67
+Tunisia,2018,Rural,67
+India,2018,Total,68
+Samoa,2018,Rural,69
+Benin,2018,Rural,7
+Colombia,2018,Total,70
+Guatemala,2018,Rural,70
+Tonga,2018,Total,70
+Cambodia,2018,Rural,71
+Myanmar,2018,Rural,71
+Solomon Islands,2018,Urban,71
+Vanuatu,2018,Urban,71
+Indonesia,2018,Rural,72
+Paraguay,2018,Rural,72
+Samoa,2018,Total,72
+Suriname,2018,Total,72
+Lao People's Democratic Republic,2018,Urban,73
+Mongolia,2018,Rural,73
+Pakistan,2018,Total,73
+Tajikistan,2018,Total,73
+Myanmar,2018,Total,74
+Algeria,2018,Rural,75
+Cambodia,2018,Total,75
+Nepal,2018,Urban,75
+Suriname,2018,Urban,75
+Uzbekistan,2018,Rural,75
+Guatemala,2018,Total,77
+Guyana,2018,Urban,77
+Colombia,2018,Urban,78
+Indonesia,2018,Total,78
+Ecuador,2018,Rural,79
+Philippines,2018,Rural,79
+Ethiopia,2018,Total,8
+Fiji,2018,Rural,80
+Guyana,2018,Total,80
+Marshall Islands,2018,Rural,80
+Paraguay,2018,Total,80
+Tonga,2018,Urban,80
+Syrian Arab Republic,2018,Rural,81
+Guyana,2018,Rural,82
+Mongolia,2018,Total,82
+Philippines,2018,Total,82
+Uzbekistan,2018,Total,82
+Costa Rica,2018,Rural,83
+Cuba,2018,Rural,83
+Guatemala,2018,Urban,83
+Honduras,2018,Rural,83
+India,2018,Urban,83
+Indonesia,2018,Urban,83
+Myanmar,2018,Urban,83
+Sri Lanka,2018,Rural,83
+Thailand,2018,Rural,83
+Algeria,2018,Total,84
+Samoa,2018,Urban,84
+Syrian Arab Republic,2018,Total,84
+Viet Nam,2018,Rural,84
+Costa Rica,2018,Total,85
+Honduras,2018,Total,85
+Marshall Islands,2018,Total,85
+Paraguay,2018,Urban,85
+Philippines,2018,Urban,85
+Sri Lanka,2018,Total,85
+Thailand,2018,Total,85
+Tunisia,2018,Total,85
+Costa Rica,2018,Urban,86
+El Salvador,2018,Rural,86
+Fiji,2018,Total,86
+Honduras,2018,Urban,86
+Marshall Islands,2018,Urban,86
+Ecuador,2018,Total,87
+Georgia,2018,Rural,87
+Mongolia,2018,Urban,87
+Syrian Arab Republic,2018,Urban,87
+Tajikistan,2018,Urban,87
+Thailand,2018,Urban,87
+Viet Nam,2018,Total,87
+Algeria,2018,Urban,88
+Cambodia,2018,Urban,88
+Egypt,2018,Rural,88
+Pakistan,2018,Urban,88
+Uzbekistan,2018,Urban,88
+Belize,2018,Rural,89
+Bhutan,2018,Urban,89
+Burkina Faso,2018,Total,9
+Mali,2018,Rural,9
+Togo,2018,Rural,9
+Zambia,2018,Rural,9
+Armenia,2018,Rural,90
+Belize,2018,Total,90
+Bhutan,2018,Rural,90
+Bhutan,2018,Total,90
+Cuba,2018,Total,90
+Egypt,2018,Total,90
+El Salvador,2018,Total,91
+Fiji,2018,Urban,91
+Belize,2018,Urban,92
+Cuba,2018,Urban,92
+Ecuador,2018,Urban,92
+El Salvador,2018,Urban,92
+Georgia,2018,Total,92
+Mexico,2018,Rural,92
+Mexico,2018,Total,92
+Mexico,2018,Urban,92
+Egypt,2018,Urban,93
+Iraq,2018,Rural,93
+Sri Lanka,2018,Urban,93
+Tunisia,2018,Urban,93
+Tuvalu,2018,Urban,93
+Armenia,2018,Total,94
+Tuvalu,2018,Total,94
+Viet Nam,2018,Urban,94
+China,2018,Rural,95
+Georgia,2018,Urban,95
+Maldives,2018,Rural,95
+"occupied Palestinian territory, including east Jerusalem",2018,Total,95
+"occupied Palestinian territory, including east Jerusalem",2018,Urban,95
+Iraq,2018,Total,96
+Kyrgyzstan,2018,Rural,96
+Maldives,2018,Total,96
+"occupied Palestinian territory, including east Jerusalem",2018,Rural,96
+Tuvalu,2018,Rural,96
+Armenia,2018,Urban,97
+China,2018,Total,97
+Iraq,2018,Urban,97
+Kyrgyzstan,2018,Total,97
+Maldives,2018,Urban,97
+Oman,2018,Total,97
+China,2018,Urban,98
+Kyrgyzstan,2018,Urban,98
+Kazakhstan,2018,Rural,99
+Kazakhstan,2018,Total,99
+Kazakhstan,2018,Urban,99
+Montenegro,2018,Rural,99
+Montenegro,2018,Total,99
+Montenegro,2018,Urban,99
+Liberia,2017,Rural,1
+Benin,2017,Total,10
+Cote d'Ivoire,2017,Rural,10
+Lesotho,2017,Urban,10
+Senegal,2017,Rural,10
+Bahrain,2017,Total,100
+North Macedonia,2017,Rural,100
+North Macedonia,2017,Total,100
+North Macedonia,2017,Urban,100
+Turkmenistan,2017,Rural,100
+Turkmenistan,2017,Total,100
+Turkmenistan,2017,Urban,100
+Guinea-Bissau,2017,Rural,11
+Central African Republic,2017,Rural,12
+Democratic Republic of the Congo,2017,Rural,12
+Gambia,2017,Rural,12
+Rwanda,2017,Rural,12
+Sierra Leone,2017,Rural,12
+Angola,2017,Rural,13
+Gambia,2017,Total,13
+Guinea,2017,Rural,13
+Malawi,2017,Rural,13
+Gambia,2017,Urban,14
+Guinea-Bissau,2017,Total,14
+Rwanda,2017,Total,14
+Benin,2017,Urban,15
+Malawi,2017,Total,15
+Sierra Leone,2017,Total,15
+Togo,2017,Total,15
+Haiti,2017,Rural,16
+Madagascar,2017,Rural,16
+Eswatini,2017,Rural,17
+Mali,2017,Total,17
+Niger,2017,Rural,17
+Burkina Faso,2017,Urban,18
+Guinea-Bissau,2017,Urban,18
+Sudan,2017,Total,18
+Zambia,2017,Total,18
+Chad,2017,Rural,19
+Democratic Republic of the Congo,2017,Total,19
+Somalia,2017,Rural,19
+Liberia,2017,Total,2
+Burundi,2017,Urban,20
+Cote d'Ivoire,2017,Total,20
+Central African Republic,2017,Total,20
+Ethiopia,2017,Urban,20
+Guinea,2017,Total,20
+Niger,2017,Total,20
+Uganda,2017,Rural,20
+Sierra Leone,2017,Urban,21
+Bolivia (Plurinational State of),2017,Rural,22
+Cameroon,2017,Rural,22
+Senegal,2017,Total,22
+Timor-Leste,2017,Rural,22
+United Republic of Tanzania,2017,Rural,22
+Chad,2017,Total,23
+Haiti,2017,Total,23
+Nigeria,2017,Rural,23
+Eswatini,2017,Total,24
+Madagascar,2017,Total,24
+Rwanda,2017,Urban,24
+Uganda,2017,Total,24
+Papua New Guinea,2017,Rural,25
+Somalia,2017,Total,25
+Togo,2017,Urban,25
+Angola,2017,Total,27
+Bolivia (Plurinational State of),2017,Total,27
+Democratic Republic of the Congo,2017,Urban,27
+Mali,2017,Urban,27
+Namibia,2017,Rural,27
+South Africa,2017,Rural,27
+Solomon Islands,2017,Rural,28
+Timor-Leste,2017,Total,28
+United Republic of Tanzania,2017,Total,28
+Bolivia (Plurinational State of),2017,Urban,29
+Cote d'Ivoire,2017,Urban,29
+Haiti,2017,Urban,29
+Malawi,2017,Urban,29
+Zambia,2017,Urban,29
+Liberia,2017,Urban,3
+Nigeria,2017,Total,30
+Papua New Guinea,2017,Total,30
+Central African Republic,2017,Urban,31
+Mauritania,2017,Rural,31
+Congo,2017,Rural,32
+Somalia,2017,Urban,32
+Colombia,2017,Rural,33
+Guinea,2017,Urban,33
+Angola,2017,Urban,34
+Ghana,2017,Rural,35
+Kenya,2017,Rural,35
+Senegal,2017,Urban,35
+Cameroon,2017,Total,36
+Chad,2017,Urban,36
+Yemen,2017,Rural,36
+Zimbabwe,2017,Rural,36
+Dominican Republic,2017,Rural,37
+Kenya,2017,Total,37
+Niger,2017,Urban,37
+Afghanistan,2017,Rural,38
+Madagascar,2017,Urban,38
+Nigeria,2017,Urban,38
+Solomon Islands,2017,Total,38
+Uganda,2017,Urban,38
+Burundi,2017,Rural,4
+Lesotho,2017,Rural,4
+United Republic of Tanzania,2017,Urban,40
+Ghana,2017,Total,41
+Bangladesh,2017,Rural,42
+Zimbabwe,2017,Total,42
+Timor-Leste,2017,Urban,43
+Afghanistan,2017,Total,44
+South Africa,2017,Total,44
+Kenya,2017,Urban,45
+Namibia,2017,Total,45
+Lao People's Democratic Republic,2017,Rural,46
+Sao Tome and Principe,2017,Rural,46
+Cameroon,2017,Urban,47
+Ghana,2017,Urban,47
+Bangladesh,2017,Total,48
+Congo,2017,Total,48
+Eswatini,2017,Urban,48
+Sao Tome and Principe,2017,Total,48
+Mauritania,2017,Total,49
+Sao Tome and Principe,2017,Urban,49
+Vanuatu,2017,Rural,49
+Yemen,2017,Total,49
+Burkina Faso,2017,Rural,5
+Ethiopia,2017,Rural,5
+Lesotho,2017,Total,5
+Dominican Republic,2017,Total,51
+Kiribati,2017,Rural,51
+South Africa,2017,Urban,53
+Dominican Republic,2017,Urban,54
+Nepal,2017,Rural,54
+Vanuatu,2017,Total,54
+Kiribati,2017,Total,55
+Lao People's Democratic Republic,2017,Total,55
+Congo,2017,Urban,56
+Peru,2017,Rural,56
+Zimbabwe,2017,Urban,56
+India,2017,Rural,58
+Nepal,2017,Total,58
+Kiribati,2017,Urban,59
+Burundi,2017,Total,6
+South Sudan,2017,Total,6
+Bangladesh,2017,Urban,60
+Pakistan,2017,Rural,60
+Afghanistan,2017,Urban,62
+Namibia,2017,Urban,62
+Papua New Guinea,2017,Urban,62
+Mauritania,2017,Urban,64
+India,2017,Total,66
+Tonga,2017,Rural,66
+Suriname,2017,Rural,67
+Tajikistan,2017,Rural,67
+Tunisia,2017,Rural,67
+Cambodia,2017,Rural,68
+Colombia,2017,Total,69
+Mongolia,2017,Rural,69
+Samoa,2017,Rural,69
+Vanuatu,2017,Urban,69
+Benin,2017,Rural,7
+Guatemala,2017,Rural,70
+Pakistan,2017,Total,70
+Tonga,2017,Total,70
+Yemen,2017,Urban,70
+Myanmar,2017,Rural,71
+Solomon Islands,2017,Urban,71
+Cambodia,2017,Total,72
+Indonesia,2017,Rural,72
+Paraguay,2017,Rural,72
+Samoa,2017,Total,72
+Suriname,2017,Total,72
+Lao People's Democratic Republic,2017,Urban,73
+Tajikistan,2017,Total,73
+Algeria,2017,Rural,74
+Myanmar,2017,Total,74
+Nepal,2017,Urban,75
+Suriname,2017,Urban,75
+Guyana,2017,Urban,76
+Guatemala,2017,Total,77
+Colombia,2017,Urban,78
+Indonesia,2017,Total,78
+Ecuador,2017,Rural,79
+Philippines,2017,Rural,79
+Ethiopia,2017,Total,8
+Togo,2017,Rural,8
+Fiji,2017,Rural,80
+Guyana,2017,Total,80
+Marshall Islands,2017,Rural,80
+Mongolia,2017,Total,80
+Paraguay,2017,Total,80
+Tonga,2017,Urban,80
+Cuba,2017,Rural,81
+Guyana,2017,Rural,81
+Syrian Arab Republic,2017,Rural,81
+India,2017,Urban,82
+Philippines,2017,Total,82
+Costa Rica,2017,Rural,83
+Guatemala,2017,Urban,83
+Honduras,2017,Rural,83
+Indonesia,2017,Urban,83
+Myanmar,2017,Urban,83
+Sri Lanka,2017,Rural,83
+Thailand,2017,Rural,83
+Viet Nam,2017,Rural,83
+Algeria,2017,Total,84
+Samoa,2017,Urban,84
+Syrian Arab Republic,2017,Total,84
+Costa Rica,2017,Total,85
+Honduras,2017,Total,85
+Marshall Islands,2017,Total,85
+Paraguay,2017,Urban,85
+Philippines,2017,Urban,85
+Sri Lanka,2017,Total,85
+Thailand,2017,Total,85
+Tunisia,2017,Total,85
+Costa Rica,2017,Urban,86
+El Salvador,2017,Rural,86
+Fiji,2017,Total,86
+Honduras,2017,Urban,86
+Marshall Islands,2017,Urban,86
+Mongolia,2017,Urban,86
+Azerbaijan,2017,Rural,87
+Ecuador,2017,Total,87
+Georgia,2017,Rural,87
+Pakistan,2017,Urban,87
+Syrian Arab Republic,2017,Urban,87
+Tajikistan,2017,Urban,87
+Thailand,2017,Urban,87
+Viet Nam,2017,Total,87
+Algeria,2017,Urban,88
+Belize,2017,Rural,88
+Bhutan,2017,Rural,88
+Bhutan,2017,Total,88
+Cambodia,2017,Urban,88
+Egypt,2017,Rural,88
+Azerbaijan,2017,Total,89
+Belize,2017,Total,89
+Bhutan,2017,Urban,89
+Cuba,2017,Total,89
+Burkina Faso,2017,Total,9
+Mali,2017,Rural,9
+Zambia,2017,Rural,9
+Armenia,2017,Rural,90
+Egypt,2017,Total,90
+Azerbaijan,2017,Urban,91
+Belize,2017,Urban,91
+Cuba,2017,Urban,91
+El Salvador,2017,Total,91
+Fiji,2017,Urban,91
+Ecuador,2017,Urban,92
+El Salvador,2017,Urban,92
+Georgia,2017,Total,92
+Iraq,2017,Rural,92
+Mexico,2017,Rural,92
+Mexico,2017,Total,92
+Mexico,2017,Urban,92
+Egypt,2017,Urban,93
+Sri Lanka,2017,Urban,93
+Tunisia,2017,Urban,93
+Tuvalu,2017,Urban,93
+Armenia,2017,Total,94
+Kyrgyzstan,2017,Rural,94
+Tuvalu,2017,Total,94
+Viet Nam,2017,Urban,94
+China,2017,Rural,95
+Georgia,2017,Urban,95
+Iraq,2017,Total,95
+Kyrgyzstan,2017,Total,95
+Maldives,2017,Rural,95
+"occupied Palestinian territory, including east Jerusalem",2017,Total,95
+"occupied Palestinian territory, including east Jerusalem",2017,Urban,95
+Maldives,2017,Total,96
+"occupied Palestinian territory, including east Jerusalem",2017,Rural,96
+Tuvalu,2017,Rural,96
+Armenia,2017,Urban,97
+China,2017,Total,97
+Iraq,2017,Urban,97
+Kyrgyzstan,2017,Urban,97
+Maldives,2017,Urban,97
+Oman,2017,Total,97
+China,2017,Urban,98
+Kazakhstan,2017,Rural,99
+Kazakhstan,2017,Total,99
+Kazakhstan,2017,Urban,99
+Montenegro,2017,Rural,99
+Montenegro,2017,Total,99
+Montenegro,2017,Urban,99
+Liberia,2016,Rural,1
+Benin,2016,Total,10
+Lesotho,2016,Urban,10
+Senegal,2016,Rural,10
+Bahrain,2016,Total,100
+North Macedonia,2016,Rural,100
+North Macedonia,2016,Total,100
+North Macedonia,2016,Urban,100
+Turkmenistan,2016,Urban,100
+Rwanda,2016,Rural,11
+Sierra Leone,2016,Rural,11
+Democratic Republic of the Congo,2016,Rural,12
+Gambia,2016,Rural,12
+Guinea-Bissau,2016,Total,12
+Angola,2016,Rural,13
+Central African Republic,2016,Rural,13
+Gambia,2016,Total,13
+Guinea,2016,Rural,13
+Malawi,2016,Rural,13
+Rwanda,2016,Total,13
+Benin,2016,Urban,14
+Gambia,2016,Urban,14
+Togo,2016,Total,14
+Comoros,2016,Rural,15
+Malawi,2016,Total,15
+Sierra Leone,2016,Total,15
+Comoros,2016,Total,16
+Guinea-Bissau,2016,Urban,16
+Haiti,2016,Rural,16
+Madagascar,2016,Rural,16
+Mali,2016,Total,16
+Niger,2016,Rural,16
+Chad,2016,Rural,17
+Eswatini,2016,Rural,17
+Comoros,2016,Urban,18
+Uganda,2016,Rural,18
+Zambia,2016,Total,18
+Burkina Faso,2016,Urban,19
+Cote d'Ivoire,2016,Total,19
+Central African Republic,2016,Total,19
+Democratic Republic of the Congo,2016,Total,19
+Niger,2016,Total,19
+Somalia,2016,Rural,19
+Liberia,2016,Total,2
+Ethiopia,2016,Urban,20
+Guinea,2016,Total,20
+Sudan,2016,Total,20
+Burundi,2016,Urban,21
+Sierra Leone,2016,Urban,21
+Bolivia (Plurinational State of),2016,Rural,22
+Cameroon,2016,Rural,22
+Chad,2016,Total,22
+Senegal,2016,Total,22
+Timor-Leste,2016,Rural,22
+Uganda,2016,Total,22
+United Republic of Tanzania,2016,Rural,22
+Haiti,2016,Total,23
+Nigeria,2016,Rural,23
+Rwanda,2016,Urban,23
+Eswatini,2016,Total,24
+Madagascar,2016,Total,24
+Togo,2016,Urban,24
+Papua New Guinea,2016,Rural,25
+Somalia,2016,Total,25
+Angola,2016,Total,27
+Bolivia (Plurinational State of),2016,Total,27
+Democratic Republic of the Congo,2016,Urban,27
+Mali,2016,Urban,27
+Namibia,2016,Rural,27
+South Africa,2016,Rural,27
+Cote d'Ivoire,2016,Urban,28
+Solomon Islands,2016,Rural,28
+Timor-Leste,2016,Total,28
+United Republic of Tanzania,2016,Total,28
+Bolivia (Plurinational State of),2016,Urban,29
+Central African Republic,2016,Urban,29
+Haiti,2016,Urban,29
+Malawi,2016,Urban,29
+Zambia,2016,Urban,29
+Liberia,2016,Urban,3
+Nigeria,2016,Total,30
+Papua New Guinea,2016,Total,30
+Congo,2016,Rural,32
+Somalia,2016,Urban,32
+Colombia,2016,Rural,33
+Guinea,2016,Urban,33
+Angola,2016,Urban,34
+Mauritania,2016,Rural,34
+Ghana,2016,Rural,35
+Kenya,2016,Rural,35
+Senegal,2016,Urban,35
+Afghanistan,2016,Rural,36
+Cameroon,2016,Total,36
+Chad,2016,Urban,36
+Niger,2016,Urban,36
+Uganda,2016,Urban,36
+Yemen,2016,Rural,36
+Zimbabwe,2016,Rural,36
+Kenya,2016,Total,37
+Bangladesh,2016,Rural,38
+Dominican Republic,2016,Rural,38
+Madagascar,2016,Urban,38
+Nigeria,2016,Urban,38
+Solomon Islands,2016,Total,38
+Burundi,2016,Rural,4
+Lesotho,2016,Rural,4
+United Republic of Tanzania,2016,Urban,40
+Ghana,2016,Total,41
+Zimbabwe,2016,Total,42
+Afghanistan,2016,Total,43
+Timor-Leste,2016,Urban,43
+Namibia,2016,Total,44
+South Africa,2016,Total,44
+Vanuatu,2016,Rural,44
+Bangladesh,2016,Total,45
+Kenya,2016,Urban,45
+Lao People's Democratic Republic,2016,Rural,46
+Sao Tome and Principe,2016,Rural,46
+Sao Tome and Principe,2016,Total,46
+Sao Tome and Principe,2016,Urban,46
+Cameroon,2016,Urban,47
+Ghana,2016,Urban,47
+Congo,2016,Total,48
+Eswatini,2016,Urban,48
+Yemen,2016,Total,48
+Vanuatu,2016,Total,49
+Burkina Faso,2016,Rural,5
+Ethiopia,2016,Rural,5
+Lesotho,2016,Total,5
+Mauritania,2016,Total,50
+Dominican Republic,2016,Total,51
+Kiribati,2016,Rural,51
+Nepal,2016,Rural,52
+South Africa,2016,Urban,53
+Peru,2016,Rural,54
+Dominican Republic,2016,Urban,55
+Kiribati,2016,Total,55
+Lao People's Democratic Republic,2016,Total,55
+Congo,2016,Urban,56
+India,2016,Rural,56
+Pakistan,2016,Rural,56
+Zimbabwe,2016,Urban,56
+Nepal,2016,Total,57
+Bangladesh,2016,Urban,58
+Kiribati,2016,Urban,59
+Benin,2016,Rural,6
+Burundi,2016,Total,6
+South Sudan,2016,Total,6
+Namibia,2016,Urban,62
+Papua New Guinea,2016,Urban,62
+Afghanistan,2016,Urban,63
+India,2016,Total,64
+Cambodia,2016,Rural,65
+Mauritania,2016,Urban,65
+Mongolia,2016,Rural,65
+Tonga,2016,Rural,66
+Pakistan,2016,Total,67
+Suriname,2016,Rural,67
+Tajikistan,2016,Rural,67
+Tunisia,2016,Rural,67
+Vanuatu,2016,Urban,67
+Colombia,2016,Total,69
+Samoa,2016,Rural,69
+Cambodia,2016,Total,70
+Guatemala,2016,Rural,70
+Tonga,2016,Total,70
+Yemen,2016,Urban,70
+Indonesia,2016,Rural,71
+Myanmar,2016,Rural,71
+Solomon Islands,2016,Urban,71
+Paraguay,2016,Rural,72
+Samoa,2016,Total,72
+Suriname,2016,Total,72
+Lao People's Democratic Republic,2016,Urban,73
+Tajikistan,2016,Total,73
+Algeria,2016,Rural,74
+Myanmar,2016,Total,74
+Nepal,2016,Urban,75
+Suriname,2016,Urban,75
+Guyana,2016,Urban,76
+Guatemala,2016,Total,77
+Colombia,2016,Urban,78
+Indonesia,2016,Total,78
+Mongolia,2016,Total,78
+Ecuador,2016,Rural,79
+Guyana,2016,Total,79
+Philippines,2016,Rural,79
+Ethiopia,2016,Total,8
+Togo,2016,Rural,8
+Cuba,2016,Rural,80
+Guyana,2016,Rural,80
+Marshall Islands,2016,Rural,80
+Paraguay,2016,Total,80
+Tonga,2016,Urban,80
+India,2016,Urban,81
+Syrian Arab Republic,2016,Rural,81
+Honduras,2016,Rural,82
+Philippines,2016,Total,82
+Republic of Moldova,2016,Rural,82
+Costa Rica,2016,Rural,83
+Guatemala,2016,Urban,83
+Myanmar,2016,Urban,83
+Thailand,2016,Rural,83
+Viet Nam,2016,Rural,83
+Algeria,2016,Total,84
+Indonesia,2016,Urban,84
+Samoa,2016,Urban,84
+Syrian Arab Republic,2016,Total,84
+Costa Rica,2016,Total,85
+Costa Rica,2016,Urban,85
+Honduras,2016,Total,85
+Marshall Islands,2016,Total,85
+Mongolia,2016,Urban,85
+Paraguay,2016,Urban,85
+Philippines,2016,Urban,85
+Thailand,2016,Total,85
+Tunisia,2016,Total,85
+El Salvador,2016,Rural,86
+Honduras,2016,Urban,86
+Marshall Islands,2016,Urban,86
+Pakistan,2016,Urban,86
+Azerbaijan,2016,Rural,87
+Bhutan,2016,Rural,87
+Bhutan,2016,Total,87
+Ecuador,2016,Total,87
+Georgia,2016,Rural,87
+Republic of Moldova,2016,Total,87
+Saint Lucia,2016,Rural,87
+Saint Lucia,2016,Total,87
+Syrian Arab Republic,2016,Urban,87
+Tajikistan,2016,Urban,87
+Thailand,2016,Urban,87
+Viet Nam,2016,Total,87
+Algeria,2016,Urban,88
+Armenia,2016,Rural,88
+Barbados,2016,Total,88
+Belize,2016,Rural,88
+Bhutan,2016,Urban,88
+Cambodia,2016,Urban,88
+Cuba,2016,Total,88
+Egypt,2016,Rural,88
+Saint Lucia,2016,Urban,88
+Azerbaijan,2016,Total,89
+Belize,2016,Total,89
+Belize,2016,Urban,89
+Burkina Faso,2016,Total,9
+Cote d'Ivoire,2016,Rural,9
+Guinea-Bissau,2016,Rural,9
+Mali,2016,Rural,9
+Zambia,2016,Rural,9
+Cuba,2016,Urban,90
+Egypt,2016,Total,90
+Iraq,2016,Rural,90
+Azerbaijan,2016,Urban,91
+El Salvador,2016,Total,91
+Ecuador,2016,Urban,92
+El Salvador,2016,Urban,92
+Georgia,2016,Total,92
+Kyrgyzstan,2016,Rural,92
+Mexico,2016,Rural,92
+Mexico,2016,Total,92
+Mexico,2016,Urban,92
+Armenia,2016,Total,93
+Egypt,2016,Urban,93
+Kyrgyzstan,2016,Total,93
+Republic of Moldova,2016,Urban,93
+Tuvalu,2016,Urban,93
+Tunisia,2016,Urban,94
+Tuvalu,2016,Total,94
+Viet Nam,2016,Urban,94
+Georgia,2016,Urban,95
+Iraq,2016,Total,95
+Maldives,2016,Rural,95
+"occupied Palestinian territory, including east Jerusalem",2016,Total,95
+"occupied Palestinian territory, including east Jerusalem",2016,Urban,95
+Armenia,2016,Urban,96
+Bosnia and Herzegovina,2016,Rural,96
+Kyrgyzstan,2016,Urban,96
+Maldives,2016,Total,96
+"occupied Palestinian territory, including east Jerusalem",2016,Rural,96
+Tuvalu,2016,Rural,96
+Bosnia and Herzegovina,2016,Total,97
+Iraq,2016,Urban,97
+Maldives,2016,Urban,97
+Oman,2016,Total,97
+Bosnia and Herzegovina,2016,Urban,99
+Kazakhstan,2016,Rural,99
+Kazakhstan,2016,Total,99
+Kazakhstan,2016,Urban,99
+Montenegro,2016,Rural,99
+Montenegro,2016,Total,99
+Montenegro,2016,Urban,99
+Turkmenistan,2016,Rural,99
+Turkmenistan,2016,Total,99
+Liberia,2015,Rural,1
+Guinea-Bissau,2015,Total,10
+Lesotho,2015,Urban,10
+Rwanda,2015,Rural,10
+Senegal,2015,Rural,10
+Sierra Leone,2015,Rural,10
+Bahrain,2015,Total,100
+North Macedonia,2015,Rural,100
+North Macedonia,2015,Total,100
+North Macedonia,2015,Urban,100
+Democratic Republic of the Congo,2015,Rural,12
+Gambia,2015,Rural,12
+Mozambique,2015,Total,12
+Rwanda,2015,Total,12
+Angola,2015,Rural,13
+Benin,2015,Urban,13
+Central African Republic,2015,Rural,13
+Gambia,2015,Total,13
+Guinea,2015,Rural,13
+Malawi,2015,Rural,13
+Gambia,2015,Urban,14
+Guinea-Bissau,2015,Urban,14
+Togo,2015,Total,14
+Comoros,2015,Rural,15
+Malawi,2015,Total,15
+Niger,2015,Rural,15
+Sierra Leone,2015,Total,15
+Chad,2015,Rural,16
+Comoros,2015,Total,16
+Madagascar,2015,Rural,16
+Mali,2015,Total,16
+Eswatini,2015,Rural,17
+Haiti,2015,Rural,17
+Uganda,2015,Rural,17
+Zambia,2015,Total,17
+Cote d'Ivoire,2015,Total,18
+Comoros,2015,Urban,18
+Niger,2015,Total,18
+Burkina Faso,2015,Urban,19
+Central African Republic,2015,Total,19
+Democratic Republic of the Congo,2015,Total,19
+Somalia,2015,Rural,19
+Liberia,2015,Total,2
+Equatorial Guinea,2015,Rural,20
+Ethiopia,2015,Urban,20
+Guinea,2015,Total,20
+Burundi,2015,Urban,21
+Chad,2015,Total,21
+Mozambique,2015,Urban,21
+Senegal,2015,Total,21
+Sierra Leone,2015,Urban,21
+Sudan,2015,Total,21
+Uganda,2015,Total,21
+Bolivia (Plurinational State of),2015,Rural,22
+Cameroon,2015,Rural,22
+Rwanda,2015,Urban,22
+Timor-Leste,2015,Rural,22
+United Republic of Tanzania,2015,Rural,22
+Haiti,2015,Total,23
+Nigeria,2015,Rural,23
+Equatorial Guinea,2015,Total,24
+Eswatini,2015,Total,24
+Madagascar,2015,Total,24
+Togo,2015,Urban,24
+Papua New Guinea,2015,Rural,25
+Somalia,2015,Total,25
+Angola,2015,Total,26
+Equatorial Guinea,2015,Urban,26
+Bolivia (Plurinational State of),2015,Total,27
+Democratic Republic of the Congo,2015,Urban,27
+Mali,2015,Urban,27
+Namibia,2015,Rural,27
+South Africa,2015,Rural,27
+Cote d'Ivoire,2015,Urban,28
+Central African Republic,2015,Urban,28
+Solomon Islands,2015,Rural,28
+Timor-Leste,2015,Total,28
+United Republic of Tanzania,2015,Total,28
+Bolivia (Plurinational State of),2015,Urban,29
+Malawi,2015,Urban,29
+Zambia,2015,Urban,29
+Liberia,2015,Urban,3
+Haiti,2015,Urban,30
+Nigeria,2015,Total,30
+Papua New Guinea,2015,Total,30
+Congo,2015,Rural,32
+Somalia,2015,Urban,32
+Colombia,2015,Rural,33
+Guinea,2015,Urban,33
+Angola,2015,Urban,34
+Uganda,2015,Urban,34
+Afghanistan,2015,Rural,35
+Bangladesh,2015,Rural,35
+Ghana,2015,Rural,35
+Kenya,2015,Rural,35
+Niger,2015,Urban,35
+Senegal,2015,Urban,35
+Cameroon,2015,Total,36
+Mauritania,2015,Rural,36
+Yemen,2015,Rural,36
+Zimbabwe,2015,Rural,36
+Chad,2015,Urban,37
+Kenya,2015,Total,37
+Madagascar,2015,Urban,38
+Nigeria,2015,Urban,38
+Solomon Islands,2015,Total,38
+Dominican Republic,2015,Rural,39
+Vanuatu,2015,Rural,39
+Burundi,2015,Rural,4
+Lesotho,2015,Rural,4
+United Republic of Tanzania,2015,Urban,40
+Ghana,2015,Total,41
+Afghanistan,2015,Total,42
+Bangladesh,2015,Total,42
+Zimbabwe,2015,Total,42
+Sao Tome and Principe,2015,Urban,43
+Timor-Leste,2015,Urban,43
+Namibia,2015,Total,44
+Sao Tome and Principe,2015,Total,44
+South Africa,2015,Total,44
+Kenya,2015,Urban,45
+Vanuatu,2015,Total,45
+Lao People's Democratic Republic,2015,Rural,46
+Cameroon,2015,Urban,47
+Ghana,2015,Urban,47
+Sao Tome and Principe,2015,Rural,47
+Congo,2015,Total,48
+Eswatini,2015,Urban,48
+Yemen,2015,Total,48
+Burkina Faso,2015,Rural,5
+Ethiopia,2015,Rural,5
+Lesotho,2015,Total,5
+Kiribati,2015,Rural,51
+Nepal,2015,Rural,51
+Peru,2015,Rural,51
+Dominican Republic,2015,Total,52
+Mauritania,2015,Total,52
+India,2015,Rural,53
+Pakistan,2015,Rural,53
+South Africa,2015,Urban,53
+Bangladesh,2015,Urban,55
+Dominican Republic,2015,Urban,55
+Kiribati,2015,Total,55
+Lao People's Democratic Republic,2015,Total,55
+Nepal,2015,Total,55
+Congo,2015,Urban,56
+Zimbabwe,2015,Urban,56
+Kiribati,2015,Urban,59
+Benin,2015,Rural,6
+Burundi,2015,Total,6
+South Sudan,2015,Total,6
+Mongolia,2015,Rural,60
+Cambodia,2015,Rural,62
+India,2015,Total,62
+Namibia,2015,Urban,62
+Papua New Guinea,2015,Urban,62
+Afghanistan,2015,Urban,63
+Jamaica,2015,Rural,63
+Pakistan,2015,Total,64
+Vanuatu,2015,Urban,65
+Mauritania,2015,Urban,66
+Tonga,2015,Rural,66
+Jamaica,2015,Total,67
+Suriname,2015,Rural,67
+Tajikistan,2015,Rural,67
+Tunisia,2015,Rural,67
+Cambodia,2015,Total,68
+Colombia,2015,Total,69
+Jamaica,2015,Urban,69
+Togo,2015,Rural,7
+Guatemala,2015,Rural,70
+Indonesia,2015,Rural,70
+Tonga,2015,Total,70
+Yemen,2015,Urban,70
+Myanmar,2015,Rural,71
+Solomon Islands,2015,Urban,71
+Paraguay,2015,Rural,72
+Suriname,2015,Total,72
+Lao People's Democratic Republic,2015,Urban,73
+Tajikistan,2015,Total,73
+Algeria,2015,Rural,74
+Myanmar,2015,Total,74
+Nepal,2015,Urban,75
+Suriname,2015,Urban,75
+Guyana,2015,Urban,76
+Mongolia,2015,Total,76
+Guatemala,2015,Total,77
+Indonesia,2015,Total,77
+Colombia,2015,Urban,78
+Cuba,2015,Rural,78
+Guyana,2015,Total,78
+Ecuador,2015,Rural,79
+Guyana,2015,Rural,79
+Philippines,2015,Rural,79
+Ethiopia,2015,Total,8
+Guinea-Bissau,2015,Rural,8
+Mozambique,2015,Rural,8
+India,2015,Urban,80
+Marshall Islands,2015,Rural,80
+Paraguay,2015,Total,80
+Tonga,2015,Urban,80
+Syrian Arab Republic,2015,Rural,81
+Honduras,2015,Rural,82
+Philippines,2015,Total,82
+Republic of Moldova,2015,Rural,82
+Costa Rica,2015,Rural,83
+Guatemala,2015,Urban,83
+Myanmar,2015,Urban,83
+Thailand,2015,Rural,83
+Viet Nam,2015,Rural,83
+Algeria,2015,Total,84
+Honduras,2015,Total,84
+Indonesia,2015,Urban,84
+Mongolia,2015,Urban,84
+Syrian Arab Republic,2015,Total,84
+Bhutan,2015,Rural,85
+Costa Rica,2015,Total,85
+Costa Rica,2015,Urban,85
+Egypt,2015,Rural,85
+Marshall Islands,2015,Total,85
+Pakistan,2015,Urban,85
+Paraguay,2015,Urban,85
+Philippines,2015,Urban,85
+Thailand,2015,Total,85
+Bhutan,2015,Total,86
+Cuba,2015,Total,86
+El Salvador,2015,Rural,86
+Marshall Islands,2015,Urban,86
+Tunisia,2015,Total,86
+Viet Nam,2015,Total,86
+Armenia,2015,Rural,87
+Azerbaijan,2015,Rural,87
+Ecuador,2015,Total,87
+Georgia,2015,Rural,87
+Honduras,2015,Urban,87
+Republic of Moldova,2015,Total,87
+Saint Lucia,2015,Rural,87
+Saint Lucia,2015,Total,87
+Syrian Arab Republic,2015,Urban,87
+Thailand,2015,Urban,87
+Algeria,2015,Urban,88
+Barbados,2015,Total,88
+Belize,2015,Rural,88
+Belize,2015,Total,88
+Belize,2015,Urban,88
+Bhutan,2015,Urban,88
+Cambodia,2015,Urban,88
+Egypt,2015,Total,88
+Iraq,2015,Rural,88
+Saint Lucia,2015,Urban,88
+Tajikistan,2015,Urban,88
+Azerbaijan,2015,Total,89
+Cuba,2015,Urban,89
+Benin,2015,Total,9
+Burkina Faso,2015,Total,9
+Cote d'Ivoire,2015,Rural,9
+Mali,2015,Rural,9
+Zambia,2015,Rural,9
+Kyrgyzstan,2015,Rural,90
+Trinidad and Tobago,2015,Total,90
+Azerbaijan,2015,Urban,91
+El Salvador,2015,Total,91
+Mexico,2015,Rural,91
+Mexico,2015,Total,91
+Mexico,2015,Urban,91
+Ecuador,2015,Urban,92
+Egypt,2015,Urban,92
+El Salvador,2015,Urban,92
+Georgia,2015,Total,92
+Kyrgyzstan,2015,Total,92
+Armenia,2015,Total,93
+Republic of Moldova,2015,Urban,93
+Viet Nam,2015,Urban,93
+Iraq,2015,Total,94
+Tunisia,2015,Urban,94
+Georgia,2015,Urban,95
+Kyrgyzstan,2015,Urban,95
+Maldives,2015,Rural,95
+"occupied Palestinian territory, including east Jerusalem",2015,Total,95
+"occupied Palestinian territory, including east Jerusalem",2015,Urban,95
+Armenia,2015,Urban,96
+Bosnia and Herzegovina,2015,Rural,96
+Iraq,2015,Urban,96
+Maldives,2015,Total,96
+"occupied Palestinian territory, including east Jerusalem",2015,Rural,96
+Bosnia and Herzegovina,2015,Total,97
+Maldives,2015,Urban,97
+Oman,2015,Total,97
+Turkmenistan,2015,Rural,97
+Turkmenistan,2015,Total,98
+Bosnia and Herzegovina,2015,Urban,99
+Kazakhstan,2015,Rural,99
+Kazakhstan,2015,Total,99
+Kazakhstan,2015,Urban,99
+Montenegro,2015,Rural,99
+Montenegro,2015,Total,99
+Montenegro,2015,Urban,99
+Turkmenistan,2015,Urban,99
+Liberia,2014,Rural,1
+Liberia,2014,Total,1
+Lesotho,2014,Urban,10
+Rwanda,2014,Rural,10
+Senegal,2014,Rural,10
+Sierra Leone,2014,Rural,10
+Bahrain,2014,Total,100
+North Macedonia,2014,Rural,100
+North Macedonia,2014,Total,100
+North Macedonia,2014,Urban,100
+Rwanda,2014,Total,11
+Democratic Republic of the Congo,2014,Rural,12
+Gambia,2014,Rural,12
+Guinea-Bissau,2014,Urban,12
+Mozambique,2014,Total,12
+Angola,2014,Rural,13
+Benin,2014,Urban,13
+Central African Republic,2014,Rural,13
+Gambia,2014,Total,13
+Guinea,2014,Rural,13
+Malawi,2014,Rural,13
+Niger,2014,Rural,13
+Togo,2014,Total,13
+Gambia,2014,Urban,14
+Sierra Leone,2014,Total,14
+Chad,2014,Rural,15
+Comoros,2014,Rural,15
+Malawi,2014,Total,15
+Comoros,2014,Total,16
+Madagascar,2014,Rural,16
+Mali,2014,Total,16
+Uganda,2014,Rural,16
+Eswatini,2014,Rural,17
+Haiti,2014,Rural,17
+Niger,2014,Total,17
+Zambia,2014,Total,17
+Cote d'Ivoire,2014,Total,18
+Central African Republic,2014,Total,18
+Comoros,2014,Urban,18
+Democratic Republic of the Congo,2014,Total,19
+Somalia,2014,Rural,19
+Liberia,2014,Urban,2
+Burkina Faso,2014,Urban,20
+Chad,2014,Total,20
+Equatorial Guinea,2014,Rural,20
+Ethiopia,2014,Urban,20
+Guinea,2014,Total,20
+Uganda,2014,Total,20
+Mozambique,2014,Urban,21
+Rwanda,2014,Urban,21
+Senegal,2014,Total,21
+Sierra Leone,2014,Urban,21
+Bolivia (Plurinational State of),2014,Rural,22
+Burundi,2014,Urban,22
+Timor-Leste,2014,Rural,22
+United Republic of Tanzania,2014,Rural,22
+Nigeria,2014,Rural,23
+Sudan,2014,Total,23
+Togo,2014,Urban,23
+Equatorial Guinea,2014,Total,24
+Eswatini,2014,Total,24
+Haiti,2014,Total,24
+Madagascar,2014,Total,24
+Papua New Guinea,2014,Rural,25
+Somalia,2014,Total,25
+Angola,2014,Total,26
+Equatorial Guinea,2014,Urban,26
+Bolivia (Plurinational State of),2014,Total,27
+Cote d'Ivoire,2014,Urban,27
+Central African Republic,2014,Urban,27
+Democratic Republic of the Congo,2014,Urban,27
+Mali,2014,Urban,27
+Namibia,2014,Rural,27
+South Africa,2014,Rural,27
+Solomon Islands,2014,Rural,28
+Timor-Leste,2014,Total,28
+United Republic of Tanzania,2014,Total,28
+Bolivia (Plurinational State of),2014,Urban,29
+Zambia,2014,Urban,29
+Haiti,2014,Urban,30
+Malawi,2014,Urban,30
+Nigeria,2014,Total,30
+Papua New Guinea,2014,Total,30
+Bangladesh,2014,Rural,31
+Congo,2014,Rural,32
+Somalia,2014,Urban,32
+Uganda,2014,Urban,32
+Colombia,2014,Rural,33
+Guinea,2014,Urban,33
+Vanuatu,2014,Rural,33
+Afghanistan,2014,Rural,34
+Angola,2014,Urban,34
+Ghana,2014,Rural,35
+Kenya,2014,Rural,35
+Niger,2014,Urban,35
+Senegal,2014,Urban,35
+Yemen,2014,Rural,36
+Zimbabwe,2014,Rural,36
+Chad,2014,Urban,37
+Kenya,2014,Total,37
+Bangladesh,2014,Total,38
+Nigeria,2014,Urban,38
+Solomon Islands,2014,Total,38
+Madagascar,2014,Urban,39
+Mauritania,2014,Rural,39
+Sao Tome and Principe,2014,Urban,39
+Burundi,2014,Rural,4
+Lesotho,2014,Rural,4
+Dominican Republic,2014,Rural,40
+United Republic of Tanzania,2014,Urban,40
+Afghanistan,2014,Total,41
+Ghana,2014,Total,41
+Vanuatu,2014,Total,41
+Sao Tome and Principe,2014,Total,42
+Zimbabwe,2014,Total,42
+Namibia,2014,Total,43
+Timor-Leste,2014,Urban,43
+South Africa,2014,Total,44
+Kenya,2014,Urban,45
+Lao People's Democratic Republic,2014,Rural,46
+Ghana,2014,Urban,47
+Congo,2014,Total,48
+Eswatini,2014,Urban,48
+Peru,2014,Rural,48
+Sao Tome and Principe,2014,Rural,48
+Yemen,2014,Total,48
+Nepal,2014,Rural,49
+Pakistan,2014,Rural,49
+Benin,2014,Rural,5
+Burkina Faso,2014,Rural,5
+Ethiopia,2014,Rural,5
+Lesotho,2014,Total,5
+India,2014,Rural,51
+Dominican Republic,2014,Total,52
+Bangladesh,2014,Urban,53
+Mauritania,2014,Total,53
+South Africa,2014,Urban,53
+Nepal,2014,Total,54
+Lao People's Democratic Republic,2014,Total,55
+Congo,2014,Urban,56
+Dominican Republic,2014,Urban,56
+Mongolia,2014,Rural,56
+Zimbabwe,2014,Urban,56
+Cambodia,2014,Rural,59
+Burundi,2014,Total,6
+Togo,2014,Rural,6
+India,2014,Total,60
+Pakistan,2014,Total,61
+Namibia,2014,Urban,62
+Papua New Guinea,2014,Urban,62
+Vanuatu,2014,Urban,62
+Jamaica,2014,Rural,63
+Afghanistan,2014,Urban,64
+Cambodia,2014,Total,66
+Jamaica,2014,Total,67
+Suriname,2014,Rural,67
+Tajikistan,2014,Rural,67
+Tunisia,2014,Rural,67
+Mauritania,2014,Urban,68
+Colombia,2014,Total,69
+Indonesia,2014,Rural,69
+Jamaica,2014,Urban,69
+Guinea-Bissau,2014,Rural,7
+Guatemala,2014,Rural,70
+Yemen,2014,Urban,70
+Myanmar,2014,Rural,71
+Solomon Islands,2014,Urban,71
+Paraguay,2014,Rural,72
+Suriname,2014,Total,72
+Lao People's Democratic Republic,2014,Urban,73
+Tajikistan,2014,Total,73
+Algeria,2014,Rural,74
+Mongolia,2014,Total,74
+Myanmar,2014,Total,74
+Guyana,2014,Urban,75
+Nepal,2014,Urban,75
+Suriname,2014,Urban,75
+Cuba,2014,Rural,76
+Guatemala,2014,Total,77
+Guyana,2014,Total,77
+Indonesia,2014,Total,77
+Colombia,2014,Urban,78
+Guyana,2014,Rural,78
+Ecuador,2014,Rural,79
+India,2014,Urban,79
+Philippines,2014,Rural,79
+Ethiopia,2014,Total,8
+Mozambique,2014,Rural,8
+Marshall Islands,2014,Rural,80
+Paraguay,2014,Total,80
+Honduras,2014,Rural,81
+Syrian Arab Republic,2014,Rural,81
+Philippines,2014,Total,82
+Republic of Moldova,2014,Rural,82
+Bhutan,2014,Rural,83
+Costa Rica,2014,Rural,83
+Egypt,2014,Rural,83
+Guatemala,2014,Urban,83
+Mongolia,2014,Urban,83
+Myanmar,2014,Urban,83
+Thailand,2014,Rural,83
+Viet Nam,2014,Rural,83
+Algeria,2014,Total,84
+Honduras,2014,Total,84
+Indonesia,2014,Urban,84
+Pakistan,2014,Urban,84
+Syrian Arab Republic,2014,Total,84
+Armenia,2014,Rural,85
+Bhutan,2014,Total,85
+Costa Rica,2014,Total,85
+Costa Rica,2014,Urban,85
+Cuba,2014,Total,85
+Marshall Islands,2014,Total,85
+Paraguay,2014,Urban,85
+Philippines,2014,Urban,85
+Thailand,2014,Total,85
+Belize,2014,Urban,86
+El Salvador,2014,Rural,86
+Iraq,2014,Rural,86
+Marshall Islands,2014,Urban,86
+Tunisia,2014,Total,86
+Viet Nam,2014,Total,86
+Azerbaijan,2014,Rural,87
+Belize,2014,Rural,87
+Belize,2014,Total,87
+Ecuador,2014,Total,87
+Egypt,2014,Total,87
+Georgia,2014,Rural,87
+Honduras,2014,Urban,87
+Republic of Moldova,2014,Total,87
+Saint Lucia,2014,Rural,87
+Saint Lucia,2014,Total,87
+Syrian Arab Republic,2014,Urban,87
+Thailand,2014,Urban,87
+Algeria,2014,Urban,88
+Barbados,2014,Total,88
+Bhutan,2014,Urban,88
+Cambodia,2014,Urban,88
+Cuba,2014,Urban,88
+Kyrgyzstan,2014,Rural,88
+Saint Lucia,2014,Urban,88
+Tajikistan,2014,Urban,88
+Azerbaijan,2014,Total,89
+Benin,2014,Total,9
+Burkina Faso,2014,Total,9
+Cote d'Ivoire,2014,Rural,9
+Guinea-Bissau,2014,Total,9
+Mali,2014,Rural,9
+Zambia,2014,Rural,9
+Kyrgyzstan,2014,Total,90
+Trinidad and Tobago,2014,Total,90
+Azerbaijan,2014,Urban,91
+El Salvador,2014,Total,91
+Mexico,2014,Rural,91
+Mexico,2014,Total,91
+Mexico,2014,Urban,91
+Armenia,2014,Total,92
+Ecuador,2014,Urban,92
+Egypt,2014,Urban,92
+El Salvador,2014,Urban,92
+Georgia,2014,Total,92
+Iraq,2014,Total,93
+Republic of Moldova,2014,Urban,93
+Viet Nam,2014,Urban,93
+Kyrgyzstan,2014,Urban,94
+Turkmenistan,2014,Rural,94
+Georgia,2014,Urban,95
+Maldives,2014,Rural,95
+"occupied Palestinian territory, including east Jerusalem",2014,Total,95
+"occupied Palestinian territory, including east Jerusalem",2014,Urban,95
+Tunisia,2014,Urban,95
+Armenia,2014,Urban,96
+Bosnia and Herzegovina,2014,Rural,96
+Iraq,2014,Urban,96
+Maldives,2014,Total,96
+"occupied Palestinian territory, including east Jerusalem",2014,Rural,96
+Turkmenistan,2014,Total,96
+Bosnia and Herzegovina,2014,Total,97
+Maldives,2014,Urban,97
+Oman,2014,Total,97
+Serbia,2014,Rural,98
+Serbia,2014,Total,98
+Serbia,2014,Urban,98
+Turkmenistan,2014,Urban,98
+Bosnia and Herzegovina,2014,Urban,99
+Kazakhstan,2014,Rural,99
+Kazakhstan,2014,Total,99
+Kazakhstan,2014,Urban,99
+Montenegro,2014,Rural,99
+Montenegro,2014,Total,99
+Montenegro,2014,Urban,99
+Liberia,2013,Rural,1
+Liberia,2013,Total,1
+Lesotho,2013,Urban,10
+Rwanda,2013,Total,10
+Senegal,2013,Rural,10
+Bahrain,2013,Total,100
+North Macedonia,2013,Rural,100
+North Macedonia,2013,Total,100
+North Macedonia,2013,Urban,100
+Guinea-Bissau,2013,Urban,11
+Benin,2013,Urban,12
+Gambia,2013,Rural,12
+Mozambique,2013,Total,12
+Niger,2013,Rural,12
+Togo,2013,Total,12
+Angola,2013,Rural,13
+Central African Republic,2013,Rural,13
+Gambia,2013,Total,13
+Malawi,2013,Rural,13
+Chad,2013,Rural,14
+Gambia,2013,Urban,14
+Sierra Leone,2013,Total,14
+Comoros,2013,Rural,15
+Malawi,2013,Total,15
+Uganda,2013,Rural,15
+Comoros,2013,Total,16
+Madagascar,2013,Rural,16
+Niger,2013,Total,16
+Cote d'Ivoire,2013,Total,17
+Eswatini,2013,Rural,17
+Haiti,2013,Rural,17
+Zambia,2013,Total,17
+Central African Republic,2013,Total,18
+Comoros,2013,Urban,18
+Uganda,2013,Total,18
+Chad,2013,Total,19
+Rwanda,2013,Urban,19
+Somalia,2013,Rural,19
+Liberia,2013,Urban,2
+Burkina Faso,2013,Urban,20
+Equatorial Guinea,2013,Rural,20
+Ethiopia,2013,Urban,20
+Mozambique,2013,Urban,21
+Senegal,2013,Total,21
+Sierra Leone,2013,Urban,21
+Bolivia (Plurinational State of),2013,Rural,22
+Burundi,2013,Urban,22
+Timor-Leste,2013,Rural,22
+Togo,2013,Urban,22
+United Republic of Tanzania,2013,Rural,22
+Nigeria,2013,Rural,23
+Equatorial Guinea,2013,Total,24
+Eswatini,2013,Total,24
+Haiti,2013,Total,24
+Madagascar,2013,Total,24
+Somalia,2013,Total,24
+Sudan,2013,Total,25
+Angola,2013,Total,26
+Cote d'Ivoire,2013,Urban,26
+Central African Republic,2013,Urban,26
+Equatorial Guinea,2013,Urban,26
+Bangladesh,2013,Rural,27
+Bolivia (Plurinational State of),2013,Total,27
+Namibia,2013,Rural,27
+South Africa,2013,Rural,27
+Solomon Islands,2013,Rural,28
+Timor-Leste,2013,Total,28
+United Republic of Tanzania,2013,Total,28
+Vanuatu,2013,Rural,28
+Bolivia (Plurinational State of),2013,Urban,29
+Zambia,2013,Urban,29
+Malawi,2013,Urban,30
+Nigeria,2013,Total,30
+Haiti,2013,Urban,31
+Uganda,2013,Urban,31
+Afghanistan,2013,Rural,32
+Congo,2013,Rural,32
+Somalia,2013,Urban,32
+Colombia,2013,Rural,33
+Angola,2013,Urban,34
+Niger,2013,Urban,34
+Bangladesh,2013,Total,35
+Ghana,2013,Rural,35
+Kenya,2013,Rural,35
+Senegal,2013,Urban,35
+Sao Tome and Principe,2013,Urban,36
+Vanuatu,2013,Total,36
+Yemen,2013,Rural,36
+Zimbabwe,2013,Rural,36
+Kenya,2013,Total,37
+Solomon Islands,2013,Total,37
+Chad,2013,Urban,38
+Nigeria,2013,Urban,38
+Madagascar,2013,Urban,39
+Burundi,2013,Rural,4
+Lesotho,2013,Rural,4
+Afghanistan,2013,Total,40
+Dominican Republic,2013,Rural,40
+Sao Tome and Principe,2013,Total,40
+United Republic of Tanzania,2013,Urban,40
+Ghana,2013,Total,41
+Mauritania,2013,Rural,41
+Namibia,2013,Total,43
+South Africa,2013,Total,43
+Timor-Leste,2013,Urban,43
+Zimbabwe,2013,Total,43
+Kenya,2013,Urban,45
+Pakistan,2013,Rural,45
+Peru,2013,Rural,45
+Lao People's Democratic Republic,2013,Rural,46
+Ghana,2013,Urban,47
+Congo,2013,Total,48
+Eswatini,2013,Urban,48
+Nepal,2013,Rural,48
+Sao Tome and Principe,2013,Rural,48
+Yemen,2013,Total,48
+Benin,2013,Rural,5
+Burkina Faso,2013,Rural,5
+Ethiopia,2013,Rural,5
+Guinea-Bissau,2013,Rural,5
+Lesotho,2013,Total,5
+Bangladesh,2013,Urban,51
+India,2013,Rural,51
+Mongolia,2013,Rural,52
+Dominican Republic,2013,Total,53
+Nepal,2013,Total,53
+South Africa,2013,Urban,53
+Lao People's Democratic Republic,2013,Total,54
+Mauritania,2013,Total,55
+Congo,2013,Urban,56
+Zimbabwe,2013,Urban,56
+Cambodia,2013,Rural,57
+Dominican Republic,2013,Urban,57
+Pakistan,2013,Total,58
+Burundi,2013,Total,6
+Togo,2013,Rural,6
+India,2013,Total,60
+Vanuatu,2013,Urban,60
+Namibia,2013,Urban,62
+Cambodia,2013,Total,63
+Jamaica,2013,Rural,63
+Afghanistan,2013,Urban,65
+Jamaica,2013,Total,67
+Tajikistan,2013,Rural,67
+Tunisia,2013,Rural,67
+Indonesia,2013,Rural,68
+Colombia,2013,Total,69
+Jamaica,2013,Urban,69
+Mauritania,2013,Urban,69
+Guinea-Bissau,2013,Total,7
+Guatemala,2013,Rural,70
+Yemen,2013,Urban,70
+Myanmar,2013,Rural,71
+Solomon Islands,2013,Urban,71
+Mongolia,2013,Total,72
+Paraguay,2013,Rural,72
+Tajikistan,2013,Total,72
+Algeria,2013,Rural,73
+Lao People's Democratic Republic,2013,Urban,73
+Cuba,2013,Rural,74
+Myanmar,2013,Total,74
+Guyana,2013,Urban,75
+Nepal,2013,Urban,75
+Guatemala,2013,Total,76
+Guyana,2013,Rural,77
+Guyana,2013,Total,77
+Indonesia,2013,Total,77
+Colombia,2013,Urban,78
+Ecuador,2013,Rural,79
+India,2013,Urban,79
+Philippines,2013,Rural,79
+Benin,2013,Total,8
+Cote d'Ivoire,2013,Rural,8
+Ethiopia,2013,Total,8
+Mozambique,2013,Rural,8
+Marshall Islands,2013,Rural,80
+Paraguay,2013,Total,80
+Bhutan,2013,Rural,81
+Egypt,2013,Rural,81
+Honduras,2013,Rural,81
+Syrian Arab Republic,2013,Rural,81
+Mongolia,2013,Urban,82
+Philippines,2013,Total,82
+Republic of Moldova,2013,Rural,82
+Viet Nam,2013,Rural,82
+Bhutan,2013,Total,83
+Costa Rica,2013,Rural,83
+Guatemala,2013,Urban,83
+Myanmar,2013,Urban,83
+Pakistan,2013,Urban,83
+Thailand,2013,Rural,83
+Algeria,2013,Total,84
+Armenia,2013,Rural,84
+Costa Rica,2013,Total,84
+Cuba,2013,Total,84
+Honduras,2013,Total,84
+Syrian Arab Republic,2013,Total,84
+Belize,2013,Urban,85
+Costa Rica,2013,Urban,85
+Egypt,2013,Total,85
+Indonesia,2013,Urban,85
+Iraq,2013,Rural,85
+Marshall Islands,2013,Total,85
+Paraguay,2013,Urban,85
+Philippines,2013,Urban,85
+Thailand,2013,Total,85
+Belize,2013,Total,86
+El Salvador,2013,Rural,86
+Kyrgyzstan,2013,Rural,86
+Marshall Islands,2013,Urban,86
+Tunisia,2013,Total,86
+Viet Nam,2013,Total,86
+Azerbaijan,2013,Rural,87
+Belize,2013,Rural,87
+Cuba,2013,Urban,87
+Ecuador,2013,Total,87
+Honduras,2013,Urban,87
+Republic of Moldova,2013,Total,87
+Saint Lucia,2013,Rural,87
+Saint Lucia,2013,Total,87
+Syrian Arab Republic,2013,Urban,87
+Thailand,2013,Urban,87
+Algeria,2013,Urban,88
+Barbados,2013,Total,88
+Bhutan,2013,Urban,88
+Cambodia,2013,Urban,88
+Saint Lucia,2013,Urban,88
+Tajikistan,2013,Urban,88
+Azerbaijan,2013,Total,89
+Kyrgyzstan,2013,Total,89
+Burkina Faso,2013,Total,9
+Rwanda,2013,Rural,9
+Sierra Leone,2013,Rural,9
+Zambia,2013,Rural,9
+El Salvador,2013,Total,90
+Trinidad and Tobago,2013,Total,90
+Armenia,2013,Total,91
+Azerbaijan,2013,Urban,91
+Mexico,2013,Rural,91
+Mexico,2013,Total,91
+Mexico,2013,Urban,91
+Ecuador,2013,Urban,92
+Egypt,2013,Urban,92
+El Salvador,2013,Urban,92
+Iraq,2013,Total,92
+Turkmenistan,2013,Rural,92
+Kyrgyzstan,2013,Urban,93
+Republic of Moldova,2013,Urban,93
+Viet Nam,2013,Urban,93
+Turkmenistan,2013,Total,94
+Maldives,2013,Rural,95
+Tunisia,2013,Urban,95
+Armenia,2013,Urban,96
+Bosnia and Herzegovina,2013,Rural,96
+Iraq,2013,Urban,96
+Maldives,2013,Total,96
+Turkmenistan,2013,Urban,96
+Bosnia and Herzegovina,2013,Total,97
+Maldives,2013,Urban,97
+Oman,2013,Total,97
+Serbia,2013,Rural,98
+Serbia,2013,Total,98
+Serbia,2013,Urban,98
+Bosnia and Herzegovina,2013,Urban,99
+Kazakhstan,2013,Rural,99
+Kazakhstan,2013,Total,99
+Kazakhstan,2013,Urban,99
+Liberia,2012,Rural,0
+Liberia,2012,Total,0
+Liberia,2012,Urban,0
+Lesotho,2012,Urban,10
+Senegal,2012,Rural,10
+Bahrain,2012,Total,100
+North Macedonia,2012,Rural,100
+North Macedonia,2012,Total,100
+North Macedonia,2012,Urban,100
+Niger,2012,Rural,11
+Togo,2012,Total,11
+Benin,2012,Urban,12
+Gambia,2012,Rural,12
+Mozambique,2012,Total,12
+Angola,2012,Rural,13
+Central African Republic,2012,Rural,13
+Chad,2012,Rural,13
+Gambia,2012,Total,13
+Malawi,2012,Rural,13
+Sierra Leone,2012,Total,13
+Gambia,2012,Urban,14
+Uganda,2012,Rural,14
+Comoros,2012,Rural,15
+Malawi,2012,Total,15
+Niger,2012,Total,15
+Cote d'Ivoire,2012,Total,16
+Comoros,2012,Total,16
+Madagascar,2012,Rural,16
+Eswatini,2012,Rural,17
+Haiti,2012,Rural,17
+Uganda,2012,Total,17
+Zambia,2012,Total,17
+Central African Republic,2012,Total,18
+Chad,2012,Total,18
+Comoros,2012,Urban,18
+Rwanda,2012,Urban,18
+Equatorial Guinea,2012,Rural,20
+Ethiopia,2012,Urban,20
+Sierra Leone,2012,Urban,20
+Burkina Faso,2012,Urban,21
+Mozambique,2012,Urban,21
+Senegal,2012,Total,21
+Togo,2012,Urban,21
+Bolivia (Plurinational State of),2012,Rural,22
+Timor-Leste,2012,Rural,22
+United Republic of Tanzania,2012,Rural,22
+Bangladesh,2012,Rural,23
+Burundi,2012,Urban,23
+Nigeria,2012,Rural,23
+Vanuatu,2012,Rural,23
+Equatorial Guinea,2012,Total,24
+Eswatini,2012,Total,24
+Haiti,2012,Total,24
+Madagascar,2012,Total,24
+Central African Republic,2012,Urban,25
+Angola,2012,Total,26
+Cote d'Ivoire,2012,Urban,26
+Equatorial Guinea,2012,Urban,26
+Bolivia (Plurinational State of),2012,Total,27
+Namibia,2012,Rural,27
+South Africa,2012,Rural,27
+Sudan,2012,Total,27
+Solomon Islands,2012,Rural,28
+Timor-Leste,2012,Total,28
+United Republic of Tanzania,2012,Total,28
+Bolivia (Plurinational State of),2012,Urban,29
+Uganda,2012,Urban,29
+Zambia,2012,Urban,29
+Malawi,2012,Urban,30
+Nigeria,2012,Total,30
+Afghanistan,2012,Rural,31
+Bangladesh,2012,Total,31
+Haiti,2012,Urban,31
+Congo,2012,Rural,32
+Sao Tome and Principe,2012,Urban,32
+Vanuatu,2012,Total,32
+Colombia,2012,Rural,33
+Angola,2012,Urban,34
+Niger,2012,Urban,34
+Ghana,2012,Rural,35
+Kenya,2012,Rural,35
+Senegal,2012,Urban,35
+Yemen,2012,Rural,36
+Zimbabwe,2012,Rural,36
+Kenya,2012,Total,37
+Solomon Islands,2012,Total,37
+Chad,2012,Urban,38
+Nigeria,2012,Urban,38
+Sao Tome and Principe,2012,Total,38
+Afghanistan,2012,Total,39
+Madagascar,2012,Urban,39
+Benin,2012,Rural,4
+Burkina Faso,2012,Rural,4
+Burundi,2012,Rural,4
+Guinea-Bissau,2012,Rural,4
+Lesotho,2012,Rural,4
+United Republic of Tanzania,2012,Urban,40
+Dominican Republic,2012,Rural,41
+Ghana,2012,Total,41
+Mauritania,2012,Rural,41
+Pakistan,2012,Rural,41
+Namibia,2012,Total,43
+South Africa,2012,Total,43
+Timor-Leste,2012,Urban,43
+Zimbabwe,2012,Total,43
+Kenya,2012,Urban,45
+Peru,2012,Rural,45
+Nepal,2012,Rural,46
+Congo,2012,Total,47
+Ghana,2012,Urban,47
+Eswatini,2012,Urban,48
+Mongolia,2012,Rural,48
+Yemen,2012,Total,48
+Bangladesh,2012,Urban,49
+Sao Tome and Principe,2012,Rural,49
+Ethiopia,2012,Rural,5
+Lesotho,2012,Total,5
+Togo,2012,Rural,5
+India,2012,Rural,51
+Nepal,2012,Total,51
+South Africa,2012,Urban,53
+Cambodia,2012,Rural,54
+Dominican Republic,2012,Total,54
+Mauritania,2012,Total,54
+Pakistan,2012,Total,55
+Congo,2012,Urban,56
+Zimbabwe,2012,Urban,56
+Dominican Republic,2012,Urban,57
+Vanuatu,2012,Urban,58
+Burundi,2012,Total,6
+Guinea-Bissau,2012,Total,6
+India,2012,Total,60
+Cambodia,2012,Total,61
+Namibia,2012,Urban,62
+Jamaica,2012,Rural,63
+Afghanistan,2012,Urban,65
+Indonesia,2012,Rural,67
+Jamaica,2012,Total,67
+Tajikistan,2012,Rural,67
+Tunisia,2012,Rural,67
+Colombia,2012,Total,69
+Jamaica,2012,Urban,69
+Mauritania,2012,Urban,69
+Guatemala,2012,Rural,70
+Mongolia,2012,Total,70
+Yemen,2012,Urban,70
+Myanmar,2012,Rural,71
+Solomon Islands,2012,Urban,71
+Paraguay,2012,Rural,72
+Tajikistan,2012,Total,72
+Algeria,2012,Rural,73
+Cuba,2012,Rural,73
+Myanmar,2012,Total,74
+Guyana,2012,Urban,75
+Nepal,2012,Urban,75
+Guatemala,2012,Total,76
+Guyana,2012,Rural,76
+Guyana,2012,Total,76
+Indonesia,2012,Total,76
+Colombia,2012,Urban,78
+Egypt,2012,Rural,78
+Bhutan,2012,Rural,79
+Ecuador,2012,Rural,79
+India,2012,Urban,79
+Philippines,2012,Rural,79
+Benin,2012,Total,8
+Cote d'Ivoire,2012,Rural,8
+Ethiopia,2012,Total,8
+Mozambique,2012,Rural,8
+Rwanda,2012,Rural,8
+Sierra Leone,2012,Rural,8
+Honduras,2012,Rural,80
+Paraguay,2012,Total,80
+Mongolia,2012,Urban,81
+Syrian Arab Republic,2012,Rural,81
+Bhutan,2012,Total,82
+Pakistan,2012,Urban,82
+Philippines,2012,Total,82
+Republic of Moldova,2012,Rural,82
+Viet Nam,2012,Rural,82
+Armenia,2012,Rural,83
+Belize,2012,Urban,83
+Costa Rica,2012,Rural,83
+Cuba,2012,Total,83
+Guatemala,2012,Urban,83
+Iraq,2012,Rural,83
+Myanmar,2012,Urban,83
+Thailand,2012,Rural,83
+Algeria,2012,Total,84
+Costa Rica,2012,Total,84
+Costa Rica,2012,Urban,84
+Egypt,2012,Total,84
+Honduras,2012,Total,84
+Kyrgyzstan,2012,Rural,84
+Syrian Arab Republic,2012,Total,84
+Belize,2012,Total,85
+Indonesia,2012,Urban,85
+Paraguay,2012,Urban,85
+Philippines,2012,Urban,85
+Thailand,2012,Total,85
+Cuba,2012,Urban,86
+El Salvador,2012,Rural,86
+Tunisia,2012,Total,86
+Viet Nam,2012,Total,86
+Azerbaijan,2012,Rural,87
+Belize,2012,Rural,87
+Bhutan,2012,Urban,87
+Ecuador,2012,Total,87
+Honduras,2012,Urban,87
+Kyrgyzstan,2012,Total,87
+Republic of Moldova,2012,Total,87
+Saint Lucia,2012,Rural,87
+Saint Lucia,2012,Total,87
+Syrian Arab Republic,2012,Urban,87
+Thailand,2012,Urban,87
+Algeria,2012,Urban,88
+Barbados,2012,Total,88
+Cambodia,2012,Urban,88
+Saint Lucia,2012,Urban,88
+Tajikistan,2012,Urban,88
+Azerbaijan,2012,Total,89
+Turkmenistan,2012,Rural,89
+Burkina Faso,2012,Total,9
+Guinea-Bissau,2012,Urban,9
+Rwanda,2012,Total,9
+Zambia,2012,Rural,9
+El Salvador,2012,Total,90
+Trinidad and Tobago,2012,Total,90
+Armenia,2012,Total,91
+Azerbaijan,2012,Urban,91
+Egypt,2012,Urban,91
+Mexico,2012,Rural,91
+Mexico,2012,Total,91
+Mexico,2012,Urban,91
+Ecuador,2012,Urban,92
+El Salvador,2012,Urban,92
+Iraq,2012,Total,92
+Kyrgyzstan,2012,Urban,92
+Turkmenistan,2012,Total,92
+Republic of Moldova,2012,Urban,93
+Viet Nam,2012,Urban,93
+Turkmenistan,2012,Urban,95
+Armenia,2012,Urban,96
+Bosnia and Herzegovina,2012,Rural,96
+Iraq,2012,Urban,96
+Tunisia,2012,Urban,96
+Bosnia and Herzegovina,2012,Total,97
+Serbia,2012,Rural,98
+Serbia,2012,Total,98
+Serbia,2012,Urban,98
+Bosnia and Herzegovina,2012,Urban,99
+Kazakhstan,2012,Rural,99
+Kazakhstan,2012,Total,99
+Kazakhstan,2012,Urban,99
+Liberia,2011,Rural,0
+Liberia,2011,Total,0
+Liberia,2011,Urban,0
+Lesotho,2011,Urban,10
+Niger,2011,Rural,10
+Senegal,2011,Rural,10
+Togo,2011,Total,10
+Bahrain,2011,Total,100
+North Macedonia,2011,Rural,100
+North Macedonia,2011,Total,100
+North Macedonia,2011,Urban,100
+Benin,2011,Urban,11
+Chad,2011,Rural,11
+Mozambique,2011,Total,12
+Central African Republic,2011,Rural,13
+Malawi,2011,Rural,13
+Sierra Leone,2011,Total,13
+Uganda,2011,Rural,13
+Niger,2011,Total,14
+Comoros,2011,Rural,15
+Malawi,2011,Total,15
+Cote d'Ivoire,2011,Total,16
+Comoros,2011,Total,16
+Madagascar,2011,Rural,16
+Uganda,2011,Total,16
+Central African Republic,2011,Total,17
+Chad,2011,Total,17
+Eswatini,2011,Rural,17
+Rwanda,2011,Urban,17
+Zambia,2011,Total,17
+Comoros,2011,Urban,18
+Haiti,2011,Rural,18
+Vanuatu,2011,Rural,18
+Bangladesh,2011,Rural,19
+Equatorial Guinea,2011,Rural,20
+Ethiopia,2011,Urban,20
+Sierra Leone,2011,Urban,20
+Togo,2011,Urban,20
+Burkina Faso,2011,Urban,21
+Mozambique,2011,Urban,21
+Senegal,2011,Total,21
+Bolivia (Plurinational State of),2011,Rural,22
+United Republic of Tanzania,2011,Rural,22
+Burundi,2011,Urban,23
+Nigeria,2011,Rural,23
+Central African Republic,2011,Urban,24
+Equatorial Guinea,2011,Total,24
+Eswatini,2011,Total,24
+Haiti,2011,Total,24
+Madagascar,2011,Total,24
+Cote d'Ivoire,2011,Urban,25
+Equatorial Guinea,2011,Urban,26
+Bolivia (Plurinational State of),2011,Total,27
+Namibia,2011,Rural,27
+Sudan,2011,Total,27
+Uganda,2011,Urban,27
+United Republic of Tanzania,2011,Total,27
+Vanuatu,2011,Total,27
+Bangladesh,2011,Total,28
+Solomon Islands,2011,Rural,28
+Bolivia (Plurinational State of),2011,Urban,29
+Zambia,2011,Urban,29
+Guinea-Bissau,2011,Rural,3
+Afghanistan,2011,Rural,30
+Malawi,2011,Urban,30
+Nigeria,2011,Total,30
+Congo,2011,Rural,32
+Haiti,2011,Urban,32
+Sao Tome and Principe,2011,Urban,32
+Colombia,2011,Rural,33
+Niger,2011,Urban,33
+Ghana,2011,Rural,35
+Kenya,2011,Rural,35
+Senegal,2011,Urban,35
+Yemen,2011,Rural,36
+Zimbabwe,2011,Rural,36
+Kenya,2011,Total,37
+Pakistan,2011,Rural,37
+Solomon Islands,2011,Total,37
+Afghanistan,2011,Total,38
+Nigeria,2011,Urban,38
+Sao Tome and Principe,2011,Total,38
+Chad,2011,Urban,39
+Benin,2011,Rural,4
+Burkina Faso,2011,Rural,4
+Burundi,2011,Rural,4
+Guinea-Bissau,2011,Total,4
+Lesotho,2011,Rural,4
+Togo,2011,Rural,4
+Madagascar,2011,Urban,40
+United Republic of Tanzania,2011,Urban,40
+Dominican Republic,2011,Rural,41
+Ghana,2011,Total,41
+Mauritania,2011,Rural,41
+Namibia,2011,Total,42
+Zimbabwe,2011,Total,43
+Mongolia,2011,Rural,44
+Nepal,2011,Rural,44
+Kenya,2011,Urban,45
+Peru,2011,Rural,45
+Bangladesh,2011,Urban,47
+Congo,2011,Total,47
+Ghana,2011,Urban,47
+Yemen,2011,Total,47
+Eswatini,2011,Urban,48
+Sao Tome and Principe,2011,Rural,49
+Ethiopia,2011,Rural,5
+Lesotho,2011,Total,5
+Nepal,2011,Total,50
+India,2011,Rural,51
+Pakistan,2011,Total,52
+Dominican Republic,2011,Total,53
+Cambodia,2011,Rural,54
+Mauritania,2011,Total,54
+Congo,2011,Urban,56
+Vanuatu,2011,Urban,56
+Zimbabwe,2011,Urban,56
+Dominican Republic,2011,Urban,57
+India,2011,Total,59
+Burundi,2011,Total,6
+Cambodia,2011,Total,61
+Namibia,2011,Urban,62
+Jamaica,2011,Rural,63
+Afghanistan,2011,Urban,66
+Indonesia,2011,Rural,66
+Jamaica,2011,Total,67
+Tajikistan,2011,Rural,67
+Tunisia,2011,Rural,67
+Colombia,2011,Total,68
+Mongolia,2011,Total,68
+Jamaica,2011,Urban,69
+Mauritania,2011,Urban,69
+Benin,2011,Total,7
+Cote d'Ivoire,2011,Rural,7
+Guinea-Bissau,2011,Urban,7
+Rwanda,2011,Rural,7
+Sierra Leone,2011,Rural,7
+Guatemala,2011,Rural,70
+Yemen,2011,Urban,70
+Myanmar,2011,Rural,71
+Solomon Islands,2011,Urban,71
+Tajikistan,2011,Total,72
+Algeria,2011,Rural,73
+Cuba,2011,Rural,73
+Myanmar,2011,Total,74
+Guyana,2011,Urban,75
+Nepal,2011,Urban,75
+Egypt,2011,Rural,76
+Guatemala,2011,Total,76
+Guyana,2011,Rural,76
+Guyana,2011,Total,76
+Indonesia,2011,Total,76
+Bhutan,2011,Rural,77
+Colombia,2011,Urban,78
+Ecuador,2011,Rural,79
+India,2011,Urban,79
+Philippines,2011,Rural,79
+Ethiopia,2011,Total,8
+Mozambique,2011,Rural,8
+Rwanda,2011,Total,8
+Honduras,2011,Rural,80
+Mongolia,2011,Urban,80
+Armenia,2011,Rural,81
+Bhutan,2011,Total,81
+Iraq,2011,Rural,81
+Pakistan,2011,Urban,81
+Belize,2011,Urban,82
+Egypt,2011,Total,82
+Kyrgyzstan,2011,Rural,82
+Philippines,2011,Total,82
+Republic of Moldova,2011,Rural,82
+Viet Nam,2011,Rural,82
+Algeria,2011,Total,83
+Costa Rica,2011,Rural,83
+Cuba,2011,Total,83
+Guatemala,2011,Urban,83
+Myanmar,2011,Urban,83
+Thailand,2011,Rural,83
+Belize,2011,Total,84
+Costa Rica,2011,Total,84
+Costa Rica,2011,Urban,84
+Honduras,2011,Total,84
+Kyrgyzstan,2011,Total,85
+Philippines,2011,Urban,85
+Thailand,2011,Total,85
+Viet Nam,2011,Total,85
+Belize,2011,Rural,86
+Cuba,2011,Urban,86
+El Salvador,2011,Rural,86
+Indonesia,2011,Urban,86
+Azerbaijan,2011,Rural,87
+Bhutan,2011,Urban,87
+Ecuador,2011,Total,87
+Honduras,2011,Urban,87
+Republic of Moldova,2011,Total,87
+Saint Lucia,2011,Rural,87
+Saint Lucia,2011,Total,87
+Thailand,2011,Urban,87
+Tunisia,2011,Total,87
+Turkmenistan,2011,Rural,87
+Algeria,2011,Urban,88
+Barbados,2011,Total,88
+Cambodia,2011,Urban,88
+Saint Lucia,2011,Urban,88
+Tajikistan,2011,Urban,88
+Azerbaijan,2011,Total,89
+Burkina Faso,2011,Total,9
+Zambia,2011,Rural,9
+Armenia,2011,Total,90
+El Salvador,2011,Total,90
+Trinidad and Tobago,2011,Total,90
+Azerbaijan,2011,Urban,91
+Egypt,2011,Urban,91
+Iraq,2011,Total,91
+Kyrgyzstan,2011,Urban,91
+Mexico,2011,Rural,91
+Mexico,2011,Total,91
+Mexico,2011,Urban,91
+Turkmenistan,2011,Total,91
+Ecuador,2011,Urban,92
+El Salvador,2011,Urban,92
+Viet Nam,2011,Urban,92
+Republic of Moldova,2011,Urban,93
+Turkmenistan,2011,Urban,94
+Armenia,2011,Urban,95
+Iraq,2011,Urban,95
+Bosnia and Herzegovina,2011,Rural,96
+Tunisia,2011,Urban,96
+Bosnia and Herzegovina,2011,Total,97
+Serbia,2011,Rural,98
+Serbia,2011,Total,98
+Serbia,2011,Urban,98
+Bosnia and Herzegovina,2011,Urban,99
+Kazakhstan,2011,Rural,99
+Kazakhstan,2011,Total,99
+Kazakhstan,2011,Urban,99
+Liberia,2010,Rural,0
+Liberia,2010,Total,0
+Liberia,2010,Urban,0
+Guinea-Bissau,2010,Rural,1
+Benin,2010,Urban,10
+Chad,2010,Rural,10
+Lesotho,2010,Urban,10
+Bahrain,2010,Total,100
+North Macedonia,2010,Rural,100
+North Macedonia,2010,Total,100
+North Macedonia,2010,Urban,100
+Mozambique,2010,Total,12
+Sierra Leone,2010,Total,12
+Uganda,2010,Rural,12
+Central African Republic,2010,Rural,13
+Malawi,2010,Rural,13
+Niger,2010,Total,13
+Uganda,2010,Total,14
+Bangladesh,2010,Rural,15
+Cote d'Ivoire,2010,Total,15
+Comoros,2010,Rural,15
+Malawi,2010,Total,15
+Chad,2010,Total,16
+Comoros,2010,Total,16
+Madagascar,2010,Rural,16
+Rwanda,2010,Urban,16
+Central African Republic,2010,Total,17
+Eswatini,2010,Rural,17
+Zambia,2010,Total,17
+Comoros,2010,Urban,18
+Haiti,2010,Rural,18
+Vanuatu,2010,Rural,18
+Togo,2010,Urban,19
+Equatorial Guinea,2010,Rural,20
+Ethiopia,2010,Urban,20
+Sierra Leone,2010,Urban,20
+Burkina Faso,2010,Urban,21
+Mozambique,2010,Urban,21
+Bolivia (Plurinational State of),2010,Rural,22
+Central African Republic,2010,Urban,22
+United Republic of Tanzania,2010,Rural,22
+Bangladesh,2010,Total,24
+Burundi,2010,Urban,24
+Cote d'Ivoire,2010,Urban,24
+Equatorial Guinea,2010,Total,24
+Eswatini,2010,Total,24
+Madagascar,2010,Total,24
+Haiti,2010,Total,25
+Uganda,2010,Urban,25
+Equatorial Guinea,2010,Urban,26
+Bolivia (Plurinational State of),2010,Total,27
+Namibia,2010,Rural,27
+Sudan,2010,Total,27
+United Republic of Tanzania,2010,Total,27
+Vanuatu,2010,Total,27
+Afghanistan,2010,Rural,28
+Solomon Islands,2010,Rural,28
+Bolivia (Plurinational State of),2010,Urban,29
+Zambia,2010,Urban,29
+Guinea-Bissau,2010,Total,3
+Togo,2010,Rural,3
+Malawi,2010,Urban,31
+Haiti,2010,Urban,32
+Niger,2010,Urban,32
+Sao Tome and Principe,2010,Urban,32
+Yemen,2010,Rural,36
+Zimbabwe,2010,Rural,36
+Pakistan,2010,Rural,37
+Afghanistan,2010,Total,38
+Sao Tome and Principe,2010,Total,38
+Chad,2010,Urban,39
+Benin,2010,Rural,4
+Burkina Faso,2010,Rural,4
+Burundi,2010,Rural,4
+Lesotho,2010,Rural,4
+Madagascar,2010,Urban,40
+Mongolia,2010,Rural,40
+United Republic of Tanzania,2010,Urban,40
+Dominican Republic,2010,Rural,41
+Mauritania,2010,Rural,41
+Namibia,2010,Total,42
+Nepal,2010,Rural,43
+Zimbabwe,2010,Total,43
+Bangladesh,2010,Urban,45
+Peru,2010,Rural,45
+Yemen,2010,Total,47
+Eswatini,2010,Urban,48
+Nepal,2010,Total,48
+Sao Tome and Principe,2010,Rural,49
+Ethiopia,2010,Rural,5
+Guinea-Bissau,2010,Urban,5
+Lesotho,2010,Total,5
+India,2010,Rural,51
+Pakistan,2010,Total,52
+Dominican Republic,2010,Total,53
+Cambodia,2010,Rural,54
+Mauritania,2010,Total,54
+Vanuatu,2010,Urban,56
+Zimbabwe,2010,Urban,56
+Dominican Republic,2010,Urban,57
+India,2010,Total,59
+Benin,2010,Total,6
+Burundi,2010,Total,6
+Rwanda,2010,Rural,6
+Cambodia,2010,Total,61
+Namibia,2010,Urban,62
+Jamaica,2010,Rural,63
+Indonesia,2010,Rural,66
+Mongolia,2010,Total,66
+Afghanistan,2010,Urban,67
+Jamaica,2010,Total,67
+Tajikistan,2010,Rural,67
+Tunisia,2010,Rural,67
+Jamaica,2010,Urban,69
+Mauritania,2010,Urban,69
+Cote d'Ivoire,2010,Rural,7
+Ethiopia,2010,Total,7
+Rwanda,2010,Total,7
+Sierra Leone,2010,Rural,7
+Yemen,2010,Urban,70
+Myanmar,2010,Rural,71
+Tajikistan,2010,Total,72
+Algeria,2010,Rural,73
+Cuba,2010,Rural,73
+Egypt,2010,Rural,74
+Myanmar,2010,Total,74
+Bhutan,2010,Rural,75
+Guyana,2010,Urban,75
+Nepal,2010,Urban,75
+Guyana,2010,Rural,76
+Guyana,2010,Total,76
+Indonesia,2010,Total,76
+Bhutan,2010,Total,79
+Ecuador,2010,Rural,79
+Honduras,2010,Rural,79
+India,2010,Urban,79
+Iraq,2010,Rural,79
+Mongolia,2010,Urban,79
+Burkina Faso,2010,Total,8
+Mozambique,2010,Rural,8
+Armenia,2010,Rural,80
+Belize,2010,Urban,80
+Kyrgyzstan,2010,Rural,80
+Egypt,2010,Total,81
+Pakistan,2010,Urban,81
+Republic of Moldova,2010,Rural,82
+Viet Nam,2010,Rural,82
+Algeria,2010,Total,83
+Belize,2010,Total,83
+Costa Rica,2010,Rural,83
+Cuba,2010,Total,83
+Myanmar,2010,Urban,83
+Thailand,2010,Rural,83
+Costa Rica,2010,Total,84
+Costa Rica,2010,Urban,84
+Honduras,2010,Total,84
+Kyrgyzstan,2010,Total,84
+Thailand,2010,Total,85
+Turkmenistan,2010,Rural,85
+Viet Nam,2010,Total,85
+Belize,2010,Rural,86
+Cuba,2010,Urban,86
+El Salvador,2010,Rural,86
+Indonesia,2010,Urban,86
+Azerbaijan,2010,Rural,87
+Bhutan,2010,Urban,87
+Ecuador,2010,Total,87
+Republic of Moldova,2010,Total,87
+Saint Lucia,2010,Rural,87
+Saint Lucia,2010,Total,87
+Thailand,2010,Urban,87
+Tunisia,2010,Total,87
+Algeria,2010,Urban,88
+Barbados,2010,Total,88
+Cambodia,2010,Urban,88
+Honduras,2010,Urban,88
+Saint Lucia,2010,Urban,88
+Armenia,2010,Total,89
+Azerbaijan,2010,Total,89
+Tajikistan,2010,Urban,89
+Turkmenistan,2010,Total,89
+Niger,2010,Rural,9
+Togo,2010,Total,9
+Zambia,2010,Rural,9
+Egypt,2010,Urban,90
+El Salvador,2010,Total,90
+Iraq,2010,Total,90
+Kyrgyzstan,2010,Urban,90
+Trinidad and Tobago,2010,Total,90
+Azerbaijan,2010,Urban,91
+Mexico,2010,Rural,91
+Mexico,2010,Total,91
+Mexico,2010,Urban,91
+Ecuador,2010,Urban,92
+El Salvador,2010,Urban,92
+Viet Nam,2010,Urban,92
+Republic of Moldova,2010,Urban,93
+Turkmenistan,2010,Urban,93
+Armenia,2010,Urban,95
+Iraq,2010,Urban,95
+Bosnia and Herzegovina,2010,Rural,96
+Bosnia and Herzegovina,2010,Total,97
+Tunisia,2010,Urban,97
+Serbia,2010,Rural,98
+Serbia,2010,Total,98
+Serbia,2010,Urban,98
+Bosnia and Herzegovina,2010,Urban,99
+Guinea-Bissau,2009,Rural,0
+Liberia,2009,Rural,0
+Liberia,2009,Total,0
+Liberia,2009,Urban,0
+Guinea-Bissau,2009,Total,1
+Benin,2009,Urban,10
+Lesotho,2009,Urban,10
+Bahrain,2009,Total,100
+North Macedonia,2009,Rural,100
+North Macedonia,2009,Total,100
+North Macedonia,2009,Urban,100
+Bangladesh,2009,Rural,11
+Niger,2009,Total,11
+Sierra Leone,2009,Total,11
+Uganda,2009,Rural,11
+Mozambique,2009,Total,12
+Central African Republic,2009,Rural,13
+Malawi,2009,Rural,13
+Uganda,2009,Total,13
+Rwanda,2009,Urban,14
+Cote d'Ivoire,2009,Total,15
+Comoros,2009,Rural,15
+Malawi,2009,Total,15
+Central African Republic,2009,Total,16
+Chad,2009,Total,16
+Comoros,2009,Total,16
+Madagascar,2009,Rural,16
+Eswatini,2009,Rural,17
+Zambia,2009,Total,17
+Comoros,2009,Urban,18
+Haiti,2009,Rural,18
+Vanuatu,2009,Rural,18
+Togo,2009,Urban,19
+Equatorial Guinea,2009,Rural,20
+Sierra Leone,2009,Urban,20
+Bangladesh,2009,Total,21
+Central African Republic,2009,Urban,21
+Mozambique,2009,Urban,21
+Burkina Faso,2009,Urban,22
+Uganda,2009,Urban,23
+Burundi,2009,Urban,24
+Cote d'Ivoire,2009,Urban,24
+Equatorial Guinea,2009,Total,24
+Eswatini,2009,Total,24
+Madagascar,2009,Total,24
+Haiti,2009,Total,25
+Equatorial Guinea,2009,Urban,26
+Afghanistan,2009,Rural,27
+Namibia,2009,Rural,27
+Sudan,2009,Total,27
+Vanuatu,2009,Total,27
+Solomon Islands,2009,Rural,28
+Zambia,2009,Urban,29
+Benin,2009,Rural,3
+Togo,2009,Rural,3
+Malawi,2009,Urban,31
+Haiti,2009,Urban,32
+Niger,2009,Urban,32
+Sao Tome and Principe,2009,Urban,32
+Mongolia,2009,Rural,36
+Yemen,2009,Rural,36
+Zimbabwe,2009,Rural,36
+Afghanistan,2009,Total,37
+Pakistan,2009,Rural,37
+Sao Tome and Principe,2009,Total,38
+Burkina Faso,2009,Rural,4
+Burundi,2009,Rural,4
+Guinea-Bissau,2009,Urban,4
+Lesotho,2009,Rural,4
+Chad,2009,Urban,40
+Dominican Republic,2009,Rural,41
+Madagascar,2009,Urban,41
+Mauritania,2009,Rural,41
+Nepal,2009,Rural,41
+Namibia,2009,Total,42
+Bangladesh,2009,Urban,43
+Zimbabwe,2009,Total,43
+Peru,2009,Rural,45
+Nepal,2009,Total,47
+Yemen,2009,Total,47
+Eswatini,2009,Urban,48
+Sao Tome and Principe,2009,Rural,49
+Lesotho,2009,Total,5
+Rwanda,2009,Rural,5
+Pakistan,2009,Total,52
+Dominican Republic,2009,Total,53
+Cambodia,2009,Rural,54
+Mauritania,2009,Total,54
+Vanuatu,2009,Urban,56
+Zimbabwe,2009,Urban,56
+Dominican Republic,2009,Urban,57
+Benin,2009,Total,6
+Burundi,2009,Total,6
+Sierra Leone,2009,Rural,6
+Cambodia,2009,Total,61
+Namibia,2009,Urban,62
+Jamaica,2009,Rural,63
+Mongolia,2009,Total,64
+Indonesia,2009,Rural,66
+Afghanistan,2009,Urban,67
+Jamaica,2009,Total,67
+Tajikistan,2009,Rural,67
+Tunisia,2009,Rural,67
+Jamaica,2009,Urban,69
+Mauritania,2009,Urban,69
+Cote d'Ivoire,2009,Rural,7
+Rwanda,2009,Total,7
+Yemen,2009,Urban,70
+Egypt,2009,Rural,72
+Tajikistan,2009,Total,72
+Algeria,2009,Rural,73
+Bhutan,2009,Rural,73
+Cuba,2009,Rural,73
+Guyana,2009,Urban,75
+Nepal,2009,Urban,75
+Guyana,2009,Rural,76
+Guyana,2009,Total,76
+Indonesia,2009,Total,76
+Iraq,2009,Rural,77
+Armenia,2009,Rural,78
+Bhutan,2009,Total,78
+Mongolia,2009,Urban,78
+Belize,2009,Urban,79
+Egypt,2009,Total,79
+Honduras,2009,Rural,79
+Burkina Faso,2009,Total,8
+Mozambique,2009,Rural,8
+Niger,2009,Rural,8
+Kyrgyzstan,2009,Rural,80
+Pakistan,2009,Urban,81
+Belize,2009,Total,82
+Republic of Moldova,2009,Rural,82
+Turkmenistan,2009,Rural,82
+Viet Nam,2009,Rural,82
+Algeria,2009,Total,83
+Costa Rica,2009,Rural,83
+Costa Rica,2009,Total,83
+Cuba,2009,Total,83
+Belize,2009,Rural,84
+Costa Rica,2009,Urban,84
+Honduras,2009,Total,84
+Kyrgyzstan,2009,Total,84
+Viet Nam,2009,Total,85
+Cuba,2009,Urban,86
+Indonesia,2009,Urban,86
+Azerbaijan,2009,Rural,87
+Bhutan,2009,Urban,87
+Republic of Moldova,2009,Total,87
+Saint Lucia,2009,Rural,87
+Saint Lucia,2009,Total,87
+Tunisia,2009,Total,87
+Turkmenistan,2009,Total,87
+Algeria,2009,Urban,88
+Barbados,2009,Total,88
+Cambodia,2009,Urban,88
+Honduras,2009,Urban,88
+Saint Lucia,2009,Urban,88
+Armenia,2009,Total,89
+Azerbaijan,2009,Total,89
+Tajikistan,2009,Urban,89
+Chad,2009,Rural,9
+Togo,2009,Total,9
+Zambia,2009,Rural,9
+Egypt,2009,Urban,90
+Iraq,2009,Total,90
+Kyrgyzstan,2009,Urban,90
+Trinidad and Tobago,2009,Total,90
+Azerbaijan,2009,Urban,91
+Mexico,2009,Rural,91
+Mexico,2009,Total,91
+Mexico,2009,Urban,91
+Turkmenistan,2009,Urban,92
+Viet Nam,2009,Urban,92
+Republic of Moldova,2009,Urban,93
+Armenia,2009,Urban,95
+Iraq,2009,Urban,95
+Bosnia and Herzegovina,2009,Rural,96
+Bosnia and Herzegovina,2009,Total,97
+Tunisia,2009,Urban,97
+Serbia,2009,Rural,98
+Serbia,2009,Total,98
+Serbia,2009,Urban,98
+Bosnia and Herzegovina,2009,Urban,99
+Guinea-Bissau,2008,Rural,0
+Liberia,2008,Rural,0
+Liberia,2008,Total,0
+Liberia,2008,Urban,0
+Guinea-Bissau,2008,Total,1
+Lesotho,2008,Urban,10
+Niger,2008,Total,10
+Uganda,2008,Rural,10
+Bahrain,2008,Total,100
+North Macedonia,2008,Rural,100
+North Macedonia,2008,Total,100
+North Macedonia,2008,Urban,100
+Bangladesh,2008,Rural,11
+Sierra Leone,2008,Total,11
+Mozambique,2008,Total,12
+Uganda,2008,Total,12
+Central African Republic,2008,Rural,13
+Malawi,2008,Rural,13
+Rwanda,2008,Urban,13
+Cote d'Ivoire,2008,Total,15
+Chad,2008,Total,15
+Comoros,2008,Rural,15
+Malawi,2008,Total,15
+Central African Republic,2008,Total,16
+Comoros,2008,Total,16
+Madagascar,2008,Rural,16
+Eswatini,2008,Rural,17
+Zambia,2008,Total,17
+Comoros,2008,Urban,18
+Haiti,2008,Rural,18
+Togo,2008,Urban,18
+Vanuatu,2008,Rural,18
+Guinea-Bissau,2008,Urban,2
+Togo,2008,Rural,2
+Central African Republic,2008,Urban,20
+Equatorial Guinea,2008,Rural,20
+Sierra Leone,2008,Urban,20
+Bangladesh,2008,Total,21
+Mozambique,2008,Urban,21
+Uganda,2008,Urban,21
+Burkina Faso,2008,Urban,22
+Burundi,2008,Urban,24
+Cote d'Ivoire,2008,Urban,24
+Equatorial Guinea,2008,Total,24
+Eswatini,2008,Total,24
+Haiti,2008,Total,24
+Madagascar,2008,Total,24
+Equatorial Guinea,2008,Urban,26
+Afghanistan,2008,Rural,27
+Sudan,2008,Total,27
+Vanuatu,2008,Total,27
+Zambia,2008,Urban,29
+Benin,2008,Rural,3
+Malawi,2008,Urban,31
+Niger,2008,Urban,31
+Haiti,2008,Urban,32
+Mongolia,2008,Rural,32
+Sao Tome and Principe,2008,Urban,32
+Afghanistan,2008,Total,37
+Pakistan,2008,Rural,37
+Sao Tome and Principe,2008,Total,39
+Burkina Faso,2008,Rural,4
+Burundi,2008,Rural,4
+Lesotho,2008,Rural,4
+Rwanda,2008,Rural,4
+Chad,2008,Urban,40
+Dominican Republic,2008,Rural,41
+Madagascar,2008,Urban,41
+Nepal,2008,Rural,41
+Bangladesh,2008,Urban,43
+Nepal,2008,Total,47
+Eswatini,2008,Urban,48
+Sao Tome and Principe,2008,Rural,49
+Benin,2008,Total,5
+Lesotho,2008,Total,5
+Sierra Leone,2008,Rural,5
+Pakistan,2008,Total,52
+Dominican Republic,2008,Total,53
+Cambodia,2008,Rural,54
+Vanuatu,2008,Urban,56
+Dominican Republic,2008,Urban,57
+Burundi,2008,Total,6
+Niger,2008,Rural,6
+Rwanda,2008,Total,6
+Cambodia,2008,Total,60
+Mongolia,2008,Total,61
+Jamaica,2008,Rural,63
+Indonesia,2008,Rural,66
+Afghanistan,2008,Urban,67
+Jamaica,2008,Total,67
+Tajikistan,2008,Rural,67
+Tunisia,2008,Rural,67
+Egypt,2008,Rural,69
+Jamaica,2008,Urban,69
+Cote d'Ivoire,2008,Rural,7
+Bhutan,2008,Rural,71
+Tajikistan,2008,Total,72
+Algeria,2008,Rural,73
+Cuba,2008,Rural,73
+Guyana,2008,Urban,75
+Indonesia,2008,Total,75
+Nepal,2008,Urban,75
+Bhutan,2008,Total,76
+Guyana,2008,Rural,76
+Guyana,2008,Total,76
+Armenia,2008,Rural,77
+Iraq,2008,Rural,77
+Mongolia,2008,Urban,77
+Egypt,2008,Total,78
+Belize,2008,Urban,79
+Honduras,2008,Rural,79
+Burkina Faso,2008,Total,8
+Chad,2008,Rural,8
+Mozambique,2008,Rural,8
+Togo,2008,Total,8
+Kyrgyzstan,2008,Rural,80
+Turkmenistan,2008,Rural,80
+Pakistan,2008,Urban,81
+Belize,2008,Total,82
+Republic of Moldova,2008,Rural,82
+Viet Nam,2008,Rural,82
+Algeria,2008,Total,83
+Costa Rica,2008,Rural,83
+Costa Rica,2008,Total,83
+Cuba,2008,Total,83
+Belize,2008,Rural,84
+Costa Rica,2008,Urban,84
+Honduras,2008,Total,84
+Kyrgyzstan,2008,Total,84
+Turkmenistan,2008,Total,85
+Viet Nam,2008,Total,85
+Bhutan,2008,Urban,86
+Cuba,2008,Urban,86
+Indonesia,2008,Urban,86
+Republic of Moldova,2008,Total,87
+Saint Lucia,2008,Rural,87
+Saint Lucia,2008,Total,87
+Tunisia,2008,Total,87
+Algeria,2008,Urban,88
+Armenia,2008,Total,88
+Barbados,2008,Total,88
+Cambodia,2008,Urban,88
+Honduras,2008,Urban,88
+Saint Lucia,2008,Urban,88
+Egypt,2008,Urban,89
+Tajikistan,2008,Urban,89
+Benin,2008,Urban,9
+Zambia,2008,Rural,9
+Iraq,2008,Total,90
+Kyrgyzstan,2008,Urban,90
+Trinidad and Tobago,2008,Total,90
+Turkmenistan,2008,Urban,91
+Viet Nam,2008,Urban,92
+Republic of Moldova,2008,Urban,93
+Armenia,2008,Urban,95
+Iraq,2008,Urban,95
+Bosnia and Herzegovina,2008,Rural,96
+Bosnia and Herzegovina,2008,Total,97
+Tunisia,2008,Urban,97
+Serbia,2008,Rural,98
+Serbia,2008,Total,98
+Serbia,2008,Urban,98
+Bosnia and Herzegovina,2008,Urban,99
+Guinea-Bissau,2007,Rural,0
+Liberia,2007,Rural,0
+Liberia,2007,Total,0
+Liberia,2007,Urban,0
+Guinea-Bissau,2007,Total,1
+Uganda,2007,Total,10
+Bahrain,2007,Total,100
+North Macedonia,2007,Rural,100
+North Macedonia,2007,Total,100
+North Macedonia,2007,Urban,100
+Bangladesh,2007,Rural,11
+Sierra Leone,2007,Total,11
+Mozambique,2007,Total,12
+Rwanda,2007,Urban,12
+Central African Republic,2007,Rural,13
+Malawi,2007,Rural,13
+Cote d'Ivoire,2007,Total,15
+Chad,2007,Total,15
+Malawi,2007,Total,15
+Central African Republic,2007,Total,16
+Madagascar,2007,Rural,16
+Eswatini,2007,Rural,17
+Haiti,2007,Rural,18
+Togo,2007,Urban,18
+Vanuatu,2007,Rural,18
+Uganda,2007,Urban,19
+Benin,2007,Rural,2
+Guinea-Bissau,2007,Urban,2
+Togo,2007,Rural,2
+Bangladesh,2007,Total,20
+Central African Republic,2007,Urban,20
+Equatorial Guinea,2007,Rural,20
+Sierra Leone,2007,Urban,20
+Mozambique,2007,Urban,21
+Burkina Faso,2007,Urban,23
+Burundi,2007,Urban,24
+Cote d'Ivoire,2007,Urban,24
+Equatorial Guinea,2007,Total,24
+Eswatini,2007,Total,24
+Haiti,2007,Total,24
+Madagascar,2007,Total,24
+Equatorial Guinea,2007,Urban,26
+Afghanistan,2007,Rural,27
+Vanuatu,2007,Total,27
+Rwanda,2007,Rural,3
+Malawi,2007,Urban,31
+Niger,2007,Urban,31
+Haiti,2007,Urban,32
+Mongolia,2007,Rural,32
+Afghanistan,2007,Total,36
+Pakistan,2007,Rural,37
+Burkina Faso,2007,Rural,4
+Burundi,2007,Rural,4
+Chad,2007,Urban,40
+Madagascar,2007,Urban,41
+Nepal,2007,Rural,41
+Bangladesh,2007,Urban,43
+Nepal,2007,Total,47
+Eswatini,2007,Urban,48
+Benin,2007,Total,5
+Niger,2007,Rural,5
+Rwanda,2007,Total,5
+Sierra Leone,2007,Rural,5
+Pakistan,2007,Total,52
+Vanuatu,2007,Urban,56
+Burundi,2007,Total,6
+Mongolia,2007,Total,61
+Jamaica,2007,Rural,63
+Indonesia,2007,Rural,66
+Afghanistan,2007,Urban,67
+Egypt,2007,Rural,67
+Jamaica,2007,Total,67
+Tajikistan,2007,Rural,67
+Tunisia,2007,Rural,67
+Jamaica,2007,Urban,69
+Cote d'Ivoire,2007,Rural,7
+Bhutan,2007,Rural,71
+Tajikistan,2007,Total,72
+Algeria,2007,Rural,73
+Indonesia,2007,Total,75
+Nepal,2007,Urban,75
+Armenia,2007,Rural,76
+Bhutan,2007,Total,76
+Egypt,2007,Total,77
+Iraq,2007,Rural,77
+Mongolia,2007,Urban,77
+Turkmenistan,2007,Rural,77
+Belize,2007,Urban,79
+Honduras,2007,Rural,79
+Burkina Faso,2007,Total,8
+Chad,2007,Rural,8
+Mozambique,2007,Rural,8
+Togo,2007,Total,8
+Kyrgyzstan,2007,Rural,80
+Pakistan,2007,Urban,81
+Belize,2007,Total,82
+Viet Nam,2007,Rural,82
+Algeria,2007,Total,83
+Costa Rica,2007,Rural,83
+Costa Rica,2007,Total,83
+Turkmenistan,2007,Total,83
+Belize,2007,Rural,84
+Costa Rica,2007,Urban,84
+Honduras,2007,Total,84
+Kyrgyzstan,2007,Total,84
+Viet Nam,2007,Total,84
+Bhutan,2007,Urban,86
+Indonesia,2007,Urban,86
+Tunisia,2007,Total,87
+Algeria,2007,Urban,88
+Armenia,2007,Total,88
+Honduras,2007,Urban,88
+Egypt,2007,Urban,89
+Iraq,2007,Total,89
+Tajikistan,2007,Urban,89
+Benin,2007,Urban,9
+Niger,2007,Total,9
+Uganda,2007,Rural,9
+Kyrgyzstan,2007,Urban,90
+Trinidad and Tobago,2007,Total,90
+Turkmenistan,2007,Urban,90
+Viet Nam,2007,Urban,92
+Armenia,2007,Urban,94
+Iraq,2007,Urban,95
+Tunisia,2007,Urban,97
+Serbia,2007,Rural,98
+Serbia,2007,Total,98
+Serbia,2007,Urban,98
+Guinea-Bissau,2006,Rural,0
+Guinea-Bissau,2006,Total,1
+Bahrain,2006,Total,100
+North Macedonia,2006,Rural,100
+North Macedonia,2006,Total,100
+North Macedonia,2006,Urban,100
+Bangladesh,2006,Rural,11
+Rwanda,2006,Urban,11
+Sierra Leone,2006,Total,11
+Central African Republic,2006,Rural,13
+Malawi,2006,Rural,13
+Cote d'Ivoire,2006,Total,15
+Chad,2006,Total,15
+Malawi,2006,Total,15
+Central African Republic,2006,Total,16
+Madagascar,2006,Rural,16
+Eswatini,2006,Rural,17
+Haiti,2006,Rural,18
+Togo,2006,Urban,18
+Uganda,2006,Urban,18
+Benin,2006,Rural,2
+Guinea-Bissau,2006,Urban,2
+Rwanda,2006,Rural,2
+Togo,2006,Rural,2
+Bangladesh,2006,Total,20
+Central African Republic,2006,Urban,20
+Sierra Leone,2006,Urban,20
+Burkina Faso,2006,Urban,23
+Burundi,2006,Urban,24
+Cote d'Ivoire,2006,Urban,24
+Eswatini,2006,Total,24
+Haiti,2006,Total,24
+Madagascar,2006,Total,24
+Afghanistan,2006,Rural,27
+Niger,2006,Urban,30
+Malawi,2006,Urban,31
+Haiti,2006,Urban,32
+Mongolia,2006,Rural,32
+Afghanistan,2006,Total,36
+Benin,2006,Total,4
+Burkina Faso,2006,Rural,4
+Burundi,2006,Rural,4
+Niger,2006,Rural,4
+Rwanda,2006,Total,4
+Chad,2006,Urban,40
+Nepal,2006,Rural,41
+Madagascar,2006,Urban,42
+Bangladesh,2006,Urban,43
+Nepal,2006,Total,46
+Eswatini,2006,Urban,48
+Sierra Leone,2006,Rural,5
+Burundi,2006,Total,6
+Mongolia,2006,Total,60
+Egypt,2006,Rural,65
+Indonesia,2006,Rural,66
+Afghanistan,2006,Urban,67
+Tajikistan,2006,Rural,67
+Tunisia,2006,Rural,67
+Cote d'Ivoire,2006,Rural,7
+Uganda,2006,Rural,7
+Bhutan,2006,Rural,71
+Tajikistan,2006,Total,72
+Armenia,2006,Rural,74
+Egypt,2006,Total,75
+Indonesia,2006,Total,75
+Nepal,2006,Urban,75
+Turkmenistan,2006,Rural,75
+Bhutan,2006,Total,76
+Iraq,2006,Rural,77
+Mongolia,2006,Urban,77
+Belize,2006,Urban,79
+Honduras,2006,Rural,79
+Benin,2006,Urban,8
+Burkina Faso,2006,Total,8
+Chad,2006,Rural,8
+Niger,2006,Total,8
+Togo,2006,Total,8
+Kyrgyzstan,2006,Rural,80
+Belize,2006,Total,82
+Turkmenistan,2006,Total,82
+Viet Nam,2006,Rural,82
+Costa Rica,2006,Rural,83
+Costa Rica,2006,Total,83
+Honduras,2006,Total,83
+Belize,2006,Rural,84
+Costa Rica,2006,Urban,84
+Kyrgyzstan,2006,Total,84
+Viet Nam,2006,Total,84
+Bhutan,2006,Urban,86
+Indonesia,2006,Urban,86
+Armenia,2006,Total,87
+Tunisia,2006,Total,87
+Honduras,2006,Urban,88
+Egypt,2006,Urban,89
+Iraq,2006,Total,89
+Tajikistan,2006,Urban,89
+Turkmenistan,2006,Urban,89
+Uganda,2006,Total,9
+Kyrgyzstan,2006,Urban,90
+Viet Nam,2006,Urban,92
+Armenia,2006,Urban,94
+Iraq,2006,Urban,95
+Tunisia,2006,Urban,97
+Serbia,2006,Rural,98
+Serbia,2006,Total,98
+Serbia,2006,Urban,98
+Guinea-Bissau,2005,Rural,0
+Benin,2005,Rural,1
+Guinea-Bissau,2005,Total,1
+Rwanda,2005,Rural,1
+Bahrain,2005,Total,100
+North Macedonia,2005,Rural,100
+North Macedonia,2005,Total,100
+North Macedonia,2005,Urban,100
+Bangladesh,2005,Rural,11
+Sierra Leone,2005,Total,11
+Central African Republic,2005,Rural,13
+Malawi,2005,Rural,13
+Chad,2005,Total,15
+Malawi,2005,Total,15
+Central African Republic,2005,Total,16
+Madagascar,2005,Rural,16
+Uganda,2005,Urban,16
+Eswatini,2005,Rural,17
+Togo,2005,Urban,18
+Guinea-Bissau,2005,Urban,2
+Togo,2005,Rural,2
+Bangladesh,2005,Total,20
+Central African Republic,2005,Urban,20
+Sierra Leone,2005,Urban,20
+Burkina Faso,2005,Urban,24
+Burundi,2005,Urban,24
+Eswatini,2005,Total,24
+Madagascar,2005,Total,24
+Afghanistan,2005,Rural,27
+Niger,2005,Urban,29
+Niger,2005,Rural,3
+Rwanda,2005,Total,3
+Malawi,2005,Urban,32
+Mongolia,2005,Rural,32
+Afghanistan,2005,Total,36
+Benin,2005,Total,4
+Burkina Faso,2005,Rural,4
+Burundi,2005,Rural,4
+Chad,2005,Urban,40
+Nepal,2005,Rural,41
+Madagascar,2005,Urban,42
+Bangladesh,2005,Urban,43
+Nepal,2005,Total,46
+Eswatini,2005,Urban,48
+Sierra Leone,2005,Rural,5
+Burundi,2005,Total,6
+Uganda,2005,Rural,6
+Mongolia,2005,Total,60
+Egypt,2005,Rural,62
+Afghanistan,2005,Urban,67
+Benin,2005,Urban,7
+Niger,2005,Total,7
+Togo,2005,Total,7
+Bhutan,2005,Rural,71
+Armenia,2005,Rural,73
+Turkmenistan,2005,Rural,73
+Egypt,2005,Total,74
+Nepal,2005,Urban,75
+Bhutan,2005,Total,76
+Iraq,2005,Rural,77
+Mongolia,2005,Urban,77
+Belize,2005,Urban,79
+Burkina Faso,2005,Total,8
+Chad,2005,Rural,8
+Uganda,2005,Total,8
+Turkmenistan,2005,Total,80
+Belize,2005,Total,82
+Viet Nam,2005,Rural,82
+Costa Rica,2005,Rural,83
+Costa Rica,2005,Total,83
+Belize,2005,Rural,84
+Costa Rica,2005,Urban,84
+Viet Nam,2005,Total,84
+Armenia,2005,Total,86
+Bhutan,2005,Urban,86
+Egypt,2005,Urban,88
+Turkmenistan,2005,Urban,88
+Iraq,2005,Total,89
+Rwanda,2005,Urban,9
+Viet Nam,2005,Urban,92
+Armenia,2005,Urban,94
+Iraq,2005,Urban,95
+Guinea-Bissau,2004,Rural,0
+Rwanda,2004,Rural,0
+Benin,2004,Rural,1
+Guinea-Bissau,2004,Total,1
+Bahrain,2004,Total,100
+North Macedonia,2004,Rural,100
+North Macedonia,2004,Total,100
+North Macedonia,2004,Urban,100
+Sierra Leone,2004,Total,11
+Central African Republic,2004,Rural,13
+Malawi,2004,Rural,13
+Uganda,2004,Urban,14
+Chad,2004,Total,15
+Malawi,2004,Total,15
+Central African Republic,2004,Total,16
+Madagascar,2004,Rural,16
+Eswatini,2004,Rural,17
+Togo,2004,Urban,18
+Guinea-Bissau,2004,Urban,2
+Niger,2004,Rural,2
+Rwanda,2004,Total,2
+Togo,2004,Rural,2
+Central African Republic,2004,Urban,20
+Sierra Leone,2004,Urban,20
+Burkina Faso,2004,Urban,24
+Burundi,2004,Urban,24
+Eswatini,2004,Total,24
+Madagascar,2004,Total,24
+Niger,2004,Urban,29
+Benin,2004,Total,3
+Malawi,2004,Urban,32
+Mongolia,2004,Rural,32
+Burkina Faso,2004,Rural,4
+Burundi,2004,Rural,4
+Chad,2004,Urban,40
+Madagascar,2004,Urban,42
+Eswatini,2004,Urban,48
+Sierra Leone,2004,Rural,5
+Uganda,2004,Rural,5
+Mongolia,2004,Total,59
+Burundi,2004,Total,6
+Niger,2004,Total,6
+Egypt,2004,Rural,60
+Benin,2004,Urban,7
+Togo,2004,Total,7
+Uganda,2004,Total,7
+Turkmenistan,2004,Rural,70
+Armenia,2004,Rural,71
+Bhutan,2004,Rural,71
+Egypt,2004,Total,72
+Bhutan,2004,Total,76
+Mongolia,2004,Urban,77
+Turkmenistan,2004,Total,78
+Burkina Faso,2004,Total,8
+Chad,2004,Rural,8
+Rwanda,2004,Urban,8
+Armenia,2004,Total,86
+Bhutan,2004,Urban,86
+Turkmenistan,2004,Urban,87
+Egypt,2004,Urban,88
+Armenia,2004,Urban,94
+Benin,2003,Rural,0
+Guinea-Bissau,2003,Rural,0
+Rwanda,2003,Rural,0
+Rwanda,2003,Total,1
+Bahrain,2003,Total,100
+North Macedonia,2003,Rural,100
+North Macedonia,2003,Total,100
+North Macedonia,2003,Urban,100
+Uganda,2003,Urban,12
+Malawi,2003,Rural,13
+Malawi,2003,Total,15
+Madagascar,2003,Rural,16
+Niger,2003,Rural,2
+Burkina Faso,2003,Urban,24
+Madagascar,2003,Total,24
+Niger,2003,Urban,29
+Benin,2003,Total,3
+Burkina Faso,2003,Rural,3
+Malawi,2003,Urban,32
+Uganda,2003,Rural,4
+Madagascar,2003,Urban,43
+Uganda,2003,Total,5
+Egypt,2003,Rural,58
+Benin,2003,Urban,6
+Niger,2003,Total,6
+Turkmenistan,2003,Rural,68
+Rwanda,2003,Urban,7
+Armenia,2003,Rural,70
+Egypt,2003,Total,71
+Turkmenistan,2003,Total,76
+Burkina Faso,2003,Total,8
+Armenia,2003,Total,85
+Turkmenistan,2003,Urban,86
+Egypt,2003,Urban,87
+Armenia,2003,Urban,94
+Benin,2002,Rural,0
+Guinea-Bissau,2002,Rural,0
+Rwanda,2002,Rural,0
+Rwanda,2002,Total,1
+Uganda,2002,Urban,10
+Bahrain,2002,Total,100
+North Macedonia,2002,Rural,100
+North Macedonia,2002,Total,100
+North Macedonia,2002,Urban,100
+Malawi,2002,Rural,13
+Malawi,2002,Total,15
+Madagascar,2002,Rural,17
+Benin,2002,Total,2
+Niger,2002,Rural,2
+Madagascar,2002,Total,24
+Burkina Faso,2002,Urban,25
+Niger,2002,Urban,29
+Burkina Faso,2002,Rural,3
+Uganda,2002,Rural,3
+Malawi,2002,Urban,32
+Uganda,2002,Total,4
+Madagascar,2002,Urban,43
+Benin,2002,Urban,5
+Rwanda,2002,Urban,5
+Egypt,2002,Rural,56
+Niger,2002,Total,6
+Turkmenistan,2002,Rural,65
+Armenia,2002,Rural,68
+Egypt,2002,Total,69
+Burkina Faso,2002,Total,7
+Turkmenistan,2002,Total,74
+Armenia,2002,Total,84
+Turkmenistan,2002,Urban,85
+Egypt,2002,Urban,87
+Armenia,2002,Urban,93
+Benin,2001,Rural,0
+Guinea-Bissau,2001,Rural,0
+Rwanda,2001,Rural,0
+Rwanda,2001,Total,0
+Rwanda,2001,Urban,1
+Bahrain,2001,Total,100
+North Macedonia,2001,Rural,100
+North Macedonia,2001,Total,100
+North Macedonia,2001,Urban,100
+Malawi,2001,Rural,13
+Malawi,2001,Total,15
+Madagascar,2001,Rural,17
+Benin,2001,Total,2
+Niger,2001,Rural,2
+Uganda,2001,Rural,2
+Madagascar,2001,Total,24
+Burkina Faso,2001,Urban,25
+Niger,2001,Urban,29
+Burkina Faso,2001,Rural,3
+Uganda,2001,Total,3
+Malawi,2001,Urban,33
+Madagascar,2001,Urban,43
+Benin,2001,Urban,5
+Egypt,2001,Rural,53
+Niger,2001,Total,6
+Turkmenistan,2001,Rural,63
+Armenia,2001,Rural,67
+Egypt,2001,Total,68
+Burkina Faso,2001,Total,7
+Turkmenistan,2001,Total,73
+Uganda,2001,Urban,8
+Armenia,2001,Total,84
+Turkmenistan,2001,Urban,84
+Egypt,2001,Urban,87
+Armenia,2001,Urban,93
+Benin,2000,Rural,0
+Guinea-Bissau,2000,Rural,0
+Rwanda,2000,Rural,0
+Rwanda,2000,Total,0
+Rwanda,2000,Urban,0
+Uganda,2000,Rural,1
+Bahrain,2000,Total,100
+North Macedonia,2000,Rural,100
+North Macedonia,2000,Total,100
+North Macedonia,2000,Urban,100
+Malawi,2000,Rural,13
+Malawi,2000,Total,15
+Madagascar,2000,Rural,17
+Benin,2000,Total,2
+Niger,2000,Rural,2
+Uganda,2000,Total,2
+Madagascar,2000,Total,24
+Burkina Faso,2000,Urban,25
+Niger,2000,Urban,29
+Burkina Faso,2000,Rural,3
+Malawi,2000,Urban,33
+Benin,2000,Urban,4
+Madagascar,2000,Urban,43
+Egypt,2000,Rural,51
+Niger,2000,Total,6
+Uganda,2000,Urban,6
+Turkmenistan,2000,Rural,61
+Armenia,2000,Rural,66
+Egypt,2000,Total,66
+Burkina Faso,2000,Total,7
+Turkmenistan,2000,Total,71
+Armenia,2000,Total,83
+Turkmenistan,2000,Urban,83
+Egypt,2000,Urban,86
+Armenia,2000,Urban,93

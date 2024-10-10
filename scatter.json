@@ -1,0 +1,34 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Plot showing average data for all countries with raw values in the background.",
+    "data": {
+      "url": "Amount of water- and sanitation-related.csv",
+      "format": {"type": "csv"}
+    },
+    "transform": [
+    {
+      "filter": {
+        "field": "Location",
+        "oneOf": ["Malaysia", "India", "Thailand", "Vietnam", "Indonesia"]
+      }
+    }
+  ],
+    "layer": [
+      {
+        "mark": {"type": "point", "opacity": 0.3},
+        "encoding": {
+          "x": {"timeUnit": "year", "field": "Period", "type": "temporal", "title": "Year"},
+          "y": {"field": "Value", "type": "quantitative", "title": "Value"},
+          "color": {"field": "Location", "type": "nominal", "title": "Country"}
+        }
+      },
+      {
+        "mark": {"type": "line", "color": "red", "size": 3},
+        "encoding": {
+          "x": {"timeUnit": "year", "field": "Period", "type": "temporal", "title": "Year"},
+          "y": {"aggregate": "mean", "field": "Value", "type": "quantitative", "title": "Average Value"}
+        }
+      }
+    ]
+  }
+  

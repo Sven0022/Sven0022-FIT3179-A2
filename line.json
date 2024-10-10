@@ -1,0 +1,47 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "merged_sanitation_data.csv",
+              "format": {"type": "csv"}
+    },
+    "transform": [
+      {"filter": "datum.Location == 'Bangladesh'"}
+    ],
+    "width": 500,
+    "height": 300,
+    "mark": "line",
+    "encoding": {
+      "x": {
+        "field": "Period",
+        "type": "temporal",
+        "title": "Year"
+      },
+      "y": {
+        "field": "value",
+        "type": "quantitative",
+        "title": "Percentage"
+      },
+      "color": {
+        "field": "variable",
+        "type": "nominal",
+        "title": "Sanitation Indicator"
+      }
+    },
+    "layer": [
+      {
+        "mark": "line",
+        "encoding": {
+          "y": {"field": "Total_defacation", "type": "quantitative"},
+          "color": {"value": "#1f77b4"}
+        }
+      },
+      {
+        "mark": "line",
+        "encoding": {
+          "y": {"field": "Total_handwash", "type": "quantitative"},
+          "color": {"value": "#ff7f0e"}
+        }
+      }
+    ]
+  }
+  

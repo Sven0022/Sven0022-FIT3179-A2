@@ -1,0 +1,46 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 600,
+  "height": 400,
+  "title": "Safe Water Access and Basic Sanitation for Urban and Rural Areas",
+  "data": {
+    "url": "merged_water_data.csv",
+    "format": {"type": "csv"}
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "Location",
+      "type": "nominal",
+      "title": "Country"
+    },
+    "y": {
+      "aggregate": "sum",
+      "field": "Value",
+      "type": "quantitative",
+      "title": "Population",
+      "stack": "normalize" 
+    },
+    "color": {
+      "field": "Region",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Rural_safe", "Urban_safe", "Rural_atleast", "Urban_atleast"],
+        "range": ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728"]
+      },
+      "title": "Region"
+    }
+  },
+  "transform": [
+    {
+      "filter": {
+        "field": "Location",
+        "oneOf": ["Malaysia", "India", "Thailand", "Vietnam", "Indonesia"]
+      }
+    },
+    {
+      "fold": ["Rural_safe", "Urban_safe", "Rural_atleast", "Urban_atleast"],
+      "as": ["Region", "Value"]
+    }
+  ]
+}

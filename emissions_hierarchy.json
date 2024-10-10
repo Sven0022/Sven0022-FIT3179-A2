@@ -1,0 +1,335 @@
+[
+    {
+        "id": "root",
+        "parent": "",
+        "name": "Root"
+    },
+    {
+        "id": "2014",
+        "parent": "root",
+        "name": "2014"
+    },
+    {
+        "id": "2014-total",
+        "parent": "2014",
+        "name": "total",
+        "emissions": 314788.47
+    },
+    {
+        "id": "2015",
+        "parent": "root",
+        "name": "2015"
+    },
+    {
+        "id": "2015-total",
+        "parent": "2015",
+        "name": "total",
+        "emissions": 318525.03
+    },
+    {
+        "id": "2016",
+        "parent": "root",
+        "name": "2016"
+    },
+    {
+        "id": "2016-total",
+        "parent": "2016",
+        "name": "total",
+        "emissions": 314179.45
+    },
+    {
+        "id": "2017",
+        "parent": "root",
+        "name": "2017"
+    },
+    {
+        "id": "2017-total",
+        "parent": "2017",
+        "name": "total",
+        "emissions": 316563.05
+    },
+    {
+        "id": "2018",
+        "parent": "root",
+        "name": "2018"
+    },
+    {
+        "id": "2018-total",
+        "parent": "2018",
+        "name": "total",
+        "emissions": 320866.78
+    },
+    {
+        "id": "2019",
+        "parent": "root",
+        "name": "2019"
+    },
+    {
+        "id": "2019-total",
+        "parent": "2019",
+        "name": "total",
+        "emissions": 330358.21
+    },
+    {
+        "id": "2020",
+        "parent": "root",
+        "name": "2020"
+    },
+    {
+        "id": "2020-total",
+        "parent": "2020",
+        "name": "total",
+        "emissions": 323378.81
+    },
+    {
+        "id": "2021",
+        "parent": "root",
+        "name": "2021"
+    },
+    {
+        "id": "2021-total",
+        "parent": "2021",
+        "name": "total",
+        "emissions": 325705.28
+    },
+    {
+        "id": "2014-net",
+        "parent": "2014",
+        "name": "net",
+        "emissions": 64835.93
+    },
+    {
+        "id": "2015-net",
+        "parent": "2015",
+        "name": "net",
+        "emissions": 74492.91
+    },
+    {
+        "id": "2016-net",
+        "parent": "2016",
+        "name": "net",
+        "emissions": 98804.4
+    },
+    {
+        "id": "2017-net",
+        "parent": "2017",
+        "name": "net",
+        "emissions": 73193.32
+    },
+    {
+        "id": "2018-net",
+        "parent": "2018",
+        "name": "net",
+        "emissions": 79602.7
+    },
+    {
+        "id": "2019-net",
+        "parent": "2019",
+        "name": "net",
+        "emissions": 115643.68
+    },
+    {
+        "id": "2020-net",
+        "parent": "2020",
+        "name": "net",
+        "emissions": 0
+    },
+    {
+        "id": "2021-net",
+        "parent": "2021",
+        "name": "net",
+        "emissions": 0
+    },
+    {
+        "id": "2014-energy",
+        "parent": "2014",
+        "name": "energy",
+        "emissions": 255079.75
+    },
+    {
+        "id": "2015-energy",
+        "parent": "2015",
+        "name": "energy",
+        "emissions": 256850.16
+    },
+    {
+        "id": "2016-energy",
+        "parent": "2016",
+        "name": "energy",
+        "emissions": 253850.16
+    },
+    {
+        "id": "2017-energy",
+        "parent": "2017",
+        "name": "energy",
+        "emissions": 252710.49
+    },
+    {
+        "id": "2018-energy",
+        "parent": "2018",
+        "name": "energy",
+        "emissions": 255231.55
+    },
+    {
+        "id": "2019-energy",
+        "parent": "2019",
+        "name": "energy",
+        "emissions": 259326.11
+    },
+    {
+        "id": "2020-energy",
+        "parent": "2020",
+        "name": "energy",
+        "emissions": 0
+    },
+    {
+        "id": "2021-energy",
+        "parent": "2021",
+        "name": "energy",
+        "emissions": 0
+    },
+    {
+        "id": "2014-industrial_processes",
+        "parent": "2014",
+        "name": "industrial_processes",
+        "emissions": 20235.4
+    },
+    {
+        "id": "2015-industrial_processes",
+        "parent": "2015",
+        "name": "industrial_processes",
+        "emissions": 22243.93
+    },
+    {
+        "id": "2016-industrial_processes",
+        "parent": "2016",
+        "name": "industrial_processes",
+        "emissions": 23746.04
+    },
+    {
+        "id": "2017-industrial_processes",
+        "parent": "2017",
+        "name": "industrial_processes",
+        "emissions": 24203.62
+    },
+    {
+        "id": "2018-industrial_processes",
+        "parent": "2018",
+        "name": "industrial_processes",
+        "emissions": 26697.07
+    },
+    {
+        "id": "2019-industrial_processes",
+        "parent": "2019",
+        "name": "industrial_processes",
+        "emissions": 32853.8
+    },
+    {
+        "id": "2020-industrial_processes",
+        "parent": "2020",
+        "name": "industrial_processes",
+        "emissions": 0
+    },
+    {
+        "id": "2021-industrial_processes",
+        "parent": "2021",
+        "name": "industrial_processes",
+        "emissions": 0
+    },
+    {
+        "id": "2014-agriculture",
+        "parent": "2014",
+        "name": "agriculture",
+        "emissions": 11095.67
+    },
+    {
+        "id": "2015-agriculture",
+        "parent": "2015",
+        "name": "agriculture",
+        "emissions": 10647.03
+    },
+    {
+        "id": "2016-agriculture",
+        "parent": "2016",
+        "name": "agriculture",
+        "emissions": 10711.36
+    },
+    {
+        "id": "2017-agriculture",
+        "parent": "2017",
+        "name": "agriculture",
+        "emissions": 11063.54
+    },
+    {
+        "id": "2018-agriculture",
+        "parent": "2018",
+        "name": "agriculture",
+        "emissions": 10690.29
+    },
+    {
+        "id": "2019-agriculture",
+        "parent": "2019",
+        "name": "agriculture",
+        "emissions": 9921.71
+    },
+    {
+        "id": "2020-agriculture",
+        "parent": "2020",
+        "name": "agriculture",
+        "emissions": 0
+    },
+    {
+        "id": "2021-agriculture",
+        "parent": "2021",
+        "name": "agriculture",
+        "emissions": 0
+    },
+    {
+        "id": "2014-waste",
+        "parent": "2014",
+        "name": "waste",
+        "emissions": 28377.66
+    },
+    {
+        "id": "2015-waste",
+        "parent": "2015",
+        "name": "waste",
+        "emissions": 28783.91
+    },
+    {
+        "id": "2016-waste",
+        "parent": "2016",
+        "name": "waste",
+        "emissions": 26565.41
+    },
+    {
+        "id": "2017-waste",
+        "parent": "2017",
+        "name": "waste",
+        "emissions": 28585.4
+    },
+    {
+        "id": "2018-waste",
+        "parent": "2018",
+        "name": "waste",
+        "emissions": 28247.87
+    },
+    {
+        "id": "2019-waste",
+        "parent": "2019",
+        "name": "waste",
+        "emissions": 28256.59
+    },
+    {
+        "id": "2020-waste",
+        "parent": "2020",
+        "name": "waste",
+        "emissions": 0
+    },
+    {
+        "id": "2021-waste",
+        "parent": "2021",
+        "name": "waste",
+        "emissions": 0
+    }
+]

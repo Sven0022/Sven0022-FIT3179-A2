@@ -1,0 +1,38 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "deaths_env.csv",
+    "format": {"type": "csv"}
+  },
+  "width": 500,
+  "height": 300,
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "Location",
+      "type": "nominal",
+      "title": "Country",
+      "sort": "-y"
+    },
+    "y": {
+      "field": "Value",
+      "type": "quantitative",
+      "title": "Value"
+    }
+  },
+  "transform": [
+    {
+      "filter": {
+        "field": "Location",
+        "oneOf":["Malaysia", "India", "Thailand", "Vietnam", "Indonesia"]
+      }
+    },
+    {
+      "calculate": "toNumber(replace(datum.Value, ' ', ''))",
+      "as": "Value"
+    },
+    {
+      "filter": "isValid(datum.Value)"
+    }
+  ]
+}
