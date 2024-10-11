@@ -41,8 +41,8 @@ h1 {
     width: 100%;
     overflow: hidden;
     margin-bottom: 60px;
-    padding: 0;
-    display: flex;
+    padding: 10px;  /* Added padding */
+    display: flex;  /* Ensure flexbox alignment */
     justify-content: center;
     align-items: center;
 }
@@ -53,8 +53,9 @@ h1 {
 }
 
 /* Pure CSS for stacking right side */
-.pure-g > .pure-u-1-2 {
-    max-width: 50%; /* Set to 50% width for each section in row */
+.pure-u-1-2 {
+    width: 48%; /* Adjust to leave space between charts */
+    margin-right: 2%;
 }
 
 /* Adjust right container to prevent charts from cutting off */
@@ -99,6 +100,10 @@ h1 {
 
     .pure-g > div {
         width: 100%; /* Stacks on smaller screens */
+    }
+    .pure-u-1-2 {
+        width: 100%;
+        margin-right: 0;
     }
 }
 
