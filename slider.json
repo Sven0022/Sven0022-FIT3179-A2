@@ -1,46 +1,50 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "An interval brush to select a range of years without filtering the chart, showing data from 2006 to 2022.",
-  "data": {
-    "url": "population.csv",
-    "format": {"type": "csv"}
-  },
-  "transform": [
-    {
-      "filter": "year(datum.Year) >= 2006 && year(datum.Year) <= 2022"
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "An interval brush to select a range of years without filtering the chart, showing data from 2006 to 2022.",
+    "data": {
+      "url": "population.csv",
+      "format": {"type": "csv"}
     },
-    {
-      "filter": {
+    "transform": [
+      {
+        "filter": "year(datum.Year) >= 2006 && year(datum.Year) <= 2022"
+      },
+      {
+        "filter": {
+          "field": "Country Name",
+          "oneOf": ["Malaysia", "India", "Thailand", "Vietnam", "Indonesia"]
+        }
+      }
+    ],
+    "width": "container",
+    "height": 150,
+    "mark": "area",
+    "params": [
+      {
+        "name": "year_brush",
+        "select": {
+          "type": "interval",
+          "encodings": ["x"]
+        }
+      }
+    ],
+    "encoding": {
+      "x": {
+        "field": "Year",
+        "type": "temporal",
+        "title": "Select Year Range"
+      },
+      "y": {
+        "aggregate": "sum",
+        "field": "Population",
+        "type": "quantitative",
+        "title": "Population"
+      },
+      "color": {
         "field": "Country Name",
-        "oneOf": ["Malaysia", "India", "Thailand", "Vietnam", "Indonesia"]
+        "type": "nominal",
+        "title": "Country"
       }
     }
-  ],
-  "width": "container",
-  "height": 151,
-  "mark": "area",
-  "params": [
-    {
-      "name": "year_brush",
-      "select": {"type": "interval", "encodings": ["x"]}
-    }
-  ],
-  "encoding": {
-    "x": {
-      "field": "Year",
-      "type": "temporal",
-      "title": "Select Year Range"
-    },
-    "y": {
-      "aggregate": "sum",
-      "field": "Population",
-      "type": "quantitative",
-      "title": "Population"
-    },
-    "color": {
-      "field": "Country Name",
-      "type": "nominal",
-      "title": "Country"
-    }
   }
-}
+  
