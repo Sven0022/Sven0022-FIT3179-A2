@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": " showing average data for all countries with raw values in the background.",
     "width": "container",  
-    "height": 500,
+    "height": 400,
     "data": {
       "url": "Amount of water- and sanitation-related.csv",
       "format": {"type": "csv"}
