@@ -1,4 +1,3 @@
-/* Global Styles */
 body, html {
     font-family: 'Open Sans', sans-serif;
     background-color: lightgray;
@@ -93,8 +92,6 @@ h1 {
     max-width: 100%;
     overflow: hidden;
 }
-
-/* Responsive Media Queries */
 @media (max-width: 768px) {
     .page {
         padding: 30px 10px;
