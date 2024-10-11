@@ -8,9 +8,9 @@
     {"filter": "datum.Location == 'Bangladesh'"},
     {
       "filter": {
+        "param": "year_brush",
         "field": "Period",
-        "timeUnit": "year",
-        "range": {"param": "year_brush"}
+        "timeUnit": "year"
       }
     }
   ],
