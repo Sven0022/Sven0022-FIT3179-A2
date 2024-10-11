@@ -22,11 +22,7 @@
   "params": [
     {
       "name": "year_brush",
-      "select": {
-        "type": "interval",
-        "encodings": ["x"]
-      },
-      "bind": "scales"
+      "select": {"type": "interval", "encodings": ["x"]}
     }
   ],
   "encoding": {
