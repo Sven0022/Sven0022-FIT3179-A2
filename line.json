@@ -5,7 +5,14 @@
     "format": {"type": "csv"}
   },
   "transform": [
-    {"filter": "datum.Location == 'Bangladesh'"}
+    {"filter": "datum.Location == 'Bangladesh'"},
+    {
+      "filter": {
+        "field": "Period",
+        "timeUnit": "year",
+        "range": {"param": "year_brush"}
+      }
+    }
   ],
   "width": "container",
   "height": 400,
@@ -20,14 +27,22 @@
     {
       "mark": "line",
       "encoding": {
-        "y": {"field": "Total_defacation", "type": "quantitative", "title": "Total Defecation (%)"},
+        "y": {
+          "field": "Total_defacation",
+          "type": "quantitative",
+          "title": "Total Defecation (%)"
+        },
         "color": {"value": "#1f77b4"}
       }
     },
     {
       "mark": "line",
       "encoding": {
-        "y": {"field": "Total_handwash", "type": "quantitative", "title": "Total Handwashing (%)"},
+        "y": {
+          "field": "Total_handwash",
+          "type": "quantitative",
+          "title": "Total Handwashing (%)"
+        },
         "color": {"value": "#ff7f0e"}
       }
     }
