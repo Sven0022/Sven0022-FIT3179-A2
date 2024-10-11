@@ -42,7 +42,7 @@ h1 {
     width: auto;
     max-width: 100%;
     overflow: hidden;
-    margin-bottom: 60px; /* Increased margin for more space between rows */
+    margin-bottom: 40px; /* Adjusted margin for spacing between rows */
     display: flex;
     justify-content: center;
     padding: 0;
@@ -57,19 +57,27 @@ h1 {
     justify-content: center;
 }
 
-/* Adjust height and width for the slider chart */
-#slider-chart {
+/* Map Container - Larger size */
+#map {
     width: 100%;
-    height: 200px; /* Increased height for larger chart */
-    margin-top: 20px;
+    max-width: 100%;
+    height: 600px; /* Larger height for the map */
     overflow: hidden;
 }
 
-/* Increase height and prevent overflow for other charts */
-#map, #line-chart, #scatter-plot, #bar-chart, #marimekko-chart {
+/* Other charts - Uniform size */
+#line-chart, #scatter-plot, #bar-chart, #marimekko-chart, #treemap, .stacked-container {
     width: 100%;
     max-width: 100%;
-    height: 500px;
+    height: 400px; /* Standardized height for all other charts */
+    overflow: hidden;
+}
+
+/* Adjust height and width for the slider chart */
+#slider-chart {
+    width: 100%;
+    height: 150px; /* Adjusted height for slider chart */
+    margin-top: 20px;
     overflow: hidden;
 }
 
