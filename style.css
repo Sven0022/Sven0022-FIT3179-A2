@@ -57,6 +57,10 @@ h1 {
 .pure-u-1-2 {
     width: 48%; /* Adjust to leave space between charts */
     margin-right: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 /* Adjust right container to prevent charts from cutting off */
@@ -129,7 +133,6 @@ h1 {
     overflow: hidden;
     box-sizing: border-box;  /* Include padding and border in the element's total width and height */
 }
-
 
 /* Content Rows */
 .pure-g {
