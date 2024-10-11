@@ -1,172 +1,41 @@
-body, html {
-    font-family: 'Open Sans', sans-serif;
-    background-color: lightgray;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-h1 {
-    font-weight: 900;
-}
-
-/* Page Layout */
-.page {
-    max-width: 1200px; /* Increased max-width to make the page wider */
-    background-color: white;
-    margin: 40px auto;
-    padding: 50px 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-/* Bubble Title Styling */
-.bubble-title {
-    text-align: center;
-    background-color: #6abf4b;
-    color: white;
-    padding: 20px;
-    margin-bottom: 20px;
-    border-radius: 25px;
-    font-size: 36px;
-    font-weight: bold;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-/* Visualization Container */
+/* Ensure all charts in the same row have the same height */
 .vis-container {
     width: 100%;
-    height: 500px;
-    overflow: hidden;
     margin-bottom: 60px;
-    padding: 10px;  /* Added padding */
-    display: flex;  /* Ensure flexbox alignment */
+    padding: 10px;
+    display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: stretch; /* Allow charts to stretch to the same height */
 }
 
+/* Make all chart containers flexible with equal heights */
 .vis-container > div {
     width: 100%;
-    height: 500px; /* Keep height fixed for both charts */
+    height: auto; /* Remove fixed height */
+    flex: 1 1 auto; /* Allow the chart to grow and shrink as needed */
 }
 
 /* Pure CSS for stacking right side */
 .pure-u-1-2 {
-    width: 48%; /* Adjust to leave space between charts */
+    width: 48%;
     margin-right: 2%;
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
 }
 
-/* Adjust right container to prevent charts from cutting off */
-.right-container {
+/* Ensure right side charts take equal height */
+.right-container .stacked-container {
+    flex: 1;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-    height: 100%;
+    justify-content: center;
 }
 
-.stacked-container {
-    margin-bottom: 30px;
-    width: 100%; /* Ensure it takes up the full width */
-    overflow: hidden;
-}
-
-/* Description Styling */
-.description-container {
-    padding: 20px;
-    background-color: #f7f7f7;
-    border-radius: 10px;
-    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
-    text-align: left;
-}
-
-.description-container h2 {
-    font-size: 24px;
-    margin-bottom: 10px;
-}
-
-.description-container p {
-    font-size: 16px;
-    line-height: 1.5;
-    color: #333;
-}
-
-/* Ensure proper wrapping for smaller screens */
-@media (max-width: 768px) {
-    .pure-g {
-        flex-direction: column;
-    }
-
-    .pure-g > div {
-        width: 100%; /* Stacks on smaller screens */
-    }
-    .pure-u-1-2 {
-        width: 100%;
-        margin-right: 0;
-    }
-}
-
-/* Adjust height and width for the slider chart */
-#slider-chart {
+/* Ensure all charts are constrained within the container without being cut off */
+#map, #line-chart, #scatter-plot, #bar-chart, #marimekko-chart, #slider-chart {
     width: 100%;
-    height: 200px;
-    margin-top: 20px;
+    height: 100%; /* Let charts scale within their container */
+    max-height: 500px; /* Set a consistent maximum height */
     overflow: hidden;
-}
-
-#map, #line-chart, #scatter-plot, #bar-chart {
-    width: 100%;
-    max-width: 100%;
-    height: 500px;
-    overflow: hidden;
-}
-
-#marimekko-chart {
-    width: 100%;     /* Ensure the chart takes the full width of its container */
-    height: 600px;   /* Adjust the height as needed */
-    overflow: hidden;
-    box-sizing: border-box;  /* Include padding and border in the element's total width and height */
-}
-
-/* Content Rows */
-.pure-g {
-    width: 100%;
-    margin-bottom: 40px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    flex-wrap: wrap;
-}
-
-.pure-g > div {
-    background-color: #cccccc;
-    padding: 20px;
-    text-align: center;
-    margin-bottom: 60px;
-    box-sizing: border-box;
-    flex: 1 1 auto;
-    max-width: 100%;
-    overflow: hidden;
-}
-
-@media (max-width: 768px) {
-    .page {
-        padding: 30px 10px;
-    }
-
-    .pure-g {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .pure-g > div {
-        width: 100%;
-        max-width: none;
-    }
 }
