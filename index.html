@@ -71,31 +71,43 @@
 
     <!-- Embed the charts using Vega-Lite -->
     <script type="text/javascript">
-      // Define the paths to your Vega-Lite specification JSON files
-      var specMap = "map.json";
-      var specLineChart = "line.json";
-      var specScatterPlot = "scatter.json";
-      var specBarChart = "bar.json";
-      var specMarimekkoChart = "marimekko.json";
-      var specSlider = "slider.json";
+        // Define the paths to your Vega-Lite specification JSON files
+        var specMap = "map.json";
+        var specLineChart = "line.json";
+        var specScatterPlot = "scatter.json";
+        var specBarChart = "bar.json";
+        var specMarimekkoChart = "marimekko.json";
+        var specSlider = "slider.json";
 
-      // Embed the Map chart
-      vegaEmbed('#map', specMap, { "actions": false }).catch(console.error);
+        // Embed the Map chart
+        vegaEmbed('#map', specMap, { "actions": false }).catch(console.error);
 
-      // Embed the Line chart
-      vegaEmbed('#line-chart', specLineChart, { "actions": false }).catch(console.error);
+        // Embed the Bar and Marimekko charts (static, unrelated to year_brush)
+        vegaEmbed('#bar-chart', specBarChart, { "actions": false }).catch(console.error);
+        vegaEmbed('#marimekko-chart', specMarimekkoChart, { "actions": false }).catch(console.error);
 
-      // Embed the Scatter 
-      vegaEmbed('#scatter-plot', specScatterPlot, { "actions": false }).catch(console.error);
+        // Declare Vega View variables for charts
+        let sliderView, lineView, scatterView;
 
-      // Embed the Bar chart
-      vegaEmbed('#bar-chart', specBarChart, { "actions": false }).catch(console.error);
-
-      // Embed the Marimekko chart
-      vegaEmbed('#marimekko-chart', specMarimekkoChart, { "actions": false }).catch(console.error);
-
-      // Embed the S
-      vegaEmbed('#slider-chart', specSlider, { "actions": false }).catch(console.error);
+        // Embed the Slider chart (Brush selector)
+        vegaEmbed('#slider-chart', specSlider, { "actions": false }).then(result => {
+            sliderView = result.view;  // Store the view for future interaction
+            // Embed the Line chart after slider
+            return vegaEmbed('#line-chart', specLineChart, { "actions": false });
+        }).then(result => {
+            lineView = result.view;  // Store the line view
+            // Embed the Scatter chart after line chart
+            return vegaEmbed('#scatter-plot', specScatterPlot, { "actions": false });
+        }).then(result => {
+            scatterView = result.view;  // Store the scatter view
+            // Add listener to brush (slider) chart
+            sliderView.addSignalListener('year_brush', function (name, value) {
+                // Apply brush signal to Line chart
+                lineView.signal('year_brush', value).run();
+                // Apply brush signal to Scatter chart
+                scatterView.signal('year_brush', value).run();
+            });
+        }).catch(console.error);
     </script>
 </body>
 </html>
