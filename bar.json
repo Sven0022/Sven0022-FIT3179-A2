@@ -4,7 +4,7 @@
     "url": "deaths_env.csv",
     "format": {"type": "csv"}
   },
-  "width": 500,
+  "width": "container",
   "height": 300,
   "mark": "bar",
   "encoding": {
