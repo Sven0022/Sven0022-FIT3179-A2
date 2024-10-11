@@ -8,7 +8,7 @@
       {"filter": "datum.Location == 'Bangladesh'"}
     ],
     "width": "container",
-    "height": 500,
+    "height": 400,
     "mark": "line",
     "encoding": {
       "x": {
