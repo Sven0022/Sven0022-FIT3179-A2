@@ -8,7 +8,7 @@
     {"filter": "datum.Location == 'Bangladesh'"},
     {
       "filter": {
-        "param": "year_brush",  // Listen to year_brush from slider
+        "param": "year_brush",  
         "field": "Period",
         "timeUnit": "year"
       }
