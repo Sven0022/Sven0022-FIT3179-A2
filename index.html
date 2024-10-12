@@ -4,31 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Environmental Impacts Dashboard</title>
-    
-    <!-- Pure CSS Library Link -->
+     
     <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css">
     <link rel="stylesheet" href="style.css">
-    
-    <!-- Vega-Lite Libraries -->
+     
     <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 </head>
 <body>
-    <div class="page">
-        <!-- Bubble Title at the top -->
+    <div class="page"> 
         <div class="bubble-title">
-            Environmental Impacts
+            Environmental Impacts on the World
         </div>
-
-        <!-- Full-width Container (Row 1) for the map -->
+ 
         <div class="pure-g">
             <div class="pure-u-1 full-width-container">
                 <div id="map"></div>
             </div>
         </div>
-
-        <!-- Two containers side by side (Row 2) -->
+ 
         <div class="pure-g">
             <div class="pure-u-1-2 vis-container">
                 <div id="line-chart"></div>
@@ -37,65 +32,83 @@
                 <div id="scatter-plot"></div>
             </div>
         </div>
-
-        <!-- Full-width Container (Row 3) for the slider -->
+ 
         <div class="pure-g">
             <div class="pure-u-1 full-width-container">
                 <div id="slider-chart"></div>
             </div>
         </div>
 
-        <!-- Left description and right stacked containers (Row 4) -->
-        <div class="pure-g">
-            <!-- Left Description  -->
+        <div class="pure-g"> 
             <div class="pure-u-1-2 description-container">
                 <h2>About Malaysia</h2>
                 <p>
                     Malaysia, a Southeast Asian country, is known for its rich biodiversity, tropical climate, and vibrant culture. The country is committed to sustainable development goals, with initiatives in reducing air and water pollution, improving sanitation, and increasing access to clean energy. In recent years, Malaysia has taken steps to monitor river basin pollution and reduce greenhouse gas emissions.
+                Malaysia, a Southeast Asian country, is known for its rich biodiversity, tropical climate, and vibrant culture. The country is committed to sustainable development goals, with initiatives in reducing air and water pollution, improving sanitation, and increasing access to clean energy. In recent years, Malaysia has taken steps to monitor river basin pollution and reduce greenhouse gas emissions.Malaysia, a Southeast Asian country, is known for its rich biodiversity, tropical climate, and vibrant culture. The country is committed to sustainable development goals, with initiatives in reducing air and water pollution, improving sanitation, and increasing access to clean energy. In recent years, Malaysia has taken steps to monitor river basin pollution and reduce greenhouse gas emissions.
+                    Malaysia, a Southeast Asian country, is known for its rich biodiversity, tropical climate, and vibrant culture. The country is committed to sustainable development goals, with initiatives in reducing air and water pollution, improving sanitation, and increasing access to clean energy. In recent years, Malaysia has taken steps to monitor river basin pollution and reduce greenhouse gas emissions.
+                    Malaysia, a Southeast Asian country, is known for its rich biodiversity, tropical climate, and vibrant culture. The country is committed to sustainable development goals, with initiatives in reducing air and water pollution, improving sanitation, and increasing access to clean energy. In recent years, Malaysia has taken steps to monitor river basin pollution and reduce greenhouse gas emissions.
+                    Malaysia, a Southeast Asian country, is known for its rich biodiversity, tropical climate, and vibrant culture. The country is committed to sustainable development goals, with initiatives in reducing air and water pollution, improving sanitation, and increasing access to clean energy. In recent years, Malaysia has taken steps to monitor river basin pollution and reduce greenhouse gas emissions.
+                    Malaysia, a Southeast Asian country, is known for its rich biodiversity, tropical climate, and vibrant culture. The country is committed to sustainable development goals, with initiatives in reducing air and water pollution, improving sanitation, and increasing access to clean energy. In recent years, Malaysia has taken steps to monitor river basin pollution and reduce greenhouse gas emissions.
+                
+                
                 </p>
             </div>
-
-            <!-- Right Container with Bar and Marimekko charts -->
-            <div class="pure-u-1-2 right-container">
-                <!-- Top Right for Bar Chart -->
+ 
+            <div class="pure-u-1-2 right-container"> 
                 <div class="stacked-container vis-container">
                     <div id="bar-chart"></div>
-                </div>
-                <!-- Bottom Right for Marimekko Chart -->
+                </div> 
                 <div class="stacked-container vis-container">
-                    <div id="marimekko-chart"></div>
+                    <div id="marimekko-chart"></div> 
+                    <button id="playButton" class="pure-button pure-button-primary">Play</button>
                 </div>
             </div>
         </div>
     </div>
-
-    <!-- Embed the charts using Vega-Lite -->
+ 
     <script type="text/javascript">
-      // Define the paths to your Vega-Lite specification JSON files
+       
       var specMap = "map.json";
       var specLineChart = "line.json";
       var specScatterPlot = "scatter.json";
       var specBarChart = "bar.json";
-      var specMarimekkoChart = "marimekko.json";
+      var specMarimekkoChart = "marimekko.json";  
       var specSlider = "slider.json";
+      var viewMarimekko; 
 
-      // Embed the Map chart
+      var year = 2000; 
+      var playing = false; 
+      var interval; 
+
+      // Embed the charts
       vegaEmbed('#map', specMap, { "actions": false }).catch(console.error);
-
-      // Embed the Line chart
       vegaEmbed('#line-chart', specLineChart, { "actions": false }).catch(console.error);
-
-      // Embed the Scatter 
       vegaEmbed('#scatter-plot', specScatterPlot, { "actions": false }).catch(console.error);
-
-      // Embed the Bar chart
       vegaEmbed('#bar-chart', specBarChart, { "actions": false }).catch(console.error);
-
-      // Embed the Marimekko chart
-      vegaEmbed('#marimekko-chart', specMarimekkoChart, { "actions": false }).catch(console.error);
-
-      // Embed the S
       vegaEmbed('#slider-chart', specSlider, { "actions": false }).catch(console.error);
+      vegaEmbed('#marimekko-chart', specMarimekkoChart, { "actions": false }).then(function(result) {
+        viewMarimekko = result.view;
+        viewMarimekko.signal("selectedYear", year).run(); 
+      }).catch(console.error);
+
+      function playMarimekko() {
+        if (playing) {
+          clearInterval(interval); 
+          playing = false;
+        } else {
+          interval = setInterval(function() {
+            if (year < 2022) {
+              year++;
+            } else {
+              year = 2000; 
+            }
+            viewMarimekko.signal("selectedYear", year).run();
+          }, 1000); 
+          playing = true;
+        }
+      }
+
+      document.getElementById("playButton").addEventListener("click", playMarimekko);
     </script>
 </body>
 </html>
