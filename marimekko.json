@@ -1,12 +1,40 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": "container",
-  "height": 350,
+  "height": 400,
   "title": "Safe Water Access and Basic Sanitation for Urban and Rural Areas",
   "data": {
     "url": "merged_water_data.csv",
     "format": {"type": "csv"}
   },
+  "params": [
+    {
+      "name": "selectedYear",
+      "value": 2021,
+      "bind": {
+        "input": "range",
+        "min": 2000,
+        "max": 2022,
+        "step": 1,
+        "name": "Select a year"
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.Period == selectedYear"
+    },
+    {
+      "filter": {
+        "field": "Location",
+        "oneOf": ["Malaysia", "India", "Thailand", "Vietnam", "Indonesia"]
+      }
+    },
+    {
+      "fold": ["Rural_safe", "Urban_safe", "Rural_atleast", "Urban_atleast"],
+      "as": ["Region", "Value"]
+    }
+  ],
   "mark": "bar",
   "encoding": {
     "x": {
@@ -19,7 +47,7 @@
       "field": "Value",
       "type": "quantitative",
       "title": "Population",
-      "stack": "normalize" 
+      "stack": "normalize"
     },
     "color": {
       "field": "Region",
@@ -29,18 +57,11 @@
         "range": ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728"]
       },
       "title": "Region"
-    }
-  },
-  "transform": [
-    {
-      "filter": {
-        "field": "Location",
-        "oneOf": ["Malaysia", "India", "Thailand", "Vietnam", "Indonesia"]
-      }
     },
-    {
-      "fold": ["Rural_safe", "Urban_safe", "Rural_atleast", "Urban_atleast"],
-      "as": ["Region", "Value"]
-    }
-  ]
+    "tooltip": [
+      {"field": "Location", "title": "Country"},
+      {"field": "Period", "title": "Year"},
+      {"field": "Value", "title": "Population", "format": ","}
+    ]
+  }
 }
