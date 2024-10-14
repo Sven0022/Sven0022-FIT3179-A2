@@ -42,7 +42,7 @@
         {
           "name": "gaugeScaleEnergy",
           "type": "linear",
-          "domain": [0, 330358.21],
+          "domain": [0, 330358.2],
           "range": [-1.5708, 1.5708]
         }
       ],
