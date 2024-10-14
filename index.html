@@ -4,110 +4,121 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Environmental Impacts Dashboard</title>
-     
+    
+    <!-- Pure CSS Library Link -->
     <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css">
     <link rel="stylesheet" href="style.css">
-     
+    
+    <!-- Vega-Lite Libraries -->
     <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 </head>
 <body>
-    <div class="page"> 
+    <div class="page">
+        <!-- Bubble Title at the top -->
         <div class="bubble-title">
-            Environmental Impacts on the World
+            Environmental Impacts
         </div>
- 
+
+        <!-- Full-width Container (Row 1) for the map -->
         <div class="pure-g">
             <div class="pure-u-1 full-width-container">
                 <div id="map"></div>
             </div>
         </div>
- 
+
+        <!-- Two containers side by side (Row 2) -->
         <div class="pure-g">
             <div class="pure-u-1-2 vis-container">
                 <div id="line-chart"></div>
             </div>
             <div class="pure-u-1-2 vis-container">
                 <div id="scatter-plot"></div>
-            </div>
-        </div>
- 
-        <div class="pure-g">
-            <div class="pure-u-1 full-width-container">
-                <div id="slider-chart"></div>
+                <!-- Play button for the Scatter Plot -->
+                <button id="playButtonScatter" class="pure-button pure-button-primary">Play</button>
             </div>
         </div>
 
-        <div class="pure-g"> 
+        <!-- Full-width Container (Row 3) for the slider -->
+        <div class="pure-g">
+            <div class="pure-u-1 full-width-container">
+                <div id="gauge-chart"></div>
+            </div>
+        </div>
+
+        <!-- Left description and right stacked containers (Row 4) -->
+        <div class="pure-g">
+            <!-- Left Description  -->
             <div class="pure-u-1-2 description-container">
                 <h2>About Malaysia</h2>
                 <p>
                     Malaysia, a Southeast Asian country, is known for its rich biodiversity, tropical climate, and vibrant culture. The country is committed to sustainable development goals, with initiatives in reducing air and water pollution, improving sanitation, and increasing access to clean energy. In recent years, Malaysia has taken steps to monitor river basin pollution and reduce greenhouse gas emissions.
-                Malaysia, a Southeast Asian country, is known for its rich biodiversity, tropical climate, and vibrant culture. The country is committed to sustainable development goals, with initiatives in reducing air and water pollution, improving sanitation, and increasing access to clean energy. In recent years, Malaysia has taken steps to monitor river basin pollution and reduce greenhouse gas emissions.Malaysia, a Southeast Asian country, is known for its rich biodiversity, tropical climate, and vibrant culture. The country is committed to sustainable development goals, with initiatives in reducing air and water pollution, improving sanitation, and increasing access to clean energy. In recent years, Malaysia has taken steps to monitor river basin pollution and reduce greenhouse gas emissions.
-                    Malaysia, a Southeast Asian country, is known for its rich biodiversity, tropical climate, and vibrant culture. The country is committed to sustainable development goals, with initiatives in reducing air and water pollution, improving sanitation, and increasing access to clean energy. In recent years, Malaysia has taken steps to monitor river basin pollution and reduce greenhouse gas emissions.
-                    Malaysia, a Southeast Asian country, is known for its rich biodiversity, tropical climate, and vibrant culture. The country is committed to sustainable development goals, with initiatives in reducing air and water pollution, improving sanitation, and increasing access to clean energy. In recent years, Malaysia has taken steps to monitor river basin pollution and reduce greenhouse gas emissions.
-                    Malaysia, a Southeast Asian country, is known for its rich biodiversity, tropical climate, and vibrant culture. The country is committed to sustainable development goals, with initiatives in reducing air and water pollution, improving sanitation, and increasing access to clean energy. In recent years, Malaysia has taken steps to monitor river basin pollution and reduce greenhouse gas emissions.
-                    Malaysia, a Southeast Asian country, is known for its rich biodiversity, tropical climate, and vibrant culture. The country is committed to sustainable development goals, with initiatives in reducing air and water pollution, improving sanitation, and increasing access to clean energy. In recent years, Malaysia has taken steps to monitor river basin pollution and reduce greenhouse gas emissions.
-                
-                
                 </p>
             </div>
- 
-            <div class="pure-u-1-2 right-container"> 
+
+            <!-- Right Container with Bar and Marimekko charts -->
+            <div class="pure-u-1-2 right-container">
+                <!-- Top Right for Bar Chart -->
                 <div class="stacked-container vis-container">
                     <div id="bar-chart"></div>
-                </div> 
+                </div>
+                <!-- Bottom Right for Marimekko Chart -->
                 <div class="stacked-container vis-container">
-                    <div id="marimekko-chart"></div> 
+                    <div id="marimekko-chart"></div>
+                    <!-- Play button for the Marimekko Chart -->
                     <button id="playButton" class="pure-button pure-button-primary">Play</button>
                 </div>
             </div>
         </div>
     </div>
- 
+
+    <!-- Embed the charts using Vega-Lite -->
     <script type="text/javascript">
-       
       var specMap = "map.json";
       var specLineChart = "line.json";
       var specScatterPlot = "scatter.json";
       var specBarChart = "bar.json";
-      var specMarimekkoChart = "marimekko.json";  
-      var specSlider = "slider.json";
-      var viewMarimekko; 
+      var specMarimekkoChart = "marimekko.json";
+      var specgauge= "gauge.json";
+      var viewMarimekko;
+      var viewScatterPlot; // Store the view instance for Scatter Plot
 
-      var year = 2000; 
-      var playing = false; 
-      var interval; 
+      var year = 2000; // Initial year
+      var playing = false; // To toggle play/pause state
+      var interval; // To store the auto-play interval
 
-      // Embed the charts
       vegaEmbed('#map', specMap, { "actions": false }).catch(console.error);
       vegaEmbed('#line-chart', specLineChart, { "actions": false }).catch(console.error);
-      vegaEmbed('#scatter-plot', specScatterPlot, { "actions": false }).catch(console.error);
+      vegaEmbed('#scatter-plot', specScatterPlot, { "actions": false }).then(function(result) {
+        viewScatterPlot = result.view;
+        viewScatterPlot.signal("selectedYear", year).run(); // Set the initial year for the Scatter Plot
+      }).catch(console.error);
       vegaEmbed('#bar-chart', specBarChart, { "actions": false }).catch(console.error);
-      vegaEmbed('#slider-chart', specSlider, { "actions": false }).catch(console.error);
+      vegaEmbed('#gauge-chart', specgauge, { "actions": false }).catch(console.error);
       vegaEmbed('#marimekko-chart', specMarimekkoChart, { "actions": false }).then(function(result) {
         viewMarimekko = result.view;
-        viewMarimekko.signal("selectedYear", year).run(); 
+        viewMarimekko.signal("selectedYear", year).run(); // Set the initial year for the Marimekko Chart
       }).catch(console.error);
 
-      function playMarimekko() {
+      function playScatterPlot() {
         if (playing) {
-          clearInterval(interval); 
+          clearInterval(interval);
           playing = false;
         } else {
           interval = setInterval(function() {
             if (year < 2022) {
               year++;
             } else {
-              year = 2000; 
+              year = 2000;
             }
-            viewMarimekko.signal("selectedYear", year).run();
-          }, 1000); 
+            viewScatterPlot.signal("selectedYear", year).run(); // Update the year signal for Scatter Plot
+          }, 1000);
           playing = true;
         }
       }
 
+      document.getElementById("playButtonScatter").addEventListener("click", playScatterPlot);
       document.getElementById("playButton").addEventListener("click", playMarimekko);
     </script>
 </body>
