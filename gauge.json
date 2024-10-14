@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "title": "Greenhouse Gas Emissions by Sector (2017)",
-  "width": 1200,
-  "height": 1200,
+  "width": "container",
+  "height": 300,
   "signals": [
     {"name": "PI", "value": 3.141592653589793},
     {"name": "fontFactor", "value": 1},
