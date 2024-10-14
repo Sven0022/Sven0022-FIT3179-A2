@@ -39,11 +39,10 @@ h1 {
 /* Visualization Container */
 .vis-container {
     width: 100%;
-    height: 500px;
     overflow: hidden;
     margin-bottom: 60px;
-    padding: 10px;  /* Added padding */
-    display: flex;  /* Ensure flexbox alignment */
+    padding: 0;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
@@ -54,13 +53,8 @@ h1 {
 }
 
 /* Pure CSS for stacking right side */
-.pure-u-1-2 {
-    width: 48%; /* Adjust to leave space between charts */
-    margin-right: 2%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+.pure-g > .pure-u-1-2 {
+    max-width: 50%; /* Set to 50% width for each section in row */
 }
 
 /* Adjust right container to prevent charts from cutting off */
@@ -106,14 +100,10 @@ h1 {
     .pure-g > div {
         width: 100%; /* Stacks on smaller screens */
     }
-    .pure-u-1-2 {
-        width: 100%;
-        margin-right: 0;
-    }
 }
 
 /* Adjust height and width for the slider chart */
-#slider-chart {
+#gauge-chart {
     width: 100%;
     height: 200px;
     margin-top: 20px;
@@ -133,6 +123,7 @@ h1 {
     overflow: hidden;
     box-sizing: border-box;  /* Include padding and border in the element's total width and height */
 }
+
 
 /* Content Rows */
 .pure-g {
