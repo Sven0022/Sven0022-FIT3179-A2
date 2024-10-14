@@ -4,8 +4,8 @@
     "url": "merged_sanitation_data.csv",
     "format": {"type": "csv"}
   },
-  "width": "container",
-  "height": 250,
+  "width": "container",  
+  "height": 400,
   "params": [
     {
       "name": "selectedCountry",
