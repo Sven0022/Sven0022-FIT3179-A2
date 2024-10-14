@@ -1,0 +1,451 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "title": "Greenhouse Gas Emissions by Sector (2017)",
+  "width": 1200,
+  "height": 1200,
+  "signals": [
+    {"name": "PI", "value": 3.141592653589793},
+    {"name": "fontFactor", "value": 1},
+    {"name": "unit", "value": " MtCO2e"}
+  ],
+  "data": [
+    {
+      "name": "ticks",
+      "values": [0, 100000, 200000, 330358.21]
+    }
+  ],
+  "marks": [
+    {
+      "type": "group",
+      "title": "Energy Emissions in 2017",
+      "encode": {
+        "enter": {
+          "x": {"value": 0},
+          "y": {"value": 0},
+          "width": {"value": 600},
+          "height": {"value": 600}
+        }
+      },
+      "signals": [
+        {"name": "mainValueEnergy", "value": 259326.11 },
+        {"name": "centerX", "value": 300},
+        {"name": "centerY", "value": 300},
+        {"name": "outerRadius", "value": 280},
+        {"name": "innerRadius", "value": 240},
+        {"name": "fillColor", "value": "#ff0000"},
+        {"name": "backgroundColor", "value": "#ddd"},
+        {"name": "ticksColor", "value": "#000"},
+        {"name": "needleColor", "value": "#000"},
+        {"name": "needleSize", "value": 200}
+      ],
+      "scales": [
+        {
+          "name": "gaugeScaleEnergy",
+          "type": "linear",
+          "domain": [0, 330358.21],
+          "range": [-1.5708, 1.5708]
+        }
+      ],
+      "marks": [
+        {
+          "type": "arc",
+          "encode": {
+            "enter": {
+              "x": {"signal": "centerX"},
+              "y": {"signal": "centerY"},
+              "startAngle": {"value": -1.5708},
+              "endAngle": {"value": 1.5708},
+              "outerRadius": {"signal": "outerRadius"},
+              "innerRadius": {"signal": "innerRadius"},
+              "fill": {"signal": "backgroundColor"}
+            }
+          }
+        },
+        {
+          "type": "arc",
+          "encode": {
+            "enter": {"startAngle": {"value": -1.5708}},
+            "update": {
+              "x": {"signal": "centerX"},
+              "y": {"signal": "centerY"},
+              "innerRadius": {"signal": "innerRadius"},
+              "outerRadius": {"signal": "outerRadius"},
+              "endAngle": {"scale": "gaugeScaleEnergy", "signal": "mainValueEnergy"},
+              "fill": {"signal": "fillColor"}
+            }
+          }
+        },
+        {
+          "type": "arc",
+          "description": "ticks on the arc",
+          "from": {"data": "ticks"},
+          "encode": {
+            "enter": {
+              "x": {"signal": "centerX"},
+              "y": {"signal": "centerY"},
+              "outerRadius": {"signal": "outerRadius"},
+              "innerRadius": {"signal": "outerRadius - 20"},
+              "startAngle": {"scale": "gaugeScaleEnergy", "field": "data"},
+              "endAngle": {"scale": "gaugeScaleEnergy", "field": "data"},
+              "stroke": {"signal": "ticksColor"},
+              "strokeWidth": {"value": 2}
+            }
+          }
+        },
+        {
+          "type": "text",
+          "name": "gaugeValue",
+          "encode": {
+            "enter": {
+              "x": {"signal": "centerX"},
+              "baseline": {"value": "top"},
+              "align": {"value": "center"}
+            },
+            "update": {
+              "text": {"signal": "format(mainValueEnergy, '.2f') + unit"},
+              "y": {"signal": "centerY", "offset": {"signal": "fontFactor * 5"}},
+              "fontSize": {"signal": "fontFactor * 14"}
+            }
+          }
+        },
+        {
+          "type": "symbol",
+          "name": "needle",
+          "encode": {
+            "enter": {"x": {"signal": "centerX"}, "y": {"signal": "centerY"}},
+            "update": {
+              "angle": {"signal": "mainValueEnergy", "scale": "gaugeScaleEnergy"},
+              "size": {"signal": "4"},
+              "stroke": {"signal": "needleColor"},
+              "fill": {"signal": "needleColor"}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "title": "Industrial Processes Emissions in 2017",
+      "encode": {
+        "enter": {
+          "x": {"value": 600},
+          "y": {"value": 0},
+          "width": {"value": 600},
+          "height": {"value": 600}
+        }
+      },
+      "signals": [
+        {"name": "mainValueIndustrial", "value": 32853.8},
+        {"name": "centerXIndustrial", "value": 300},
+        {"name": "centerYIndustrial", "value": 300},
+        {"name": "outerRadiusIndustrial", "value": 280},
+        {"name": "innerRadiusIndustrial", "value": 240},
+        {"name": "fillColorIndustrial", "value": "#ff8000"},
+        {"name": "backgroundColorIndustrial", "value": "#ddd"},
+        {"name": "ticksColorIndustrial", "value": "#000"},
+        {"name": "needleColorIndustrial", "value": "#000"},
+        {"name": "needleSizeIndustrial", "value": 200}
+      ],
+      "scales": [
+        {
+          "name": "gaugeScaleIndustrial",
+          "type": "linear",
+          "domain": [0, 330358.21],
+          "range": [-1.5708, 1.5708]
+        }
+      ],
+      "marks": [
+        {
+          "type": "arc",
+          "encode": {
+            "enter": {
+              "x": {"signal": "centerXIndustrial"},
+              "y": {"signal": "centerYIndustrial"},
+              "startAngle": {"value": -1.5708},
+              "endAngle": {"value": 1.5708},
+              "outerRadius": {"signal": "outerRadiusIndustrial"},
+              "innerRadius": {"signal": "innerRadiusIndustrial"},
+              "fill": {"signal": "backgroundColorIndustrial"}
+            }
+          }
+        },
+        {
+          "type": "arc",
+          "encode": {
+            "enter": {"startAngle": {"value": -1.5708}},
+            "update": {
+              "x": {"signal": "centerXIndustrial"},
+              "y": {"signal": "centerYIndustrial"},
+              "innerRadius": {"signal": "innerRadiusIndustrial"},
+              "outerRadius": {"signal": "outerRadiusIndustrial"},
+              "endAngle": {"scale": "gaugeScaleIndustrial", "signal": "mainValueIndustrial"},
+              "fill": {"signal": "fillColorIndustrial"}
+            }
+          }
+        },
+        {
+          "type": "arc",
+          "description": "ticks on the arc",
+          "from": {"data": "ticks"},
+          "encode": {
+            "enter": {
+              "x": {"signal": "centerXIndustrial"},
+              "y": {"signal": "centerYIndustrial"},
+              "outerRadius": {"signal": "outerRadiusIndustrial"},
+              "innerRadius": {"signal": "outerRadiusIndustrial - 20"},
+              "startAngle": {"scale": "gaugeScaleIndustrial", "field": "data"},
+              "endAngle": {"scale": "gaugeScaleIndustrial", "field": "data"},
+              "stroke": {"signal": "ticksColorIndustrial"},
+              "strokeWidth": {"value": 2}
+            }
+          }
+        },
+        {
+          "type": "text",
+          "name": "gaugeValueIndustrial",
+          "encode": {
+            "enter": {
+              "x": {"signal": "centerXIndustrial"},
+              "baseline": {"value": "top"},
+              "align": {"value": "center"}
+            },
+            "update": {
+              "text": {"signal": "format(mainValueIndustrial, '.2f') + unit"},
+              "y": {"signal": "centerYIndustrial", "offset": {"signal": "fontFactor * 5"}},
+              "fontSize": {"signal": "fontFactor * 14"}
+            }
+          }
+        },
+        {
+          "type": "symbol",
+          "name": "needleIndustrial",
+          "encode": {
+            "enter": {"x": {"signal": "centerXIndustrial"}, "y": {"signal": "centerYIndustrial"}},
+            "update": {
+              "angle": {"signal": "mainValueIndustrial", "scale": "gaugeScaleIndustrial"},
+              "size": {"signal": "4"},
+              "stroke": {"signal": "needleColorIndustrial"},
+              "fill": {"signal": "needleColorIndustrial"}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "title": "Agriculture Emissions in 2017",
+      "encode": {
+        "enter": {
+          "x": {"value": 1200},
+          "y": {"value": 0},
+          "width": {"value": 600},
+          "height": {"value": 600}
+        }
+      },
+      "signals": [
+        {"name": "mainValueAgriculture", "value": 9921.71},
+        {"name": "centerXAgriculture", "value": 300},
+        {"name": "centerYAgriculture", "value": 300},
+        {"name": "outerRadiusAgriculture", "value": 280},
+        {"name": "innerRadiusAgriculture", "value": 240},
+        {"name": "fillColorAgriculture", "value": "#00ff00"},
+        {"name": "backgroundColorAgriculture", "value": "#ddd"},
+        {"name": "ticksColorAgriculture", "value": "#000"},
+        {"name": "needleColorAgriculture", "value": "#000"},
+        {"name": "needleSizeAgriculture", "value": 200}
+      ],
+      "scales": [
+        {
+          "name": "gaugeScaleAgriculture",
+          "type": "linear",
+          "domain": [0, 330358.21],
+          "range": [-1.5708, 1.5708]
+        }
+      ],
+      "marks": [
+        {
+          "type": "arc",
+          "encode": {
+            "enter": {
+              "x": {"signal": "centerXAgriculture"},
+              "y": {"signal": "centerYAgriculture"},
+              "startAngle": {"value": -1.5708},
+              "endAngle": {"value": 1.5708},
+              "outerRadius": {"signal": "outerRadiusAgriculture"},
+              "innerRadius": {"signal": "innerRadiusAgriculture"},
+              "fill": {"signal": "backgroundColorAgriculture"}
+            }
+          }
+        },
+        {
+          "type": "arc",
+          "encode": {
+            "enter": {"startAngle": {"value": -1.5708}},
+            "update": {
+              "x": {"signal": "centerXAgriculture"},
+              "y": {"signal": "centerYAgriculture"},
+              "innerRadius": {"signal": "innerRadiusAgriculture"},
+              "outerRadius": {"signal": "outerRadiusAgriculture"},
+              "endAngle": {"scale": "gaugeScaleAgriculture", "signal": "mainValueAgriculture"},
+              "fill": {"signal": "fillColorAgriculture"}
+            }
+          }
+        },
+        {
+          "type": "arc",
+          "description": "ticks on the arc",
+          "from": {"data": "ticks"},
+          "encode": {
+            "enter": {
+              "x": {"signal": "centerXAgriculture"},
+              "y": {"signal": "centerYAgriculture"},
+              "outerRadius": {"signal": "outerRadiusAgriculture"},
+              "innerRadius": {"signal": "outerRadiusAgriculture - 20"},
+              "startAngle": {"scale": "gaugeScaleAgriculture", "field": "data"},
+              "endAngle": {"scale": "gaugeScaleAgriculture", "field": "data"},
+              "stroke": {"signal": "ticksColorAgriculture"},
+              "strokeWidth": {"value": 2}
+            }
+          }
+        },
+        {
+          "type": "text",
+          "name": "gaugeValueAgriculture",
+          "encode": {
+            "enter": {
+              "x": {"signal": "centerXAgriculture"},
+              "baseline": {"value": "top"},
+              "align": {"value": "center"}
+            },
+            "update": {
+              "text": {"signal": "format(mainValueAgriculture, '.2f') + unit"},
+              "y": {"signal": "centerYAgriculture", "offset": {"signal": "fontFactor * 5"}},
+              "fontSize": {"signal": "fontFactor * 14"}
+            }
+          }
+        },
+        {
+          "type": "symbol",
+          "name": "needleAgriculture",
+          "encode": {
+            "enter": {"x": {"signal": "centerXAgriculture"}, "y": {"signal": "centerYAgriculture"}},
+            "update": {
+              "angle": {"signal": "mainValueAgriculture", "scale": "gaugeScaleAgriculture"},
+              "size": {"signal": "4"},
+              "stroke": {"signal": "needleColorAgriculture"},
+              "fill": {"signal": "needleColorAgriculture"}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "title": "Waste Emissions in 2017",
+      "encode": {
+        "enter": {
+          "x": {"value": 1800},
+          "y": {"value": 0},
+          "width": {"value": 600},
+          "height": {"value": 600}
+        }
+      },
+      "signals": [
+        {"name": "mainValueWaste", "value": 28256.59 },
+        {"name": "centerXWaste", "value": 300},
+        {"name": "centerYWaste", "value": 300},
+        {"name": "outerRadiusWaste", "value": 280},
+        {"name": "innerRadiusWaste", "value": 240},
+        {"name": "fillColorWaste", "value": "#0000ff"},
+        {"name": "backgroundColorWaste", "value": "#ddd"},
+        {"name": "ticksColorWaste", "value": "#000"},
+        {"name": "needleColorWaste", "value": "#000"},
+        {"name": "needleSizeWaste", "value": 200}
+      ],
+      "scales": [
+        {
+          "name": "gaugeScaleWaste",
+          "type": "linear",
+          "domain": [0, 316563.05],
+          "range": [-1.5708, 1.5708]
+        }
+      ],
+      "marks": [
+        {
+          "type": "arc",
+          "encode": {
+            "enter": {
+              "x": {"signal": "centerXWaste"},
+              "y": {"signal": "centerYWaste"},
+              "startAngle": {"value": -1.5708},
+              "endAngle": {"value": 1.5708},
+              "outerRadius": {"signal": "outerRadiusWaste"},
+              "innerRadius": {"signal": "innerRadiusWaste"},
+              "fill": {"signal": "backgroundColorWaste"}
+            }
+          }
+        },
+        {
+          "type": "arc",
+          "encode": {
+            "enter": {"startAngle": {"value": -1.5708}},
+            "update": {
+              "x": {"signal": "centerXWaste"},
+              "y": {"signal": "centerYWaste"},
+              "innerRadius": {"signal": "innerRadiusWaste"},
+              "outerRadius": {"signal": "outerRadiusWaste"},
+              "endAngle": {"scale": "gaugeScaleWaste", "signal": "mainValueWaste"},
+              "fill": {"signal": "fillColorWaste"}
+            }
+          }
+        },
+        {
+          "type": "arc",
+          "description": "ticks on the arc",
+          "from": {"data": "ticks"},
+          "encode": {
+            "enter": {
+              "x": {"signal": "centerXWaste"},
+              "y": {"signal": "centerYWaste"},
+              "outerRadius": {"signal": "outerRadiusWaste"},
+              "innerRadius": {"signal": "outerRadiusWaste - 20"},
+              "startAngle": {"scale": "gaugeScaleWaste", "field": "data"},
+              "endAngle": {"scale": "gaugeScaleWaste", "field": "data"},
+              "stroke": {"signal": "ticksColorWaste"},
+              "strokeWidth": {"value": 2}
+            }
+          }
+        },
+        {
+          "type": "text",
+          "name": "gaugeValueWaste",
+          "encode": {
+            "enter": {
+              "x": {"signal": "centerXWaste"},
+              "baseline": {"value": "top"},
+              "align": {"value": "center"}
+            },
+            "update": {
+              "text": {"signal": "format(mainValueWaste, '.2f') + unit"},
+              "y": {"signal": "centerYWaste", "offset": {"signal": "fontFactor * 5"}},
+              "fontSize": {"signal": "fontFactor * 14"}
+            }
+          }
+        },
+        {
+          "type": "symbol",
+          "name": "needleWaste",
+          "encode": {
+            "enter": {"x": {"signal": "centerXWaste"}, "y": {"signal": "centerYWaste"}},
+            "update": {
+              "angle": {"signal": "mainValueWaste", "scale": "gaugeScaleWaste"},
+              "size": {"signal": "4"},
+              "stroke": {"signal": "needleColorWaste"},
+              "fill": {"signal": "needleColorWaste"}
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
