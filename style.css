@@ -6,10 +6,6 @@ body, html {
     box-sizing: border-box;
 }
 
-h1 {
-    font-weight: 900;
-}
-
 /* Page Layout */
 .page {
     max-width: 1200px; /* Increased max-width to make the page wider */
@@ -40,11 +36,12 @@ h1 {
 .vis-container {
     width: 100%;
     overflow: hidden;
-    margin-bottom: 60px;
+    margin-bottom: 0; /* Remove margin between containers */
     padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: white; /* Set background color to match page */
 }
 
 .vis-container > div {
@@ -66,7 +63,7 @@ h1 {
 }
 
 .stacked-container {
-    margin-bottom: 30px;
+    margin-bottom: 0; /* Remove bottom margin for stacked containers */
     width: 100%; /* Ensure it takes up the full width */
     overflow: hidden;
 }
@@ -110,7 +107,6 @@ h1 {
     overflow: hidden;
 }
 
-
 #map, #line-chart, #scatter-plot, #bar-chart {
     width: 100%;
     max-width: 100%;
@@ -125,22 +121,21 @@ h1 {
     box-sizing: border-box;  /* Include padding and border in the element's total width and height */
 }
 
-
 /* Content Rows */
 .pure-g {
     width: 100%;
-    margin-bottom: 40px;
+    margin-bottom: 0; /* Remove bottom margin between content rows */
     display: flex;
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
+    background-color: white; /* Set background color to match the page */
 }
 
 .pure-g > div {
-    background-color: #cccccc;
-    padding: 20px;
-    text-align: center;
-    margin-bottom: 60px;
+    background-color: white; /* Make each container background the same as the page */
+    padding: 0; /* Remove padding between each container */
+    margin-bottom: 0; /* Remove bottom margin */
     box-sizing: border-box;
     flex: 1 1 auto;
     max-width: 100%;
