@@ -1,0 +1,103 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "forest_with_honeycomb_positions.csv"
+    },
+    "transform": [
+      {
+        "filter": "datum.TIME_PERIOD == 2019"
+      },
+      {
+        "calculate": "datum.OBS_VALUE + ' (forest area indicator)'",
+        "as": "Tooltip"
+      }
+    ],
+    "width": 635,
+    "height": 370,
+    "encoding": {
+      "x": {
+        "field": "x_position",
+        "type": "quantitative",
+        "scale": { "domain": [0, 10] },
+        "axis": null
+      },
+      "y": {
+        "field": "y_position",
+        "type": "quantitative",
+        "scale": { "domain": [-5, 4] },
+        "axis": null
+      },
+      "strokeWidth": {
+        "condition": [{ "param": "highlight", "empty": false, "value": 1 }],
+        "value": 0
+      }
+    },
+    "layer": [
+      {
+        "params": [
+          {
+            "name": "highlight",
+            "select": { "type": "point", "on": "mouseover" }
+          }
+        ],
+        "mark": {
+          "type": "point",
+          "shape": "M-1.5,0 L-0.75,1.3 L0.75,1.3 L1.5,0 L0.75,-1.3 L-0.75,-1.3 Z",
+          "fill": {
+            "expr": "datum['Reference area'] === 'OK' ? '#C7C7C7' : ''"
+          }
+        },
+        "encoding": {
+          "tooltip": [
+            { "field": "Reference area", "title": "Country" },
+            { "field": "Tooltip", "title": "Forest Area Indicator" }
+          ]
+        }
+      },
+      {
+        "mark": {
+          "type": "point",
+          "shape": "M-1.5,0 L-0.75,1.3 L0.75,1.3 L1.5,0 L0.75,-1.3 L-0.75,-1.3 Z"
+        },
+        "encoding": {
+          "fill": {
+            "field": "OBS_VALUE",
+            "type": "quantitative",
+            "bin": false,
+            "scale": {
+              "domain": [0, 0.2, 0.4, 0.6, 0.8, 1.0],
+              "range": [
+                "#E5E48C",
+                "#DFB646",
+                "#E17B43",
+                "#CB4441",
+                "#962746",
+                "#6C1F4F"
+              ]
+            },
+            "legend": {
+              "title": "Forest Area Indicator (0-1)",
+              "values": [0, 0.2, 0.4, 0.6, 0.8, 1.0],
+              "orient": "right",
+              "offset": -250
+            }
+          }
+        }
+      },
+      {
+        "mark": {
+          "type": "text",
+          "color": "black",
+          "dx": 0,  
+          "dy": -2 
+        },
+        "encoding": { "text": { "field": "Reference area" } }
+      }
+    ],
+    "config": {
+      "view": { "stroke": null },
+      "point": { "size": 1200, "opacity": 1, "stroke": "black", "strokeOpacity": 1 },
+      "text": { "fontSize": 15 }
+    }
+  }
+  
