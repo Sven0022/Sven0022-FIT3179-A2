@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "text": "Forest Area Indicators",
+  "title": "Forest Area Indicators",
   "data": {
     "url": "forest_with_honeycomb_positions.csv"
   },
