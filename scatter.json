@@ -1,8 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Showing average data for all countries with raw values in the background, and the trend line for the selected country.",
+  "title": "Trends in Water and Sanitation-Related Assistance Selected vs. Global Average",
   "width": "container",  
-  "height": 400,
+  "height": 500,
   "data": {
     "url": "Amount of water- and sanitation-related.csv",
     "format": {"type": "csv"}
@@ -14,7 +15,7 @@
       "bind": {
         "input": "select",
         "options": ["Dominica","Equatorial Guinea","Niue","Saint Vincent and the Grenadines","Belarus","Guyana","Kazakhstan","Saint Lucia","Democratic People's Republic of Korea","Jamaica","Grenada","Tonga","Belize","Malaysia","Venezuela (Bolivarian Republic of)","Gabon","Libya","Samoa","Suriname","Eritrea","Azerbaijan","Botswana","Algeria","Tuvalu",
-"Micronesia (Federated States of)","North Macedonia","Solomon Islands","Bhutan","Iraq","Uzbekistan","Cameroon","Uganda","Costa Rica","Fiji","Zambia","Bolivia (Plurinational State of)","Mozambique","Peru","Lesotho","Liberia","Zimbabwe","Nepal","Maldives","Colombia","Nigeria","occupied Palestinian territory, including east Jerusalem","Montenegro","Nicaragua","Angola","Niger","Cambodia","Indonesia","Myanmar","Djibouti","Pakistan","Namibia","Nauru","Comoros","Cuba","Sierra Leone","Morocco","Serbia","Armenia","Republic of Moldova","Honduras","Dominican Republic","Tunisia","Ukraine","Cote d'Ivoire","Bangladesh","United Republic of Tanzania","Kenya","Sudan","Ethiopia","Benin","Chad","South Sudan","Guinea","Somalia","Thailand","Mauritius","Panama","Albania","Papua New Guinea","Mauritania","Viet Nam","Jordan","Congo","India","Kyrgyzstan","Togo","Madagascar","Iran (Islamic Republic of)","Timor-Leste","Egypt","Ecuador","Ghana","Palau","Guinea-Bissau","Paraguay","Cabo Verde","Haiti","Mongolia","Rwanda","Türkiye","Philippines","El Salvador","China","Marshall Islands","Sao Tome and Principe","Vanuatu","Gambia","South Africa","Brazil","Burkina Faso","Lebanon","Mali","Afghanistan","Sri Lanka","Burundi","Syrian Arab Republic","Bosnia and Herzegovina","Kiribati","Argentina","Yemen","Eswatini","Mexico","Central African Republic","Guatemala","Lao People's Democratic Republic","Senegal","Democratic Republic of the Congo","Tajikistan","Malawi","Montserrat","Saint Kitts and Nevis","Uruguay","Seychelles","Saint Helena","Anguilla","Cook Islands","Barbados","Oman","Croatia","Chile","Sao Tome and Principe"],
+        "Micronesia (Federated States of)","North Macedonia","Solomon Islands","Bhutan","Iraq","Uzbekistan","Cameroon","Uganda","Costa Rica","Fiji","Zambia","Bolivia (Plurinational State of)","Mozambique","Peru","Lesotho","Liberia","Zimbabwe","Nepal","Maldives","Colombia","Nigeria","occupied Palestinian territory, including east Jerusalem","Montenegro","Nicaragua","Angola","Niger","Cambodia","Indonesia","Myanmar","Djibouti","Pakistan","Namibia","Nauru","Comoros","Cuba","Sierra Leone","Morocco","Serbia","Armenia","Republic of Moldova","Honduras","Dominican Republic","Tunisia","Ukraine","Cote d'Ivoire","Bangladesh","United Republic of Tanzania","Kenya","Sudan","Ethiopia","Benin","Chad","South Sudan","Guinea","Somalia","Thailand","Mauritius","Panama","Albania","Papua New Guinea","Mauritania","Viet Nam","Jordan","Congo","India","Kyrgyzstan","Togo","Madagascar","Iran (Islamic Republic of)","Timor-Leste","Egypt","Ecuador","Ghana","Palau","Guinea-Bissau","Paraguay","Cabo Verde","Haiti","Mongolia","Rwanda","Türkiye","Philippines","El Salvador","China","Marshall Islands","Sao Tome and Principe","Vanuatu","Gambia","South Africa","Brazil","Burkina Faso","Lebanon","Mali","Afghanistan","Sri Lanka","Burundi","Syrian Arab Republic","Bosnia and Herzegovina","Kiribati","Argentina","Yemen","Eswatini","Mexico","Central African Republic","Guatemala","Lao People's Democratic Republic","Senegal","Democratic Republic of the Congo","Tajikistan","Malawi","Montserrat","Saint Kitts and Nevis","Uruguay","Seychelles","Saint Helena","Anguilla","Cook Islands","Barbados","Oman","Croatia","Chile","Sao Tome and Principe"],
         "name": "Choose a country: "
       }
     }
@@ -24,20 +25,29 @@
       "mark": {"type": "point", "opacity": 0.3},
       "encoding": {
         "x": {"timeUnit": "year", "field": "Period", "type": "temporal", "title": "Year"},
-        "y": {"field": "Value", "type": "quantitative", "title": "Value"},
+        "y": {"field": "Value", "type": "quantitative", "title": "Water and Sanitation-related Value"},
         "color": {
           "field": "Location", 
           "type": "nominal",
           "title": "Country",
           "legend": null  
-        }
+        },
+        "tooltip": [
+          {"field": "Location", "title": "Country"},
+          {"field": "Period", "title": "Year"},
+          {"field": "Value", "title": "Value"}
+        ]
       }
     },
     {
       "mark": {"type": "line", "color": "red", "size": 3},
       "encoding": {
         "x": {"timeUnit": "year", "field": "Period", "type": "temporal", "title": "Year"},
-        "y": {"aggregate": "mean", "field": "Value", "type": "quantitative", "title": "Average Value"}
+        "y": {"aggregate": "mean", "field": "Value", "type": "quantitative", "title": null},
+        "tooltip": [
+          {"field": "Period", "title": "Year"},
+          {"aggregate": "mean", "field": "Value", "title": "Average Value"}
+        ]
       }
     },
     {
@@ -49,7 +59,29 @@
       "mark": {"type": "line", "color": "blue", "size": 3, "opacity": 0.7},
       "encoding": {
         "x": {"timeUnit": "year", "field": "Period", "type": "temporal", "title": "Year"},
-        "y": {"field": "Value", "type": "quantitative", "title": "Value"}
+        "y": {"field": "Value", "type": "quantitative", "title": null},
+        "tooltip": [
+          {"field": "Location", "title": "Country"},
+          {"field": "Period", "title": "Year"},
+          {"field": "Value", "title": "Value"}
+        ]
+      }
+    },
+    {
+      "mark": {"type": "text", "color": "blue", "align": "right", "dx": -5, "dy": -5},
+      "encoding": {
+        "x": {"aggregate": "max", "field": "Period", "type": "temporal"},
+        "y": {"aggregate": "max", "field": "Value", "type": "quantitative"},
+        "tooltip": [{"field": "Location", "title": "Country"},
+        {"field": "Period", "title": "Year"},
+        {"field": "Value", "title": "Value"}]
+      }
+    },
+    {
+      "mark": {"type": "text", "color": "red", "align": "right", "dx": -5, "dy": -5},
+      "encoding": {
+        "x": {"aggregate": "max", "field": "Period", "type": "temporal"},
+        "y": {"aggregate": "max", "field": "Value", "type": "quantitative"}
       }
     }
   ]
