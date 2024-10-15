@@ -118,8 +118,10 @@ body, html {
 }
 
 #marimekko-chart {
-    width: 100%;     /* Ensure the chart takes the full width of its container */
-    height: 600px;   /* Adjust the height as needed */
+    width: 100%; 
+    max-width: 100%;
+    /* Ensure the chart takes the full width of its container */
+    height: 500px;   /* Adjust the height as needed */
     overflow: hidden;
     box-sizing: border-box;  /* Include padding and border in the element's total width and height */
 }
