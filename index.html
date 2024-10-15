@@ -15,7 +15,7 @@
 <body>
     <div class="page"> 
         <div class="bubble-title">
-            Global Environmental and Health Trends
+            Environmental Impacts on the World
         </div>
  
         <div class="pure-g">
@@ -61,18 +61,15 @@
         </div>
 
         <!-- Bar and Marimekko charts side by side -->
-        <!-- Bar and Marimekko charts side by side -->
-<div class="pure-g">
-  <div class="pure-u-1-2 vis-container">
-      <div id="bar-chart"></div>
-  </div>
-  <div class="pure-u-1-2 vis-container">
-      <div id="marimekko-chart"></div>
-      <!-- Add the Play button here -->
-      <button id="playButton" class="pure-button pure-button-primary">Play</button>
-  </div>
-</div>
-
+        <div class="pure-g">
+          <div class="pure-u-1-2 vis-container">
+              <div id="bar-chart"></div>
+          </div>
+          <div class="pure-u-1-2 vis-container">
+              <div id="marimekko-chart"></div>
+              <button id="playButton" class="pure-button pure-button-primary">Play</button>
+          </div>
+      </div>
 
         <!-- Text block after Bar and Marimekko charts -->
         <div class="pure-g">
@@ -81,7 +78,7 @@
                   <p>
                     The first chart on the left illustrates the <b>Top 10 Countries by Deaths for Noncommunicable Diseases</b>. The bar heights represent the death count, with the highest number of deaths occurring in the <b>Russian Federation</b>, followed by <b>Indonesia</b> and the <b>United States of America</b>. The remaining countries have progressively fewer deaths.
 
-                    The second chart on the right displays <b>Safe Water Access and Basic Sanitation for Urban and Rural Areas</b> across various countries. Each bar is segmented to show <span style="color:blue; font-weight:bold;"> rural safe drinking water</span>, <span style="color:orange; font-weight:bold;">urban safe drinking water</span> , and population without safe water in <span style="color:red; font-weight:bold;">Urban</span> and <span style="color:rgb(112, 36, 96); font-weight:bold;">rural</span>. It highlights the differences in access to safe water and sanitation between urban and rural populations, where urban areas tend to have better access than rural regions. The slider below the graph allows the user to select a specific year to view trends.
+                    The second chart on the right displays <b>Safe Water Access and Basic Sanitation for Urban and Rural Areas</b> across various countries. Each bar is segmented to show <span style="color:blue; font-weight:bold;">rural safe drinking water</span>, <span style="color:orange; font-weight:bold;">urban safe drinking water</span> , and population without safe water in <span style="color:red; font-weight:bold;">Urban</span> and <span style="color:rgb(112, 36, 96); font-weight:bold;">rural</span>. It highlights the differences in access to safe water and sanitation between urban and rural populations, where urban areas tend to have better access than rural regions. The slider below the graph allows the user to select a specific year to view trends.
                                       </p>
               </div>
           </div>
@@ -122,19 +119,37 @@
       var playing = false; 
       var interval; 
 
-      // Embed the charts
-      vegaEmbed('#map', specMap, { "actions": false }).catch(console.error);
-      vegaEmbed('#line-chart', specLineChart, { "actions": false }).catch(console.error);
-      vegaEmbed('#scatter-plot', specScatterPlot, { "actions": false }).catch(console.error);
-      vegaEmbed('#bar-chart', specBarChart, { "actions": false }).catch(console.error);
-      vegaEmbed('#gauge-chart', specgauge, { "actions": false }).catch(console.error);
-      vegaEmbed('#marimekko-chart', specMarimekkoChart, { "actions": false }).then(function(result) {
-        viewMarimekko = result.view;
-        viewMarimekko.signal("selectedYear", year).run(); 
-      }).catch(console.error);
+// Embed the charts and access the Vega view instances
+var viewMap, viewLineChart, viewScatterPlot, viewBarChart, viewGaugeChart, viewBumpChart;
 
-      // Embed the bump chart in the bottom 
-      vegaEmbed('#bump-chart', specBumpChart, { "actions": false }).catch(console.error);
+vegaEmbed('#map', specMap, { "actions": true }).then(function(result) {
+  viewMap = result.view;
+}).catch(console.error);
+
+vegaEmbed('#line-chart', specLineChart, { "actions": true }).then(function(result) {
+  viewLineChart = result.view;
+}).catch(console.error);
+
+vegaEmbed('#scatter-plot', specScatterPlot, { "actions": true }).then(function(result) {
+  viewScatterPlot = result.view;
+}).catch(console.error);
+
+vegaEmbed('#bar-chart', specBarChart, { "actions": true }).then(function(result) {
+  viewBarChart = result.view;
+}).catch(console.error);
+
+vegaEmbed('#gauge-chart', specgauge, { "actions": true }).then(function(result) {
+  viewGaugeChart = result.view;
+}).catch(console.error);
+
+vegaEmbed('#marimekko-chart', specMarimekkoChart, { "actions": true }).then(function(result) {
+  viewMarimekko = result.view;
+  viewMarimekko.signal("selectedYear", year).run(); 
+}).catch(console.error);
+
+vegaEmbed('#bump-chart', specBumpChart, { "actions": true }).then(function(result) {
+  viewBumpChart = result.view;
+}).catch(console.error);
 
       function playMarimekko() {
         if (playing) {
