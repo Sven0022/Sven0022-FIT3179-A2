@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Household Air Pollution and Related Deaths",
   "width": "container",
-  "height": "container",
+  "height": 500,
   "projection": {"type": "equalEarth"},
   "layer": [
     {
