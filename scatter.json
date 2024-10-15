@@ -3,7 +3,7 @@
   "description": "Showing average data for all countries with raw values in the background, and the trend line for the selected country.",
   "title": "Trends in Water and Sanitation-Related Assistance Selected vs. Global Average",
   "width": "container",  
-  "height": 500,
+  "height": 450,
   "data": {
     "url": "Amount of water- and sanitation-related.csv",
     "format": {"type": "csv"}
