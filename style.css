@@ -102,6 +102,8 @@ body, html {
 /* Adjust height and width for the slider chart */
 #gauge-chart {
     width: 100%;
+    justify-content: center;
+    align-items: center;
     height: 200px;  /* Updated height from 600px to 200px */
     margin-top: 20px;
     overflow: hidden;
