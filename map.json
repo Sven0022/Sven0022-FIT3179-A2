@@ -1,9 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Household Air Pollution and Related Deaths",
-  "width": "container",
-  "height": "container",
-  "autosize": {"type": "fit", "contains": "padding"},
+  "width": 800,
+  "height": 400,
+  "background": "#cce5ff",  
   "projection": {"type": "equalEarth"},
   "layer": [
     {
@@ -29,13 +29,23 @@
         "color": {
           "field": "FactValueNumeric",
           "type": "quantitative",
-          "title": "Pollution Value"
+          "title": "Pollution Value",
+          "condition": {
+            "test": "isValid(datum.FactValueNumeric)",  // Countries with data
+            "field": "FactValueNumeric",
+            "type": "quantitative"
+          },
+          "value": "lightgrey"  // Countries with missing data
         },
         "tooltip": [
           {"field": "properties.NAME", "type": "nominal", "title": "Country"},
           {"field": "FactValueNumeric", "type": "quantitative", "title": "Pollution Value"}
         ]
       }
+    },
+    {
+      "data": {"graticule": true},
+      "mark": {"type": "geoshape", "stroke": "white", "strokeWidth": 0.5}
     },
     {
       "data": {
