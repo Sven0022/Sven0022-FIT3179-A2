@@ -25,17 +25,28 @@
       "filter": "datum.Period == selectedYear"
     },
     {
-      "filter": {
-        "field": "Location",
-        "oneOf": ["Malaysia", "India", "Thailand", "Vietnam", "Indonesia"]
-      }
+      "filter": "datum.Rural_safe > 0 && datum.Urban_safe > 0 && datum.Rural_atleast > 0 && datum.Urban_atleast > 0"
+    },
+    {
+      "calculate": "datum.Total_safe + datum.Total_atleast",
+      "as": "Total_population"
+    },
+    {
+      "window": [{"op": "rank", "as": "rank"}],
+      "sort": [{"field": "Total_population", "order": "descending"}]
+    },
+    {
+      "filter": "datum.rank <= 5"
     },
     {
       "fold": ["Rural_safe", "Urban_safe", "Rural_atleast", "Urban_atleast"],
       "as": ["Region", "Value"]
     }
   ],
-  "mark": "bar",
+  "mark": {
+    "type": "bar",
+    "size": 30
+  },
   "encoding": {
     "x": {
       "field": "Location",
