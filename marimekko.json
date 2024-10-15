@@ -45,7 +45,7 @@
   ],
   "mark": {
     "type": "bar",
-    "size": 50  // Increase the bar thickness
+    "size": 50  
   },
   "encoding": {
     "x": {
