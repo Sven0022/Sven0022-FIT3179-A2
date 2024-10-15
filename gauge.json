@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "title": "Greenhouse Gas Emissions by Sector",
-  "width": 500,
-  "height": 200,
+  "width": 1000,
+  "height": 300,
   "signals": [
     {"name": "PI", "value": 3.141592653589793},
     {"name": "fontFactor", "value": 0.5},
@@ -11,7 +11,7 @@
   "data": [
     {
       "name": "ticks",
-      "values": [0, 100000, 200000, 330358.21      ]
+      "values": [0, 100000, 200000, 330358.21]
     }
   ],
   "marks": [
@@ -20,23 +20,23 @@
       "title": "Energy Emission",
       "encode": {
         "enter": {
-          "x": {"value": 0},
-          "y": {"value": 0},
-          "width": {"value": 120},
-          "height": {"value": 200}
+          "x": {"value": 50},
+          "y": {"value": 50},
+          "width": {"value": 150},
+          "height": {"value": 250}
         }
       },
       "signals": [
         {"name": "mainValueEnergy", "value": 259326.11},
-        {"name": "centerX", "value": 60},
-        {"name": "centerY", "value": 100},
-        {"name": "outerRadius", "value": 50},
-        {"name": "innerRadius", "value": 40},
+        {"name": "centerX", "value": 75},
+        {"name": "centerY", "value": 125},
+        {"name": "outerRadius", "value": 100},
+        {"name": "innerRadius", "value": 80},
         {"name": "fillColor", "value": "#ff0000"},
         {"name": "backgroundColor", "value": "#ddd"},
         {"name": "ticksColor", "value": "#000"},
         {"name": "needleColor", "value": "#000"},
-        {"name": "needleSize", "value": 50}
+        {"name": "needleSize", "value": 100}
       ],
       "scales": [
         {
@@ -84,7 +84,7 @@
               "x": {"signal": "centerX"},
               "y": {"signal": "centerY"},
               "outerRadius": {"signal": "outerRadius"},
-              "innerRadius": {"signal": "outerRadius - 10"},
+              "innerRadius": {"signal": "outerRadius -20"},
               "startAngle": {"scale": "gaugeScaleEnergy", "field": "data"},
               "endAngle": {"scale": "gaugeScaleEnergy", "field": "data"},
               "stroke": {"signal": "ticksColor"},
@@ -94,17 +94,14 @@
         },
         {
           "type": "text",
-          "name": "gaugeValue",
           "encode": {
             "enter": {
               "x": {"signal": "centerX"},
-              "baseline": {"value": "top"},
-              "align": {"value": "center"}
-            },
-            "update": {
+              "y": {"signal": "centerY + 50"}, 
               "text": {"signal": "format(mainValueEnergy, '.2f') + unit"},
-              "y": {"signal": "centerY", "offset": {"signal": "fontFactor * 10"}},
-              "fontSize": {"signal": "fontFactor * 7"}
+              "align": {"value": "center"},
+              "baseline": {"value": "top"},
+              "fontSize": {"signal": "fontFactor * 30"} 
             }
           }
         },
@@ -112,10 +109,10 @@
           "type": "symbol",
           "name": "needle",
           "encode": {
-            "enter": {"x": {"signal": "centerX"}, "y": {"signal": "centerY"}},
-            "update": {
-              "angle": {"signal": "mainValueEnergy", "scale": "gaugeScaleEnergy"},
-              "size": {"signal": "2"},
+            "enter": {
+              "x": {"signal": "centerX"},
+              "y": {"signal": "centerY"},
+              "angle": {"scale": "gaugeScaleEnergy", "signal": "mainValueEnergy"},
               "stroke": {"signal": "needleColor"},
               "fill": {"signal": "needleColor"}
             }
@@ -128,29 +125,29 @@
       "title": "Industrial Emission",
       "encode": {
         "enter": {
-          "x": {"value": 125},
-          "y": {"value": 0},
-          "width": {"value": 120},
-          "height": {"value": 200}
+          "x": {"value": 288},
+          "y": {"value": 50},
+          "width": {"value": 150},
+          "height": {"value": 250}
         }
       },
       "signals": [
         {"name": "mainValueIndustrial", "value": 32853.8},
-        {"name": "centerX", "value": 60},
-        {"name": "centerY", "value": 100},
-        {"name": "outerRadius", "value": 50},
-        {"name": "innerRadius", "value": 40},
+        {"name": "centerX", "value": 75},
+        {"name": "centerY", "value": 125},
+        {"name": "outerRadius", "value": 100},
+        {"name": "innerRadius", "value": 80},
         {"name": "fillColor", "value": "#ff8000"},
         {"name": "backgroundColor", "value": "#ddd"},
         {"name": "ticksColor", "value": "#000"},
         {"name": "needleColor", "value": "#000"},
-        {"name": "needleSize", "value": 50}
+        {"name": "needleSize", "value": 100}
       ],
       "scales": [
         {
           "name": "gaugeScaleIndustrial",
           "type": "linear",
-          "domain": [0, 330358.21 ],
+          "domain": [0, 330358.21],
           "range": [-1.5708, 1.5708]
         }
       ],
@@ -192,7 +189,7 @@
               "x": {"signal": "centerX"},
               "y": {"signal": "centerY"},
               "outerRadius": {"signal": "outerRadius"},
-              "innerRadius": {"signal": "outerRadius - 10"},
+              "innerRadius": {"signal": "outerRadius -20"},
               "startAngle": {"scale": "gaugeScaleIndustrial", "field": "data"},
               "endAngle": {"scale": "gaugeScaleIndustrial", "field": "data"},
               "stroke": {"signal": "ticksColor"},
@@ -202,17 +199,14 @@
         },
         {
           "type": "text",
-          "name": "gaugeValue",
           "encode": {
             "enter": {
               "x": {"signal": "centerX"},
-              "baseline": {"value": "top"},
-              "align": {"value": "center"}
-            },
-            "update": {
+              "y": {"signal": "centerY + 50"},
               "text": {"signal": "format(mainValueIndustrial, '.2f') + unit"},
-              "y": {"signal": "centerY", "offset": {"signal": "fontFactor * 10"}},
-              "fontSize": {"signal": "fontFactor * 7"}
+              "align": {"value": "center"},
+              "baseline": {"value": "top"},
+              "fontSize": {"signal": "fontFactor * 30"}
             }
           }
         },
@@ -220,10 +214,10 @@
           "type": "symbol",
           "name": "needle",
           "encode": {
-            "enter": {"x": {"signal": "centerX"}, "y": {"signal": "centerY"}},
-            "update": {
-              "angle": {"signal": "mainValueIndustrial", "scale": "gaugeScaleIndustrial"},
-              "size": {"signal": "2"},
+            "enter": {
+              "x": {"signal": "centerX"},
+              "y": {"signal": "centerY"},
+              "angle": {"scale": "gaugeScaleIndustrial", "signal": "mainValueIndustrial"},
               "stroke": {"signal": "needleColor"},
               "fill": {"signal": "needleColor"}
             }
@@ -236,23 +230,23 @@
       "title": "Agriculture Emission",
       "encode": {
         "enter": {
-          "x": {"value": 250},
-          "y": {"value": 0},
-          "width": {"value": 120},
-          "height": {"value": 200}
+          "x": {"value": 526},
+          "y": {"value": 50},
+          "width": {"value": 150},
+          "height": {"value": 250}
         }
       },
       "signals": [
         {"name": "mainValueAgriculture", "value": 9921.71},
-        {"name": "centerX", "value": 60},
-        {"name": "centerY", "value": 100},
-        {"name": "outerRadius", "value": 50},
-        {"name": "innerRadius", "value": 40},
+        {"name": "centerX", "value": 75},
+        {"name": "centerY", "value": 125},
+        {"name": "outerRadius", "value": 100},
+        {"name": "innerRadius", "value": 80},
         {"name": "fillColor", "value": "#00ff00"},
         {"name": "backgroundColor", "value": "#ddd"},
         {"name": "ticksColor", "value": "#000"},
         {"name": "needleColor", "value": "#000"},
-        {"name": "needleSize", "value": 50}
+        {"name": "needleSize", "value": 100}
       ],
       "scales": [
         {
@@ -300,7 +294,7 @@
               "x": {"signal": "centerX"},
               "y": {"signal": "centerY"},
               "outerRadius": {"signal": "outerRadius"},
-              "innerRadius": {"signal": "outerRadius - 10"},
+              "innerRadius": {"signal": "outerRadius - 20"},
               "startAngle": {"scale": "gaugeScaleAgriculture", "field": "data"},
               "endAngle": {"scale": "gaugeScaleAgriculture", "field": "data"},
               "stroke": {"signal": "ticksColor"},
@@ -310,17 +304,14 @@
         },
         {
           "type": "text",
-          "name": "gaugeValue",
           "encode": {
             "enter": {
               "x": {"signal": "centerX"},
-              "baseline": {"value": "top"},
-              "align": {"value": "center"}
-            },
-            "update": {
+              "y": {"signal": "centerY + 50"},
               "text": {"signal": "format(mainValueAgriculture, '.2f') + unit"},
-              "y": {"signal": "centerY", "offset": {"signal": "fontFactor * 10"}},
-              "fontSize": {"signal": "fontFactor * 7"}
+              "align": {"value": "center"},
+              "baseline": {"value": "top"},
+              "fontSize": {"signal": "fontFactor * 30"}
             }
           }
         },
@@ -328,10 +319,10 @@
           "type": "symbol",
           "name": "needle",
           "encode": {
-            "enter": {"x": {"signal": "centerX"}, "y": {"signal": "centerY"}},
-            "update": {
-              "angle": {"signal": "mainValueAgriculture", "scale": "gaugeScaleAgriculture"},
-              "size": {"signal": "2"},
+            "enter": {
+              "x": {"signal": "centerX"},
+              "y": {"signal": "centerY"},
+              "angle": {"scale": "gaugeScaleAgriculture", "signal": "mainValueAgriculture"},
               "stroke": {"signal": "needleColor"},
               "fill": {"signal": "needleColor"}
             }
@@ -344,23 +335,23 @@
       "title": "Waste Emission",
       "encode": {
         "enter": {
-          "x": {"value": 375},
-          "y": {"value": 0},
-          "width": {"value": 120},
-          "height": {"value": 200}
+          "x": {"value": 764},
+          "y": {"value": 50},
+          "width": {"value": 150},
+          "height": {"value": 250}
         }
       },
       "signals": [
         {"name": "mainValueWaste", "value": 28256.59},
-        {"name": "centerX", "value": 60},
-        {"name": "centerY", "value": 100},
-        {"name": "outerRadius", "value": 50},
-        {"name": "innerRadius", "value": 40},
+        {"name": "centerX", "value": 75},
+        {"name": "centerY", "value": 125},
+        {"name": "outerRadius", "value": 100},
+        {"name": "innerRadius", "value": 80},
         {"name": "fillColor", "value": "#0000ff"},
         {"name": "backgroundColor", "value": "#ddd"},
         {"name": "ticksColor", "value": "#000"},
         {"name": "needleColor", "value": "#000"},
-        {"name": "needleSize", "value": 50}
+        {"name": "needleSize", "value": 100}
       ],
       "scales": [
         {
@@ -408,7 +399,7 @@
               "x": {"signal": "centerX"},
               "y": {"signal": "centerY"},
               "outerRadius": {"signal": "outerRadius"},
-              "innerRadius": {"signal": "outerRadius - 10"},
+              "innerRadius": {"signal": "outerRadius - 20"},
               "startAngle": {"scale": "gaugeScaleWaste", "field": "data"},
               "endAngle": {"scale": "gaugeScaleWaste", "field": "data"},
               "stroke": {"signal": "ticksColor"},
@@ -418,17 +409,14 @@
         },
         {
           "type": "text",
-          "name": "gaugeValue",
           "encode": {
             "enter": {
               "x": {"signal": "centerX"},
-              "baseline": {"value": "top"},
-              "align": {"value": "center"}
-            },
-            "update": {
+              "y": {"signal": "centerY + 50"},
               "text": {"signal": "format(mainValueWaste, '.2f') + unit"},
-              "y": {"signal": "centerY", "offset": {"signal": "fontFactor * 10"}},
-              "fontSize": {"signal": "fontFactor * 7"}
+              "align": {"value": "center"},
+              "baseline": {"value": "top"},
+              "fontSize": {"signal": "fontFactor * 30"}
             }
           }
         },
@@ -436,10 +424,10 @@
           "type": "symbol",
           "name": "needle",
           "encode": {
-            "enter": {"x": {"signal": "centerX"}, "y": {"signal": "centerY"}},
-            "update": {
-              "angle": {"signal": "mainValueWaste", "scale": "gaugeScaleWaste"},
-              "size": {"signal": "2"},
+            "enter": {
+              "x": {"signal": "centerX"},
+              "y": {"signal": "centerY"},
+              "angle": {"scale": "gaugeScaleWaste", "signal": "mainValueWaste"},
               "stroke": {"signal": "needleColor"},
               "fill": {"signal": "needleColor"}
             }
