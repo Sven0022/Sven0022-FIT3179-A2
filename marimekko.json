@@ -45,7 +45,7 @@
   ],
   "mark": {
     "type": "bar",
-    "size": 30
+    "size": 50  // Increase the bar thickness
   },
   "encoding": {
     "x": {
@@ -65,9 +65,13 @@
       "type": "nominal",
       "scale": {
         "domain": ["Rural_safe", "Urban_safe", "Rural_atleast", "Urban_atleast"],
-        "range": ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728"]
+        "range": ["blue", "orange", "rgb(112, 36, 96)", "red"]
       },
-      "title": "Region"
+      "title": "Water and Sanitation Access",
+      "legend": {
+        "title": "Water and Sanitation Access",
+        "labelExpr": "datum.value === 'Rural_safe' ? 'Rural Safe Drinking Water' : datum.value === 'Urban_safe' ? 'Urban Safe Drinking Water' : datum.value === 'Rural_atleast' ? 'Rural Without Safe Water' : 'Urban Without Safe Water'"
+      }
     },
     "tooltip": [
       {"field": "Location", "title": "Country"},
