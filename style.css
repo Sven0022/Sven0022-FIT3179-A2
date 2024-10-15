@@ -49,6 +49,10 @@ body, html {
     width: 100%;
     height: 500px; /* Adjust height based on your container's aspect ratio */
 }
+#map {
+  width: 100%;
+  height: 500px; /* You can adjust the height as needed */
+}
 
 @media (max-width: 768px) {
     .page {
