@@ -31,11 +31,11 @@
           "type": "quantitative",
           "title": "Pollution Value",
           "condition": {
-            "test": "isValid(datum.FactValueNumeric)",  // Countries with data
+            "test": "isValid(datum.FactValueNumeric)", 
             "field": "FactValueNumeric",
             "type": "quantitative"
           },
-          "value": "lightgrey"  // Countries with missing data
+          "value": "lightgrey"  
         },
         "tooltip": [
           {"field": "properties.NAME", "type": "nominal", "title": "Country"},
