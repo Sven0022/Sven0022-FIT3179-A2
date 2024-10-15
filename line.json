@@ -1,10 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Trends in Open Defecation vs Handwashing for Selected Country",
   "data": {
     "url": "merged_sanitation_data.csv",
     "format": {"type": "csv"}
   },
-  "width": "container",  
+  "width": "container",
   "height": 400,
   "params": [
     {
@@ -22,7 +23,6 @@
       "filter": "datum.Location == selectedCountry"
     }
   ],
-  "mark": "line",
   "encoding": {
     "x": {
       "field": "Period",
@@ -32,27 +32,38 @@
     "y": {
       "field": "value",
       "type": "quantitative",
-      "title": "Percentage"
+      "title": "Sanitation Indicator Percentage"
     },
     "color": {
       "field": "variable",
       "type": "nominal",
       "title": "Sanitation Indicator"
-    }
+    },
+    "tooltip": [
+      {"field": "Period", "title": "Year"},
+      {"field": "value", "title": "Sanitation Indicator Percentage"},
+      {"field": "variable", "title": "Sanitation Indicator"}
+    ]
   },
   "layer": [
     {
       "mark": "line",
       "encoding": {
         "y": {"field": "Total_defacation", "type": "quantitative"},
-        "color": {"value": "#1f77b4"}
+        "color": {"value": "#1f77b4"},
+        "tooltip": [
+          {"field": "Total_defacation", "title": "Open Defecation (%)"}
+        ]
       }
     },
     {
       "mark": "line",
       "encoding": {
         "y": {"field": "Total_handwash", "type": "quantitative"},
-        "color": {"value": "#ff7f0e"}
+        "color": {"value": "#ff7f0e"},
+        "tooltip": [
+          {"field": "Total_handwash", "title": "Handwashing Facilities (%)"}
+        ]
       }
     }
   ]
