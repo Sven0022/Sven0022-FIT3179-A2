@@ -101,13 +101,15 @@ body, html {
 
 /* Adjust height and width for the slider chart */
 #gauge-chart {
-    width: 100%;
-    justify-content: center;
+    display: flex;
+    justify-content: center; /* Centers the chart horizontally */
     align-items: center;
-    height: 200px;  /* Updated height from 600px to 200px */
-    margin-top: 20px;
-    overflow: hidden;
+    height: 200px;  /* Keep the height as needed */
+    margin: 0 auto; /* Centers the chart horizontally in its container */
+    position: relative; /* Position the chart relative to its container */
+    top: 10%; /* Adjust this value to move the chart further down or up */
 }
+
 
 #map, #line-chart, #scatter-plot, #bar-chart {
     width: 100%;
